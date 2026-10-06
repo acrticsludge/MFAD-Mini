@@ -1,0 +1,23 @@
+[project]
+name = "iplranking"
+version = "0.1.0"
+description = "IPL power ranking — Strang problem #5, least squares on run margins + Colley eigenvectors"
+requires-python = ">=3.11"
+
+# No build backend on purpose. `AGENTS.md` section 8 fixes the stack to
+# Python 3 + NumPy + Pandas + Matplotlib + pytest, and everything must run from
+# a clean clone with no network access. Declaring a build backend would make
+# `pip install -e .` (and therefore the test run) require a network fetch or a
+# locally-built wheel, for no gain: pytest imports the package by putting
+# `src/` on `sys.path` via the `pythonpath` setting below. Nothing is installed.
+dependencies = [
+    "numpy",
+    "pandas",
+    "matplotlib",
+    "pytest",
+]
+
+[tool.pytest.ini_options]
+# `python -m pytest -q` from ipl-power-ranking/ must work with no install step.
+pythonpath = ["src"]
+testpaths = ["tests"]

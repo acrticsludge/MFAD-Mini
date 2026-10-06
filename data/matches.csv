@@ -1,0 +1,1244 @@
+match_id,date,season,team1,team2,winner,margin_runs,margin_wickets,method,is_super_over,canonical_team1,canonical_team2
+335982,2008-04-18,2007/08,Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,140,,,False,Royal Challengers Bengaluru,Kolkata Knight Riders
+335983,2008-04-19,2007/08,Kings XI Punjab,Chennai Super Kings,Chennai Super Kings,33,,,False,Punjab Kings,Chennai Super Kings
+335984,2008-04-19,2007/08,Delhi Daredevils,Rajasthan Royals,Delhi Daredevils,,9,,False,Delhi Capitals,Rajasthan Royals
+335985,2008-04-20,2007/08,Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,,5,,False,Mumbai Indians,Royal Challengers Bengaluru
+335986,2008-04-20,2007/08,Kolkata Knight Riders,Deccan Chargers,Kolkata Knight Riders,,5,,False,Kolkata Knight Riders,Deccan Chargers
+335987,2008-04-21,2007/08,Rajasthan Royals,Kings XI Punjab,Rajasthan Royals,,6,,False,Rajasthan Royals,Punjab Kings
+335988,2008-04-22,2007/08,Deccan Chargers,Delhi Daredevils,Delhi Daredevils,,9,,False,Deccan Chargers,Delhi Capitals
+335989,2008-04-23,2007/08,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,6,,,False,Chennai Super Kings,Mumbai Indians
+335990,2008-04-24,2007/08,Deccan Chargers,Rajasthan Royals,Rajasthan Royals,,3,,False,Deccan Chargers,Rajasthan Royals
+335991,2008-04-25,2007/08,Kings XI Punjab,Mumbai Indians,Kings XI Punjab,66,,,False,Punjab Kings,Mumbai Indians
+335992,2008-04-26,2007/08,Royal Challengers Bangalore,Rajasthan Royals,Rajasthan Royals,,7,,False,Royal Challengers Bengaluru,Rajasthan Royals
+335993,2008-04-26,2007/08,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,,9,,False,Chennai Super Kings,Kolkata Knight Riders
+335994,2008-04-27,2007/08,Mumbai Indians,Deccan Chargers,Deccan Chargers,,10,,False,Mumbai Indians,Deccan Chargers
+335995,2008-04-27,2007/08,Kings XI Punjab,Delhi Daredevils,Kings XI Punjab,,4,,False,Punjab Kings,Delhi Capitals
+335996,2008-04-28,2007/08,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,13,,,False,Royal Challengers Bengaluru,Chennai Super Kings
+335997,2008-04-29,2007/08,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,,7,,False,Kolkata Knight Riders,Mumbai Indians
+335998,2008-04-30,2007/08,Delhi Daredevils,Royal Challengers Bangalore,Delhi Daredevils,10,,,False,Delhi Capitals,Royal Challengers Bengaluru
+335999,2008-05-01,2007/08,Deccan Chargers,Kings XI Punjab,Kings XI Punjab,,7,,False,Deccan Chargers,Punjab Kings
+336000,2008-05-01,2007/08,Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,45,,,False,Rajasthan Royals,Kolkata Knight Riders
+336001,2008-05-02,2007/08,Chennai Super Kings,Delhi Daredevils,Delhi Daredevils,,8,,False,Chennai Super Kings,Delhi Capitals
+336003,2008-05-03,2007/08,Kings XI Punjab,Kolkata Knight Riders,Kings XI Punjab,9,,,False,Punjab Kings,Kolkata Knight Riders
+336034,2008-05-03,2007/08,Royal Challengers Bangalore,Deccan Chargers,Royal Challengers Bangalore,3,,,False,Royal Challengers Bengaluru,Deccan Chargers
+336004,2008-05-04,2007/08,Mumbai Indians,Delhi Daredevils,Mumbai Indians,29,,,False,Mumbai Indians,Delhi Capitals
+336005,2008-05-04,2007/08,Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,,8,,False,Rajasthan Royals,Chennai Super Kings
+336006,2008-05-05,2007/08,Royal Challengers Bangalore,Kings XI Punjab,Kings XI Punjab,,6,,False,Royal Challengers Bengaluru,Punjab Kings
+336007,2008-05-06,2007/08,Chennai Super Kings,Deccan Chargers,Deccan Chargers,,7,,False,Chennai Super Kings,Deccan Chargers
+336008,2008-05-07,2007/08,Mumbai Indians,Rajasthan Royals,Mumbai Indians,,7,,False,Mumbai Indians,Rajasthan Royals
+336009,2008-05-08,2007/08,Delhi Daredevils,Chennai Super Kings,Chennai Super Kings,,4,,False,Delhi Capitals,Chennai Super Kings
+336010,2008-05-08,2007/08,Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,5,,,False,Kolkata Knight Riders,Royal Challengers Bengaluru
+336011,2008-05-09,2007/08,Rajasthan Royals,Deccan Chargers,Rajasthan Royals,,8,,False,Rajasthan Royals,Deccan Chargers
+336013,2008-05-10,2007/08,Chennai Super Kings,Kings XI Punjab,Chennai Super Kings,18,,,False,Chennai Super Kings,Punjab Kings
+336014,2008-05-11,2007/08,Deccan Chargers,Kolkata Knight Riders,Kolkata Knight Riders,23,,,False,Deccan Chargers,Kolkata Knight Riders
+336015,2008-05-11,2007/08,Rajasthan Royals,Delhi Daredevils,Rajasthan Royals,,3,,False,Rajasthan Royals,Delhi Capitals
+336016,2008-05-12,2007/08,Kings XI Punjab,Royal Challengers Bangalore,Kings XI Punjab,,9,,False,Punjab Kings,Royal Challengers Bengaluru
+336017,2008-05-13,2007/08,Kolkata Knight Riders,Delhi Daredevils,Kolkata Knight Riders,23,,,False,Kolkata Knight Riders,Delhi Capitals
+336018,2008-05-14,2007/08,Mumbai Indians,Chennai Super Kings,Mumbai Indians,,9,,False,Mumbai Indians,Chennai Super Kings
+336020,2008-05-15,2007/08,Delhi Daredevils,Deccan Chargers,Delhi Daredevils,12,,,False,Delhi Capitals,Deccan Chargers
+336021,2008-05-16,2007/08,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,,8,,False,Mumbai Indians,Kolkata Knight Riders
+336022,2008-05-17,2007/08,Delhi Daredevils,Kings XI Punjab,Kings XI Punjab,6,,D/L,False,Delhi Capitals,Punjab Kings
+336023,2008-05-17,2007/08,Rajasthan Royals,Royal Challengers Bangalore,Rajasthan Royals,65,,,False,Rajasthan Royals,Royal Challengers Bengaluru
+336024,2008-05-18,2007/08,Deccan Chargers,Mumbai Indians,Mumbai Indians,25,,,False,Deccan Chargers,Mumbai Indians
+336025,2008-05-18,2007/08,Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,3,,D/L,False,Kolkata Knight Riders,Chennai Super Kings
+336026,2008-05-19,2007/08,Royal Challengers Bangalore,Delhi Daredevils,Delhi Daredevils,,5,,False,Royal Challengers Bengaluru,Delhi Capitals
+336027,2008-05-20,2007/08,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,,6,,False,Kolkata Knight Riders,Rajasthan Royals
+336028,2008-05-21,2007/08,Mumbai Indians,Kings XI Punjab,Kings XI Punjab,1,,,False,Mumbai Indians,Punjab Kings
+336029,2008-05-21,2007/08,Chennai Super Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,14,,,False,Chennai Super Kings,Royal Challengers Bengaluru
+336031,2008-05-23,2007/08,Kings XI Punjab,Deccan Chargers,Kings XI Punjab,,6,,False,Punjab Kings,Deccan Chargers
+336032,2008-05-24,2007/08,Delhi Daredevils,Mumbai Indians,Delhi Daredevils,,5,,False,Delhi Capitals,Mumbai Indians
+336033,2008-05-24,2007/08,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,10,,,False,Chennai Super Kings,Rajasthan Royals
+336002,2008-05-25,2007/08,Deccan Chargers,Royal Challengers Bangalore,Royal Challengers Bangalore,,5,,False,Deccan Chargers,Royal Challengers Bengaluru
+336035,2008-05-25,2007/08,Kolkata Knight Riders,Kings XI Punjab,Kolkata Knight Riders,,3,,False,Kolkata Knight Riders,Punjab Kings
+336036,2008-05-26,2007/08,Rajasthan Royals,Mumbai Indians,Rajasthan Royals,,5,,False,Rajasthan Royals,Mumbai Indians
+336037,2008-05-27,2007/08,Deccan Chargers,Chennai Super Kings,Chennai Super Kings,,7,,False,Deccan Chargers,Chennai Super Kings
+336012,2008-05-28,2007/08,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,,9,,False,Royal Challengers Bengaluru,Mumbai Indians
+336019,2008-05-28,2007/08,Kings XI Punjab,Rajasthan Royals,Kings XI Punjab,41,,,False,Punjab Kings,Rajasthan Royals
+336038,2008-05-30,2007/08,Delhi Daredevils,Rajasthan Royals,Rajasthan Royals,105,,,False,Delhi Capitals,Rajasthan Royals
+336039,2008-05-31,2007/08,Chennai Super Kings,Kings XI Punjab,Chennai Super Kings,,9,,False,Chennai Super Kings,Punjab Kings
+336040,2008-06-01,2007/08,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,,3,,False,Chennai Super Kings,Rajasthan Royals
+392181,2009-04-18,2009,Chennai Super Kings,Mumbai Indians,Mumbai Indians,19,,,False,Chennai Super Kings,Mumbai Indians
+392182,2009-04-18,2009,Royal Challengers Bangalore,Rajasthan Royals,Royal Challengers Bangalore,75,,,False,Royal Challengers Bengaluru,Rajasthan Royals
+392183,2009-04-19,2009,Delhi Daredevils,Kings XI Punjab,Delhi Daredevils,,10,D/L,False,Delhi Capitals,Punjab Kings
+392184,2009-04-19,2009,Deccan Chargers,Kolkata Knight Riders,Deccan Chargers,,8,,False,Deccan Chargers,Kolkata Knight Riders
+392185,2009-04-20,2009,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,92,,,False,Royal Challengers Bengaluru,Chennai Super Kings
+392186,2009-04-21,2009,Kings XI Punjab,Kolkata Knight Riders,Kolkata Knight Riders,11,,D/L,False,Punjab Kings,Kolkata Knight Riders
+392188,2009-04-22,2009,Royal Challengers Bangalore,Deccan Chargers,Deccan Chargers,24,,,False,Royal Challengers Bengaluru,Deccan Chargers
+392189,2009-04-23,2009,Chennai Super Kings,Delhi Daredevils,Delhi Daredevils,9,,,False,Chennai Super Kings,Delhi Capitals
+392190,2009-04-23,2009,Kolkata Knight Riders,Rajasthan Royals,,,,,True,Kolkata Knight Riders,Rajasthan Royals
+392191,2009-04-24,2009,Royal Challengers Bangalore,Kings XI Punjab,Kings XI Punjab,,7,,False,Royal Challengers Bengaluru,Punjab Kings
+392192,2009-04-25,2009,Deccan Chargers,Mumbai Indians,Deccan Chargers,12,,,False,Deccan Chargers,Mumbai Indians
+392194,2009-04-26,2009,Royal Challengers Bangalore,Delhi Daredevils,Delhi Daredevils,,6,,False,Royal Challengers Bengaluru,Delhi Capitals
+392195,2009-04-26,2009,Kings XI Punjab,Rajasthan Royals,Kings XI Punjab,27,,,False,Punjab Kings,Rajasthan Royals
+392196,2009-04-27,2009,Chennai Super Kings,Deccan Chargers,Deccan Chargers,,6,,False,Chennai Super Kings,Deccan Chargers
+392197,2009-04-27,2009,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,92,,,False,Kolkata Knight Riders,Mumbai Indians
+392198,2009-04-28,2009,Delhi Daredevils,Rajasthan Royals,Rajasthan Royals,,5,,False,Delhi Capitals,Rajasthan Royals
+392199,2009-04-29,2009,Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,,5,,False,Royal Challengers Bengaluru,Kolkata Knight Riders
+392200,2009-04-29,2009,Kings XI Punjab,Mumbai Indians,Kings XI Punjab,3,,,False,Punjab Kings,Mumbai Indians
+392201,2009-04-30,2009,Deccan Chargers,Delhi Daredevils,Delhi Daredevils,,6,,False,Deccan Chargers,Delhi Capitals
+392202,2009-04-30,2009,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,38,,,False,Chennai Super Kings,Rajasthan Royals
+392203,2009-05-01,2009,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,9,,,False,Kolkata Knight Riders,Mumbai Indians
+392204,2009-05-01,2009,Royal Challengers Bangalore,Kings XI Punjab,Royal Challengers Bangalore,8,,,False,Royal Challengers Bengaluru,Punjab Kings
+392205,2009-05-02,2009,Deccan Chargers,Rajasthan Royals,Rajasthan Royals,,3,,False,Deccan Chargers,Rajasthan Royals
+392206,2009-05-02,2009,Chennai Super Kings,Delhi Daredevils,Chennai Super Kings,18,,,False,Chennai Super Kings,Delhi Capitals
+392207,2009-05-03,2009,Kings XI Punjab,Kolkata Knight Riders,Kings XI Punjab,,6,,False,Punjab Kings,Kolkata Knight Riders
+392208,2009-05-03,2009,Royal Challengers Bangalore,Mumbai Indians,Royal Challengers Bangalore,,9,,False,Royal Challengers Bengaluru,Mumbai Indians
+392209,2009-05-04,2009,Chennai Super Kings,Deccan Chargers,Chennai Super Kings,78,,,False,Chennai Super Kings,Deccan Chargers
+392210,2009-05-05,2009,Kings XI Punjab,Rajasthan Royals,Rajasthan Royals,78,,,False,Punjab Kings,Rajasthan Royals
+392211,2009-05-05,2009,Delhi Daredevils,Kolkata Knight Riders,Delhi Daredevils,,9,,False,Delhi Capitals,Kolkata Knight Riders
+392212,2009-05-06,2009,Deccan Chargers,Mumbai Indians,Deccan Chargers,19,,,False,Deccan Chargers,Mumbai Indians
+392213,2009-05-07,2009,Royal Challengers Bangalore,Rajasthan Royals,Rajasthan Royals,,7,,False,Royal Challengers Bengaluru,Rajasthan Royals
+392214,2009-05-07,2009,Chennai Super Kings,Kings XI Punjab,Chennai Super Kings,12,,D/L,False,Chennai Super Kings,Punjab Kings
+392215,2009-05-08,2009,Delhi Daredevils,Mumbai Indians,Delhi Daredevils,,7,,False,Delhi Capitals,Mumbai Indians
+392216,2009-05-09,2009,Deccan Chargers,Kings XI Punjab,Kings XI Punjab,,3,,False,Deccan Chargers,Punjab Kings
+392217,2009-05-09,2009,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,,7,,False,Chennai Super Kings,Rajasthan Royals
+392218,2009-05-10,2009,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,16,,,False,Royal Challengers Bengaluru,Mumbai Indians
+392219,2009-05-10,2009,Delhi Daredevils,Kolkata Knight Riders,Delhi Daredevils,,7,,False,Delhi Capitals,Kolkata Knight Riders
+392220,2009-05-11,2009,Deccan Chargers,Rajasthan Royals,Deccan Chargers,53,,,False,Deccan Chargers,Rajasthan Royals
+392221,2009-05-12,2009,Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,,6,,False,Royal Challengers Bengaluru,Kolkata Knight Riders
+392222,2009-05-12,2009,Kings XI Punjab,Mumbai Indians,Mumbai Indians,,8,,False,Punjab Kings,Mumbai Indians
+392223,2009-05-13,2009,Deccan Chargers,Delhi Daredevils,Delhi Daredevils,12,,,False,Deccan Chargers,Delhi Capitals
+392224,2009-05-14,2009,Royal Challengers Bangalore,Chennai Super Kings,Royal Challengers Bangalore,,2,,False,Royal Challengers Bengaluru,Chennai Super Kings
+392225,2009-05-14,2009,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,2,,,False,Mumbai Indians,Rajasthan Royals
+392226,2009-05-15,2009,Delhi Daredevils,Kings XI Punjab,Kings XI Punjab,,6,,False,Delhi Capitals,Punjab Kings
+392227,2009-05-16,2009,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,,7,,False,Chennai Super Kings,Mumbai Indians
+392228,2009-05-16,2009,Deccan Chargers,Kolkata Knight Riders,Deccan Chargers,,6,,False,Deccan Chargers,Kolkata Knight Riders
+392229,2009-05-17,2009,Deccan Chargers,Kings XI Punjab,Kings XI Punjab,1,,,False,Deccan Chargers,Punjab Kings
+392230,2009-05-17,2009,Delhi Daredevils,Rajasthan Royals,Delhi Daredevils,14,,,False,Delhi Capitals,Rajasthan Royals
+392231,2009-05-18,2009,Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,,7,,False,Chennai Super Kings,Kolkata Knight Riders
+392232,2009-05-19,2009,Royal Challengers Bangalore,Delhi Daredevils,Royal Challengers Bangalore,,7,,False,Royal Challengers Bengaluru,Delhi Capitals
+392233,2009-05-20,2009,Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,,4,,False,Kolkata Knight Riders,Rajasthan Royals
+392234,2009-05-20,2009,Chennai Super Kings,Kings XI Punjab,Chennai Super Kings,24,,,False,Chennai Super Kings,Punjab Kings
+392235,2009-05-21,2009,Delhi Daredevils,Mumbai Indians,Delhi Daredevils,,4,,False,Delhi Capitals,Mumbai Indians
+392236,2009-05-21,2009,Royal Challengers Bangalore,Deccan Chargers,Royal Challengers Bangalore,12,,,False,Royal Challengers Bengaluru,Deccan Chargers
+392237,2009-05-22,2009,Delhi Daredevils,Deccan Chargers,Deccan Chargers,,6,,False,Delhi Capitals,Deccan Chargers
+392238,2009-05-23,2009,Royal Challengers Bangalore,Chennai Super Kings,Royal Challengers Bangalore,,6,,False,Royal Challengers Bengaluru,Chennai Super Kings
+392239,2009-05-24,2009,Royal Challengers Bangalore,Deccan Chargers,Deccan Chargers,6,,,False,Royal Challengers Bengaluru,Deccan Chargers
+419106,2010-03-12,2009/10,Deccan Chargers,Kolkata Knight Riders,Kolkata Knight Riders,11,,,False,Deccan Chargers,Kolkata Knight Riders
+419107,2010-03-13,2009/10,Mumbai Indians,Rajasthan Royals,Mumbai Indians,4,,,False,Mumbai Indians,Rajasthan Royals
+419108,2010-03-13,2009/10,Kings XI Punjab,Delhi Daredevils,Delhi Daredevils,,5,,False,Punjab Kings,Delhi Capitals
+419109,2010-03-14,2009/10,Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,,7,,False,Kolkata Knight Riders,Royal Challengers Bengaluru
+419110,2010-03-14,2009/10,Chennai Super Kings,Deccan Chargers,Deccan Chargers,31,,,False,Chennai Super Kings,Deccan Chargers
+419111,2010-03-15,2009/10,Rajasthan Royals,Delhi Daredevils,Delhi Daredevils,,6,,False,Rajasthan Royals,Delhi Capitals
+419112,2010-03-16,2009/10,Royal Challengers Bangalore,Kings XI Punjab,Royal Challengers Bangalore,,8,,False,Royal Challengers Bengaluru,Punjab Kings
+419113,2010-03-16,2009/10,Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,55,,,False,Kolkata Knight Riders,Chennai Super Kings
+419114,2010-03-17,2009/10,Delhi Daredevils,Mumbai Indians,Mumbai Indians,98,,,False,Delhi Capitals,Mumbai Indians
+419115,2010-03-18,2009/10,Royal Challengers Bangalore,Rajasthan Royals,Royal Challengers Bangalore,,10,,False,Royal Challengers Bengaluru,Rajasthan Royals
+419116,2010-03-19,2009/10,Delhi Daredevils,Chennai Super Kings,Chennai Super Kings,,5,,False,Delhi Capitals,Chennai Super Kings
+419117,2010-03-19,2009/10,Deccan Chargers,Kings XI Punjab,Deccan Chargers,6,,,False,Deccan Chargers,Punjab Kings
+419118,2010-03-20,2009/10,Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,34,,,False,Rajasthan Royals,Kolkata Knight Riders
+419119,2010-03-20,2009/10,Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,,7,,False,Mumbai Indians,Royal Challengers Bengaluru
+419120,2010-03-21,2009/10,Deccan Chargers,Delhi Daredevils,Deccan Chargers,10,,,False,Deccan Chargers,Delhi Capitals
+419121,2010-03-21,2009/10,Chennai Super Kings,Kings XI Punjab,,,,,True,Chennai Super Kings,Punjab Kings
+419122,2010-03-22,2009/10,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,,7,,False,Mumbai Indians,Kolkata Knight Riders
+419123,2010-03-23,2009/10,Royal Challengers Bangalore,Chennai Super Kings,Royal Challengers Bangalore,36,,,False,Royal Challengers Bengaluru,Chennai Super Kings
+419124,2010-03-24,2009/10,Kings XI Punjab,Rajasthan Royals,Rajasthan Royals,31,,,False,Punjab Kings,Rajasthan Royals
+419125,2010-03-25,2009/10,Chennai Super Kings,Mumbai Indians,Mumbai Indians,,5,,False,Chennai Super Kings,Mumbai Indians
+419128,2010-03-25,2009/10,Royal Challengers Bangalore,Delhi Daredevils,Delhi Daredevils,17,,,False,Royal Challengers Bengaluru,Delhi Capitals
+419126,2010-03-26,2009/10,Rajasthan Royals,Deccan Chargers,Rajasthan Royals,,8,,False,Rajasthan Royals,Deccan Chargers
+419127,2010-03-27,2009/10,Kings XI Punjab,Kolkata Knight Riders,Kolkata Knight Riders,39,,,False,Punjab Kings,Kolkata Knight Riders
+419129,2010-03-28,2009/10,Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,17,,,False,Rajasthan Royals,Chennai Super Kings
+419130,2010-03-28,2009/10,Deccan Chargers,Mumbai Indians,Mumbai Indians,41,,,False,Deccan Chargers,Mumbai Indians
+419131,2010-03-29,2009/10,Delhi Daredevils,Kolkata Knight Riders,Delhi Daredevils,40,,,False,Delhi Capitals,Kolkata Knight Riders
+419132,2010-03-30,2009/10,Mumbai Indians,Kings XI Punjab,Mumbai Indians,,4,,False,Mumbai Indians,Punjab Kings
+419133,2010-03-31,2009/10,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,,5,,False,Chennai Super Kings,Royal Challengers Bengaluru
+419134,2010-03-31,2009/10,Delhi Daredevils,Rajasthan Royals,Delhi Daredevils,67,,,False,Delhi Capitals,Rajasthan Royals
+419135,2010-04-01,2009/10,Kolkata Knight Riders,Deccan Chargers,Kolkata Knight Riders,24,,,False,Kolkata Knight Riders,Deccan Chargers
+419136,2010-04-02,2009/10,Kings XI Punjab,Royal Challengers Bangalore,Royal Challengers Bangalore,,6,,False,Punjab Kings,Royal Challengers Bengaluru
+419137,2010-04-03,2009/10,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,23,,,False,Chennai Super Kings,Rajasthan Royals
+419138,2010-04-03,2009/10,Mumbai Indians,Deccan Chargers,Mumbai Indians,63,,,False,Mumbai Indians,Deccan Chargers
+419139,2010-04-04,2009/10,Kolkata Knight Riders,Kings XI Punjab,Kings XI Punjab,,8,,False,Kolkata Knight Riders,Punjab Kings
+419140,2010-04-04,2009/10,Delhi Daredevils,Royal Challengers Bangalore,Delhi Daredevils,37,,,False,Delhi Capitals,Royal Challengers Bengaluru
+419141,2010-04-05,2009/10,Deccan Chargers,Rajasthan Royals,Rajasthan Royals,2,,,False,Deccan Chargers,Rajasthan Royals
+419142,2010-04-06,2009/10,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,24,,,False,Chennai Super Kings,Mumbai Indians
+419143,2010-04-07,2009/10,Rajasthan Royals,Kings XI Punjab,Rajasthan Royals,,9,,False,Rajasthan Royals,Punjab Kings
+419144,2010-04-07,2009/10,Kolkata Knight Riders,Delhi Daredevils,Kolkata Knight Riders,14,,,False,Kolkata Knight Riders,Delhi Capitals
+419145,2010-04-08,2009/10,Royal Challengers Bangalore,Deccan Chargers,Deccan Chargers,,7,,False,Royal Challengers Bengaluru,Deccan Chargers
+419146,2010-04-09,2009/10,Kings XI Punjab,Mumbai Indians,Kings XI Punjab,,6,,False,Punjab Kings,Mumbai Indians
+419147,2010-04-10,2009/10,Deccan Chargers,Chennai Super Kings,Deccan Chargers,,6,,False,Deccan Chargers,Chennai Super Kings
+419148,2010-04-10,2009/10,Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,,7,,False,Royal Challengers Bengaluru,Kolkata Knight Riders
+419149,2010-04-11,2009/10,Delhi Daredevils,Kings XI Punjab,Kings XI Punjab,,7,,False,Delhi Capitals,Punjab Kings
+419150,2010-04-11,2009/10,Rajasthan Royals,Mumbai Indians,Mumbai Indians,37,,,False,Rajasthan Royals,Mumbai Indians
+419151,2010-04-12,2009/10,Deccan Chargers,Royal Challengers Bangalore,Deccan Chargers,13,,,False,Deccan Chargers,Royal Challengers Bengaluru
+419152,2010-04-13,2009/10,Mumbai Indians,Delhi Daredevils,Mumbai Indians,39,,,False,Mumbai Indians,Delhi Capitals
+419153,2010-04-13,2009/10,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,,9,,False,Chennai Super Kings,Kolkata Knight Riders
+419154,2010-04-14,2009/10,Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,,5,,False,Rajasthan Royals,Royal Challengers Bengaluru
+419155,2010-04-15,2009/10,Chennai Super Kings,Delhi Daredevils,Delhi Daredevils,,6,,False,Chennai Super Kings,Delhi Capitals
+419156,2010-04-16,2009/10,Kings XI Punjab,Deccan Chargers,Deccan Chargers,,5,,False,Punjab Kings,Deccan Chargers
+419157,2010-04-17,2009/10,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,57,,,False,Royal Challengers Bengaluru,Mumbai Indians
+419158,2010-04-17,2009/10,Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,,8,,False,Kolkata Knight Riders,Rajasthan Royals
+419159,2010-04-18,2009/10,Kings XI Punjab,Chennai Super Kings,Chennai Super Kings,,6,,False,Punjab Kings,Chennai Super Kings
+419160,2010-04-18,2009/10,Delhi Daredevils,Deccan Chargers,Deccan Chargers,11,,,False,Delhi Capitals,Deccan Chargers
+419161,2010-04-19,2009/10,Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,,9,,False,Kolkata Knight Riders,Mumbai Indians
+419162,2010-04-21,2009/10,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,35,,,False,Royal Challengers Bengaluru,Mumbai Indians
+419163,2010-04-22,2009/10,Chennai Super Kings,Deccan Chargers,Chennai Super Kings,38,,,False,Chennai Super Kings,Deccan Chargers
+419164,2010-04-24,2009/10,Royal Challengers Bangalore,Deccan Chargers,Royal Challengers Bangalore,,9,,False,Royal Challengers Bengaluru,Deccan Chargers
+419165,2010-04-25,2009/10,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,22,,,False,Chennai Super Kings,Mumbai Indians
+501198,2011-04-08,2011,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,2,,,False,Chennai Super Kings,Kolkata Knight Riders
+501199,2011-04-09,2011,Deccan Chargers,Rajasthan Royals,Rajasthan Royals,,8,,False,Deccan Chargers,Rajasthan Royals
+501200,2011-04-09,2011,Kochi Tuskers Kerala,Royal Challengers Bangalore,Royal Challengers Bangalore,,6,,False,Kochi Tuskers Kerala,Royal Challengers Bengaluru
+501201,2011-04-10,2011,Delhi Daredevils,Mumbai Indians,Mumbai Indians,,8,,False,Delhi Capitals,Mumbai Indians
+501202,2011-04-10,2011,Pune Warriors,Kings XI Punjab,Pune Warriors,,7,,False,Pune Warriors,Punjab Kings
+501203,2011-04-11,2011,Kolkata Knight Riders,Deccan Chargers,Kolkata Knight Riders,9,,,False,Kolkata Knight Riders,Deccan Chargers
+501204,2011-04-12,2011,Rajasthan Royals,Delhi Daredevils,Rajasthan Royals,,6,,False,Rajasthan Royals,Delhi Capitals
+501205,2011-04-12,2011,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,,9,,False,Royal Challengers Bengaluru,Mumbai Indians
+501206,2011-04-13,2011,Kings XI Punjab,Chennai Super Kings,Kings XI Punjab,,6,,False,Punjab Kings,Chennai Super Kings
+501207,2011-04-13,2011,Pune Warriors,Kochi Tuskers Kerala,Pune Warriors,,4,,False,Pune Warriors,Kochi Tuskers Kerala
+501208,2011-04-14,2011,Deccan Chargers,Royal Challengers Bangalore,Deccan Chargers,33,,,False,Deccan Chargers,Royal Challengers Bengaluru
+501209,2011-04-15,2011,Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,,9,,False,Rajasthan Royals,Kolkata Knight Riders
+501210,2011-04-15,2011,Mumbai Indians,Kochi Tuskers Kerala,Kochi Tuskers Kerala,,8,,False,Mumbai Indians,Kochi Tuskers Kerala
+501211,2011-04-16,2011,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,21,,,False,Chennai Super Kings,Royal Challengers Bengaluru
+501212,2011-04-16,2011,Deccan Chargers,Kings XI Punjab,Kings XI Punjab,,8,,False,Deccan Chargers,Punjab Kings
+501213,2011-04-17,2011,Pune Warriors,Delhi Daredevils,Delhi Daredevils,,3,,False,Pune Warriors,Delhi Capitals
+501214,2011-04-17,2011,Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,,8,,False,Kolkata Knight Riders,Rajasthan Royals
+501215,2011-04-18,2011,Kochi Tuskers Kerala,Chennai Super Kings,Kochi Tuskers Kerala,,7,D/L,False,Kochi Tuskers Kerala,Chennai Super Kings
+501216,2011-04-19,2011,Delhi Daredevils,Deccan Chargers,Deccan Chargers,16,,,False,Delhi Capitals,Deccan Chargers
+501218,2011-04-20,2011,Mumbai Indians,Pune Warriors,Mumbai Indians,,7,,False,Mumbai Indians,Pune Warriors
+501219,2011-04-20,2011,Kolkata Knight Riders,Kochi Tuskers Kerala,Kochi Tuskers Kerala,6,,,False,Kolkata Knight Riders,Kochi Tuskers Kerala
+501220,2011-04-21,2011,Kings XI Punjab,Rajasthan Royals,Kings XI Punjab,48,,,False,Punjab Kings,Rajasthan Royals
+501221,2011-04-22,2011,Mumbai Indians,Chennai Super Kings,Mumbai Indians,8,,,False,Mumbai Indians,Chennai Super Kings
+501222,2011-04-22,2011,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,,9,,False,Kolkata Knight Riders,Royal Challengers Bengaluru
+501223,2011-04-23,2011,Delhi Daredevils,Kings XI Punjab,Delhi Daredevils,29,,,False,Delhi Capitals,Punjab Kings
+501224,2011-04-24,2011,Deccan Chargers,Mumbai Indians,Mumbai Indians,37,,,False,Deccan Chargers,Mumbai Indians
+501225,2011-04-24,2011,Rajasthan Royals,Kochi Tuskers Kerala,Rajasthan Royals,,8,,False,Rajasthan Royals,Kochi Tuskers Kerala
+501226,2011-04-25,2011,Chennai Super Kings,Pune Warriors,Chennai Super Kings,25,,,False,Chennai Super Kings,Pune Warriors
+501227,2011-04-26,2011,Delhi Daredevils,Royal Challengers Bangalore,Royal Challengers Bangalore,,3,,False,Delhi Capitals,Royal Challengers Bengaluru
+501228,2011-04-27,2011,Pune Warriors,Chennai Super Kings,Chennai Super Kings,,8,,False,Pune Warriors,Chennai Super Kings
+501229,2011-04-27,2011,Kochi Tuskers Kerala,Deccan Chargers,Deccan Chargers,55,,,False,Kochi Tuskers Kerala,Deccan Chargers
+501230,2011-04-28,2011,Delhi Daredevils,Kolkata Knight Riders,Kolkata Knight Riders,17,,,False,Delhi Capitals,Kolkata Knight Riders
+501231,2011-04-29,2011,Rajasthan Royals,Mumbai Indians,Rajasthan Royals,,7,,False,Rajasthan Royals,Mumbai Indians
+501232,2011-04-29,2011,Royal Challengers Bangalore,Pune Warriors,Royal Challengers Bangalore,26,,,False,Royal Challengers Bengaluru,Pune Warriors
+501233,2011-04-30,2011,Kochi Tuskers Kerala,Delhi Daredevils,Delhi Daredevils,38,,,False,Kochi Tuskers Kerala,Delhi Capitals
+501234,2011-04-30,2011,Kolkata Knight Riders,Kings XI Punjab,Kolkata Knight Riders,,8,,False,Kolkata Knight Riders,Punjab Kings
+501235,2011-05-01,2011,Rajasthan Royals,Pune Warriors,Rajasthan Royals,,6,,False,Rajasthan Royals,Pune Warriors
+501236,2011-05-01,2011,Chennai Super Kings,Deccan Chargers,Chennai Super Kings,19,,,False,Chennai Super Kings,Deccan Chargers
+501237,2011-05-02,2011,Mumbai Indians,Kings XI Punjab,Mumbai Indians,23,,,False,Mumbai Indians,Punjab Kings
+501238,2011-05-02,2011,Delhi Daredevils,Kochi Tuskers Kerala,Kochi Tuskers Kerala,,7,,False,Delhi Capitals,Kochi Tuskers Kerala
+501239,2011-05-03,2011,Deccan Chargers,Kolkata Knight Riders,Kolkata Knight Riders,20,,,False,Deccan Chargers,Kolkata Knight Riders
+501240,2011-05-04,2011,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,,8,,False,Chennai Super Kings,Rajasthan Royals
+501241,2011-05-04,2011,Pune Warriors,Mumbai Indians,Mumbai Indians,21,,,False,Pune Warriors,Mumbai Indians
+501242,2011-05-05,2011,Kochi Tuskers Kerala,Kolkata Knight Riders,Kochi Tuskers Kerala,17,,,False,Kochi Tuskers Kerala,Kolkata Knight Riders
+501243,2011-05-05,2011,Deccan Chargers,Delhi Daredevils,Delhi Daredevils,,4,,False,Deccan Chargers,Delhi Capitals
+501244,2011-05-06,2011,Royal Challengers Bangalore,Kings XI Punjab,Royal Challengers Bangalore,85,,,False,Royal Challengers Bengaluru,Punjab Kings
+501245,2011-05-07,2011,Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,10,,D/L,False,Kolkata Knight Riders,Chennai Super Kings
+501246,2011-05-07,2011,Mumbai Indians,Delhi Daredevils,Mumbai Indians,32,,,False,Mumbai Indians,Delhi Capitals
+501247,2011-05-08,2011,Royal Challengers Bangalore,Kochi Tuskers Kerala,Royal Challengers Bangalore,,9,,False,Royal Challengers Bengaluru,Kochi Tuskers Kerala
+501248,2011-05-08,2011,Kings XI Punjab,Pune Warriors,Pune Warriors,,5,,False,Punjab Kings,Pune Warriors
+501249,2011-05-09,2011,Rajasthan Royals,Chennai Super Kings,Chennai Super Kings,63,,,False,Rajasthan Royals,Chennai Super Kings
+501250,2011-05-10,2011,Deccan Chargers,Pune Warriors,Pune Warriors,,6,,False,Deccan Chargers,Pune Warriors
+501251,2011-05-10,2011,Kings XI Punjab,Mumbai Indians,Kings XI Punjab,76,,,False,Punjab Kings,Mumbai Indians
+501252,2011-05-11,2011,Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,,9,,False,Rajasthan Royals,Royal Challengers Bengaluru
+501253,2011-05-12,2011,Chennai Super Kings,Delhi Daredevils,Chennai Super Kings,18,,,False,Chennai Super Kings,Delhi Capitals
+501254,2011-05-13,2011,Kochi Tuskers Kerala,Kings XI Punjab,Kings XI Punjab,,6,,False,Kochi Tuskers Kerala,Punjab Kings
+501255,2011-05-14,2011,Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,,4,D/L,False,Royal Challengers Bengaluru,Kolkata Knight Riders
+501256,2011-05-14,2011,Mumbai Indians,Deccan Chargers,Deccan Chargers,10,,,False,Mumbai Indians,Deccan Chargers
+501257,2011-05-15,2011,Kings XI Punjab,Delhi Daredevils,Kings XI Punjab,29,,,False,Punjab Kings,Delhi Capitals
+501258,2011-05-15,2011,Kochi Tuskers Kerala,Rajasthan Royals,Kochi Tuskers Kerala,,8,,False,Kochi Tuskers Kerala,Rajasthan Royals
+501259,2011-05-16,2011,Pune Warriors,Deccan Chargers,Deccan Chargers,,6,,False,Pune Warriors,Deccan Chargers
+501260,2011-05-17,2011,Kings XI Punjab,Royal Challengers Bangalore,Kings XI Punjab,111,,,False,Punjab Kings,Royal Challengers Bengaluru
+501261,2011-05-18,2011,Chennai Super Kings,Kochi Tuskers Kerala,Chennai Super Kings,11,,,False,Chennai Super Kings,Kochi Tuskers Kerala
+501262,2011-05-19,2011,Pune Warriors,Kolkata Knight Riders,Kolkata Knight Riders,,7,,False,Pune Warriors,Kolkata Knight Riders
+501263,2011-05-20,2011,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,,10,,False,Mumbai Indians,Rajasthan Royals
+501264,2011-05-21,2011,Kings XI Punjab,Deccan Chargers,Deccan Chargers,82,,,False,Punjab Kings,Deccan Chargers
+501265,2011-05-21,2011,Delhi Daredevils,Pune Warriors,,,,,False,Delhi Capitals,Pune Warriors
+501266,2011-05-22,2011,Royal Challengers Bangalore,Chennai Super Kings,Royal Challengers Bangalore,,8,,False,Royal Challengers Bengaluru,Chennai Super Kings
+501267,2011-05-22,2011,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,,5,,False,Kolkata Knight Riders,Mumbai Indians
+501268,2011-05-24,2011,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,,6,,False,Royal Challengers Bengaluru,Chennai Super Kings
+501269,2011-05-25,2011,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,,4,,False,Mumbai Indians,Kolkata Knight Riders
+501270,2011-05-27,2011,Royal Challengers Bangalore,Mumbai Indians,Royal Challengers Bangalore,43,,,False,Royal Challengers Bengaluru,Mumbai Indians
+501271,2011-05-28,2011,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,58,,,False,Chennai Super Kings,Royal Challengers Bengaluru
+548306,2012-04-04,2012,Chennai Super Kings,Mumbai Indians,Mumbai Indians,,8,,False,Chennai Super Kings,Mumbai Indians
+548307,2012-04-05,2012,Kolkata Knight Riders,Delhi Daredevils,Delhi Daredevils,,8,,False,Kolkata Knight Riders,Delhi Capitals
+548308,2012-04-06,2012,Mumbai Indians,Pune Warriors,Pune Warriors,28,,,False,Mumbai Indians,Pune Warriors
+548309,2012-04-06,2012,Rajasthan Royals,Kings XI Punjab,Rajasthan Royals,31,,,False,Rajasthan Royals,Punjab Kings
+548310,2012-04-07,2012,Royal Challengers Bangalore,Delhi Daredevils,Royal Challengers Bangalore,20,,,False,Royal Challengers Bengaluru,Delhi Capitals
+548311,2012-04-07,2012,Deccan Chargers,Chennai Super Kings,Chennai Super Kings,74,,,False,Deccan Chargers,Chennai Super Kings
+548312,2012-04-08,2012,Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,22,,,False,Rajasthan Royals,Kolkata Knight Riders
+548313,2012-04-08,2012,Pune Warriors,Kings XI Punjab,Pune Warriors,22,,,False,Pune Warriors,Punjab Kings
+548314,2012-04-09,2012,Deccan Chargers,Mumbai Indians,Mumbai Indians,,5,,False,Deccan Chargers,Mumbai Indians
+548315,2012-04-10,2012,Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,42,,,False,Royal Challengers Bengaluru,Kolkata Knight Riders
+548316,2012-04-10,2012,Delhi Daredevils,Chennai Super Kings,Delhi Daredevils,,8,,False,Delhi Capitals,Chennai Super Kings
+548317,2012-04-11,2012,Mumbai Indians,Rajasthan Royals,Mumbai Indians,27,,,False,Mumbai Indians,Rajasthan Royals
+548318,2012-04-12,2012,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,,5,,False,Chennai Super Kings,Royal Challengers Bengaluru
+548319,2012-04-12,2012,Kings XI Punjab,Pune Warriors,Kings XI Punjab,,7,,False,Punjab Kings,Pune Warriors
+548320,2012-04-13,2012,Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,,5,,False,Kolkata Knight Riders,Rajasthan Royals
+548322,2012-04-14,2012,Pune Warriors,Chennai Super Kings,Pune Warriors,,7,,False,Pune Warriors,Chennai Super Kings
+548323,2012-04-15,2012,Kolkata Knight Riders,Kings XI Punjab,Kings XI Punjab,2,,,False,Kolkata Knight Riders,Punjab Kings
+548324,2012-04-15,2012,Royal Challengers Bangalore,Rajasthan Royals,Rajasthan Royals,59,,,False,Royal Challengers Bengaluru,Rajasthan Royals
+548325,2012-04-16,2012,Mumbai Indians,Delhi Daredevils,Delhi Daredevils,,7,,False,Mumbai Indians,Delhi Capitals
+548326,2012-04-17,2012,Rajasthan Royals,Deccan Chargers,Rajasthan Royals,,5,,False,Rajasthan Royals,Deccan Chargers
+548327,2012-04-17,2012,Royal Challengers Bangalore,Pune Warriors,Royal Challengers Bangalore,,6,,False,Royal Challengers Bengaluru,Pune Warriors
+548328,2012-04-18,2012,Kings XI Punjab,Kolkata Knight Riders,Kolkata Knight Riders,,8,,False,Punjab Kings,Kolkata Knight Riders
+548321,2012-04-19,2012,Delhi Daredevils,Deccan Chargers,Delhi Daredevils,,5,,False,Delhi Capitals,Deccan Chargers
+548330,2012-04-19,2012,Chennai Super Kings,Pune Warriors,Chennai Super Kings,13,,,False,Chennai Super Kings,Pune Warriors
+548331,2012-04-20,2012,Kings XI Punjab,Royal Challengers Bangalore,Royal Challengers Bangalore,,5,,False,Punjab Kings,Royal Challengers Bengaluru
+548332,2012-04-21,2012,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,,7,,False,Chennai Super Kings,Rajasthan Royals
+548333,2012-04-21,2012,Delhi Daredevils,Pune Warriors,Pune Warriors,20,,,False,Delhi Capitals,Pune Warriors
+548334,2012-04-22,2012,Mumbai Indians,Kings XI Punjab,Kings XI Punjab,,6,,False,Mumbai Indians,Punjab Kings
+548335,2012-04-22,2012,Deccan Chargers,Kolkata Knight Riders,Kolkata Knight Riders,,5,,False,Deccan Chargers,Kolkata Knight Riders
+548336,2012-04-23,2012,Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,46,,,False,Rajasthan Royals,Royal Challengers Bengaluru
+548337,2012-04-24,2012,Pune Warriors,Delhi Daredevils,Delhi Daredevils,,8,,False,Pune Warriors,Delhi Capitals
+548339,2012-04-25,2012,Kings XI Punjab,Mumbai Indians,Mumbai Indians,,4,,False,Punjab Kings,Mumbai Indians
+548341,2012-04-26,2012,Pune Warriors,Deccan Chargers,Deccan Chargers,18,,,False,Pune Warriors,Deccan Chargers
+548342,2012-04-27,2012,Delhi Daredevils,Mumbai Indians,Delhi Daredevils,37,,,False,Delhi Capitals,Mumbai Indians
+548343,2012-04-28,2012,Chennai Super Kings,Kings XI Punjab,Kings XI Punjab,7,,,False,Chennai Super Kings,Punjab Kings
+548344,2012-04-28,2012,Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,47,,,False,Kolkata Knight Riders,Royal Challengers Bengaluru
+548345,2012-04-29,2012,Delhi Daredevils,Rajasthan Royals,Delhi Daredevils,1,,,False,Delhi Capitals,Rajasthan Royals
+548346,2012-04-29,2012,Mumbai Indians,Deccan Chargers,Mumbai Indians,,5,,False,Mumbai Indians,Deccan Chargers
+548347,2012-04-30,2012,Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,,5,,False,Chennai Super Kings,Kolkata Knight Riders
+548348,2012-05-01,2012,Deccan Chargers,Pune Warriors,Deccan Chargers,13,,,False,Deccan Chargers,Pune Warriors
+548349,2012-05-01,2012,Rajasthan Royals,Delhi Daredevils,Delhi Daredevils,,6,,False,Rajasthan Royals,Delhi Capitals
+548350,2012-05-02,2012,Royal Challengers Bangalore,Kings XI Punjab,Kings XI Punjab,,4,,False,Royal Challengers Bengaluru,Punjab Kings
+548351,2012-05-03,2012,Pune Warriors,Mumbai Indians,Mumbai Indians,1,,,False,Pune Warriors,Mumbai Indians
+548352,2012-05-04,2012,Chennai Super Kings,Deccan Chargers,Chennai Super Kings,10,,,False,Chennai Super Kings,Deccan Chargers
+548353,2012-05-05,2012,Kolkata Knight Riders,Pune Warriors,Kolkata Knight Riders,7,,,False,Kolkata Knight Riders,Pune Warriors
+548354,2012-05-05,2012,Kings XI Punjab,Rajasthan Royals,Rajasthan Royals,43,,,False,Punjab Kings,Rajasthan Royals
+548355,2012-05-06,2012,Mumbai Indians,Chennai Super Kings,Mumbai Indians,,2,,False,Mumbai Indians,Chennai Super Kings
+548356,2012-05-06,2012,Royal Challengers Bangalore,Deccan Chargers,Royal Challengers Bangalore,,5,,False,Royal Challengers Bengaluru,Deccan Chargers
+548357,2012-05-07,2012,Delhi Daredevils,Kolkata Knight Riders,Kolkata Knight Riders,,6,,False,Delhi Capitals,Kolkata Knight Riders
+548358,2012-05-08,2012,Pune Warriors,Rajasthan Royals,Rajasthan Royals,,7,,False,Pune Warriors,Rajasthan Royals
+548359,2012-05-08,2012,Deccan Chargers,Kings XI Punjab,Kings XI Punjab,25,,,False,Deccan Chargers,Punjab Kings
+548360,2012-05-09,2012,Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,,9,,False,Mumbai Indians,Royal Challengers Bengaluru
+548329,2012-05-10,2012,Deccan Chargers,Delhi Daredevils,Delhi Daredevils,,9,,False,Deccan Chargers,Delhi Capitals
+548361,2012-05-10,2012,Rajasthan Royals,Chennai Super Kings,Chennai Super Kings,,4,,False,Rajasthan Royals,Chennai Super Kings
+548362,2012-05-11,2012,Pune Warriors,Royal Challengers Bangalore,Royal Challengers Bangalore,35,,,False,Pune Warriors,Royal Challengers Bengaluru
+548363,2012-05-12,2012,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,27,,,False,Kolkata Knight Riders,Mumbai Indians
+548364,2012-05-12,2012,Chennai Super Kings,Delhi Daredevils,Chennai Super Kings,,9,,False,Chennai Super Kings,Delhi Capitals
+548365,2012-05-13,2012,Rajasthan Royals,Pune Warriors,Rajasthan Royals,45,,,False,Rajasthan Royals,Pune Warriors
+548366,2012-05-13,2012,Kings XI Punjab,Deccan Chargers,Kings XI Punjab,,4,,False,Punjab Kings,Deccan Chargers
+548367,2012-05-14,2012,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,,5,,False,Royal Challengers Bengaluru,Mumbai Indians
+548368,2012-05-14,2012,Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,,5,,False,Kolkata Knight Riders,Chennai Super Kings
+548369,2012-05-15,2012,Delhi Daredevils,Kings XI Punjab,Delhi Daredevils,,5,,False,Delhi Capitals,Punjab Kings
+548370,2012-05-16,2012,Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,32,,,False,Mumbai Indians,Kolkata Knight Riders
+548371,2012-05-17,2012,Kings XI Punjab,Chennai Super Kings,Kings XI Punjab,,6,,False,Punjab Kings,Chennai Super Kings
+548372,2012-05-17,2012,Delhi Daredevils,Royal Challengers Bangalore,Royal Challengers Bangalore,21,,,False,Delhi Capitals,Royal Challengers Bengaluru
+548373,2012-05-18,2012,Deccan Chargers,Rajasthan Royals,Deccan Chargers,,5,,False,Deccan Chargers,Rajasthan Royals
+548374,2012-05-19,2012,Kings XI Punjab,Delhi Daredevils,Delhi Daredevils,,6,,False,Punjab Kings,Delhi Capitals
+548375,2012-05-19,2012,Pune Warriors,Kolkata Knight Riders,Kolkata Knight Riders,34,,,False,Pune Warriors,Kolkata Knight Riders
+548376,2012-05-20,2012,Deccan Chargers,Royal Challengers Bangalore,Deccan Chargers,9,,,False,Deccan Chargers,Royal Challengers Bengaluru
+548377,2012-05-20,2012,Rajasthan Royals,Mumbai Indians,Mumbai Indians,,10,,False,Rajasthan Royals,Mumbai Indians
+548378,2012-05-22,2012,Delhi Daredevils,Kolkata Knight Riders,Kolkata Knight Riders,18,,,False,Delhi Capitals,Kolkata Knight Riders
+548379,2012-05-23,2012,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,38,,,False,Chennai Super Kings,Mumbai Indians
+548380,2012-05-25,2012,Delhi Daredevils,Chennai Super Kings,Chennai Super Kings,86,,,False,Delhi Capitals,Chennai Super Kings
+548381,2012-05-27,2012,Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,,5,,False,Kolkata Knight Riders,Chennai Super Kings
+597998,2013-04-03,2013,Kolkata Knight Riders,Delhi Daredevils,Kolkata Knight Riders,,6,,False,Kolkata Knight Riders,Delhi Capitals
+597999,2013-04-04,2013,Royal Challengers Bangalore,Mumbai Indians,Royal Challengers Bangalore,2,,,False,Royal Challengers Bengaluru,Mumbai Indians
+598000,2013-04-05,2013,Sunrisers Hyderabad,Pune Warriors,Sunrisers Hyderabad,22,,,False,Sunrisers Hyderabad,Pune Warriors
+598001,2013-04-06,2013,Delhi Daredevils,Rajasthan Royals,Rajasthan Royals,5,,,False,Delhi Capitals,Rajasthan Royals
+598002,2013-04-06,2013,Chennai Super Kings,Mumbai Indians,Mumbai Indians,9,,,False,Chennai Super Kings,Mumbai Indians
+598003,2013-04-07,2013,Pune Warriors,Kings XI Punjab,Kings XI Punjab,,8,,False,Pune Warriors,Punjab Kings
+598004,2013-04-07,2013,Sunrisers Hyderabad,Royal Challengers Bangalore,,,,,True,Sunrisers Hyderabad,Royal Challengers Bengaluru
+598005,2013-04-08,2013,Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,19,,,False,Rajasthan Royals,Kolkata Knight Riders
+598006,2013-04-09,2013,Mumbai Indians,Delhi Daredevils,Mumbai Indians,44,,,False,Mumbai Indians,Delhi Capitals
+598048,2013-04-09,2013,Royal Challengers Bangalore,Sunrisers Hyderabad,Royal Challengers Bangalore,,7,,False,Royal Challengers Bengaluru,Sunrisers Hyderabad
+598007,2013-04-10,2013,Kings XI Punjab,Chennai Super Kings,Chennai Super Kings,,10,,False,Punjab Kings,Chennai Super Kings
+598008,2013-04-11,2013,Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,,8,,False,Royal Challengers Bengaluru,Kolkata Knight Riders
+598009,2013-04-11,2013,Pune Warriors,Rajasthan Royals,Pune Warriors,,7,,False,Pune Warriors,Rajasthan Royals
+598010,2013-04-12,2013,Delhi Daredevils,Sunrisers Hyderabad,Sunrisers Hyderabad,,3,,False,Delhi Capitals,Sunrisers Hyderabad
+598011,2013-04-13,2013,Mumbai Indians,Pune Warriors,Mumbai Indians,41,,,False,Mumbai Indians,Pune Warriors
+598012,2013-04-13,2013,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,,4,,False,Chennai Super Kings,Royal Challengers Bengaluru
+598013,2013-04-14,2013,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,48,,,False,Kolkata Knight Riders,Sunrisers Hyderabad
+598014,2013-04-14,2013,Rajasthan Royals,Kings XI Punjab,Rajasthan Royals,,6,,False,Rajasthan Royals,Punjab Kings
+598015,2013-04-15,2013,Chennai Super Kings,Pune Warriors,Pune Warriors,24,,,False,Chennai Super Kings,Pune Warriors
+598016,2013-04-16,2013,Kings XI Punjab,Kolkata Knight Riders,Kings XI Punjab,4,,,False,Punjab Kings,Kolkata Knight Riders
+598017,2013-04-16,2013,Royal Challengers Bangalore,Delhi Daredevils,,,,,True,Royal Challengers Bengaluru,Delhi Capitals
+598018,2013-04-17,2013,Pune Warriors,Sunrisers Hyderabad,Sunrisers Hyderabad,11,,,False,Pune Warriors,Sunrisers Hyderabad
+598019,2013-04-17,2013,Rajasthan Royals,Mumbai Indians,Rajasthan Royals,87,,,False,Rajasthan Royals,Mumbai Indians
+598020,2013-04-18,2013,Delhi Daredevils,Chennai Super Kings,Chennai Super Kings,86,,,False,Delhi Capitals,Chennai Super Kings
+598021,2013-04-19,2013,Sunrisers Hyderabad,Kings XI Punjab,Sunrisers Hyderabad,,5,,False,Sunrisers Hyderabad,Punjab Kings
+598022,2013-04-20,2013,Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,,4,,False,Kolkata Knight Riders,Chennai Super Kings
+598023,2013-04-20,2013,Royal Challengers Bangalore,Rajasthan Royals,Royal Challengers Bangalore,,7,,False,Royal Challengers Bengaluru,Rajasthan Royals
+598024,2013-04-21,2013,Delhi Daredevils,Mumbai Indians,Delhi Daredevils,,9,,False,Delhi Capitals,Mumbai Indians
+598025,2013-04-21,2013,Kings XI Punjab,Pune Warriors,Kings XI Punjab,,7,,False,Punjab Kings,Pune Warriors
+598026,2013-04-22,2013,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,,5,,False,Chennai Super Kings,Rajasthan Royals
+598027,2013-04-23,2013,Royal Challengers Bangalore,Pune Warriors,Royal Challengers Bangalore,130,,,False,Royal Challengers Bengaluru,Pune Warriors
+598059,2013-04-23,2013,Delhi Daredevils,Kings XI Punjab,Kings XI Punjab,,5,,False,Delhi Capitals,Punjab Kings
+598029,2013-04-24,2013,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,,5,,False,Kolkata Knight Riders,Mumbai Indians
+598030,2013-04-25,2013,Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,,5,,False,Chennai Super Kings,Sunrisers Hyderabad
+598031,2013-04-26,2013,Kolkata Knight Riders,Kings XI Punjab,Kolkata Knight Riders,,6,,False,Kolkata Knight Riders,Punjab Kings
+598032,2013-04-27,2013,Rajasthan Royals,Sunrisers Hyderabad,Rajasthan Royals,,8,,False,Rajasthan Royals,Sunrisers Hyderabad
+598033,2013-04-27,2013,Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,58,,,False,Mumbai Indians,Royal Challengers Bengaluru
+598034,2013-04-28,2013,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,14,,,False,Chennai Super Kings,Kolkata Knight Riders
+598035,2013-04-28,2013,Delhi Daredevils,Pune Warriors,Delhi Daredevils,15,,,False,Delhi Capitals,Pune Warriors
+598036,2013-04-29,2013,Rajasthan Royals,Royal Challengers Bangalore,Rajasthan Royals,,4,,False,Rajasthan Royals,Royal Challengers Bengaluru
+598037,2013-04-29,2013,Mumbai Indians,Kings XI Punjab,Mumbai Indians,4,,,False,Mumbai Indians,Punjab Kings
+598038,2013-04-30,2013,Pune Warriors,Chennai Super Kings,Chennai Super Kings,37,,,False,Pune Warriors,Chennai Super Kings
+598039,2013-05-01,2013,Sunrisers Hyderabad,Mumbai Indians,Sunrisers Hyderabad,,7,,False,Sunrisers Hyderabad,Mumbai Indians
+598040,2013-05-01,2013,Delhi Daredevils,Kolkata Knight Riders,Delhi Daredevils,,7,,False,Delhi Capitals,Kolkata Knight Riders
+598041,2013-05-02,2013,Chennai Super Kings,Kings XI Punjab,Chennai Super Kings,15,,,False,Chennai Super Kings,Punjab Kings
+598042,2013-05-02,2013,Pune Warriors,Royal Challengers Bangalore,Royal Challengers Bangalore,17,,,False,Pune Warriors,Royal Challengers Bengaluru
+598043,2013-05-03,2013,Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,,8,,False,Kolkata Knight Riders,Rajasthan Royals
+598044,2013-05-04,2013,Sunrisers Hyderabad,Delhi Daredevils,Sunrisers Hyderabad,,6,,False,Sunrisers Hyderabad,Delhi Capitals
+598046,2013-05-05,2013,Mumbai Indians,Chennai Super Kings,Mumbai Indians,60,,,False,Mumbai Indians,Chennai Super Kings
+598047,2013-05-05,2013,Rajasthan Royals,Pune Warriors,Rajasthan Royals,,5,,False,Rajasthan Royals,Pune Warriors
+598064,2013-05-06,2013,Kings XI Punjab,Royal Challengers Bangalore,Kings XI Punjab,,6,,False,Punjab Kings,Royal Challengers Bengaluru
+598049,2013-05-07,2013,Rajasthan Royals,Delhi Daredevils,Rajasthan Royals,,9,,False,Rajasthan Royals,Delhi Capitals
+598050,2013-05-07,2013,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,65,,,False,Mumbai Indians,Kolkata Knight Riders
+598051,2013-05-08,2013,Sunrisers Hyderabad,Chennai Super Kings,Chennai Super Kings,77,,,False,Sunrisers Hyderabad,Chennai Super Kings
+598052,2013-05-09,2013,Kings XI Punjab,Rajasthan Royals,Rajasthan Royals,,8,,False,Punjab Kings,Rajasthan Royals
+598053,2013-05-09,2013,Pune Warriors,Kolkata Knight Riders,Kolkata Knight Riders,46,,,False,Pune Warriors,Kolkata Knight Riders
+598054,2013-05-10,2013,Delhi Daredevils,Royal Challengers Bangalore,Royal Challengers Bangalore,4,,,False,Delhi Capitals,Royal Challengers Bengaluru
+598055,2013-05-11,2013,Pune Warriors,Mumbai Indians,Mumbai Indians,,5,,False,Pune Warriors,Mumbai Indians
+598056,2013-05-11,2013,Kings XI Punjab,Sunrisers Hyderabad,Sunrisers Hyderabad,30,,,False,Punjab Kings,Sunrisers Hyderabad
+598057,2013-05-12,2013,Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,,5,,False,Kolkata Knight Riders,Royal Challengers Bengaluru
+598058,2013-05-12,2013,Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,,5,,False,Rajasthan Royals,Chennai Super Kings
+598060,2013-05-13,2013,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,,7,,False,Mumbai Indians,Sunrisers Hyderabad
+598045,2013-05-14,2013,Royal Challengers Bangalore,Kings XI Punjab,Kings XI Punjab,,7,,False,Royal Challengers Bengaluru,Punjab Kings
+598062,2013-05-14,2013,Chennai Super Kings,Delhi Daredevils,Chennai Super Kings,33,,,False,Chennai Super Kings,Delhi Capitals
+598061,2013-05-15,2013,Kolkata Knight Riders,Pune Warriors,Pune Warriors,7,,,False,Kolkata Knight Riders,Pune Warriors
+598063,2013-05-15,2013,Mumbai Indians,Rajasthan Royals,Mumbai Indians,14,,,False,Mumbai Indians,Rajasthan Royals
+598028,2013-05-16,2013,Kings XI Punjab,Delhi Daredevils,Kings XI Punjab,7,,,False,Punjab Kings,Delhi Capitals
+598065,2013-05-17,2013,Sunrisers Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,23,,,False,Sunrisers Hyderabad,Rajasthan Royals
+598066,2013-05-18,2013,Kings XI Punjab,Mumbai Indians,Kings XI Punjab,50,,,False,Punjab Kings,Mumbai Indians
+598068,2013-05-18,2013,Royal Challengers Bangalore,Chennai Super Kings,Royal Challengers Bangalore,24,,,False,Royal Challengers Bengaluru,Chennai Super Kings
+598067,2013-05-19,2013,Pune Warriors,Delhi Daredevils,Pune Warriors,38,,,False,Pune Warriors,Delhi Capitals
+598069,2013-05-19,2013,Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,,5,,False,Sunrisers Hyderabad,Kolkata Knight Riders
+598070,2013-05-21,2013,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,48,,,False,Chennai Super Kings,Mumbai Indians
+598071,2013-05-22,2013,Rajasthan Royals,Sunrisers Hyderabad,Rajasthan Royals,,4,,False,Rajasthan Royals,Sunrisers Hyderabad
+598072,2013-05-24,2013,Mumbai Indians,Rajasthan Royals,Mumbai Indians,,4,,False,Mumbai Indians,Rajasthan Royals
+598073,2013-05-26,2013,Chennai Super Kings,Mumbai Indians,Mumbai Indians,23,,,False,Chennai Super Kings,Mumbai Indians
+729279,2014-04-16,2014,Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,41,,,False,Mumbai Indians,Kolkata Knight Riders
+729281,2014-04-17,2014,Delhi Daredevils,Royal Challengers Bangalore,Royal Challengers Bangalore,,8,,False,Delhi Capitals,Royal Challengers Bengaluru
+729283,2014-04-18,2014,Chennai Super Kings,Kings XI Punjab,Kings XI Punjab,,6,,False,Chennai Super Kings,Punjab Kings
+729285,2014-04-18,2014,Sunrisers Hyderabad,Rajasthan Royals,Rajasthan Royals,,4,,False,Sunrisers Hyderabad,Rajasthan Royals
+729287,2014-04-19,2014,Royal Challengers Bangalore,Mumbai Indians,Royal Challengers Bangalore,,7,,False,Royal Challengers Bengaluru,Mumbai Indians
+729289,2014-04-19,2014,Kolkata Knight Riders,Delhi Daredevils,Delhi Daredevils,,4,,False,Kolkata Knight Riders,Delhi Capitals
+729291,2014-04-20,2014,Rajasthan Royals,Kings XI Punjab,Kings XI Punjab,,7,,False,Rajasthan Royals,Punjab Kings
+729293,2014-04-21,2014,Chennai Super Kings,Delhi Daredevils,Chennai Super Kings,93,,,False,Chennai Super Kings,Delhi Capitals
+729295,2014-04-22,2014,Kings XI Punjab,Sunrisers Hyderabad,Kings XI Punjab,72,,,False,Punjab Kings,Sunrisers Hyderabad
+729297,2014-04-23,2014,Rajasthan Royals,Chennai Super Kings,Chennai Super Kings,7,,,False,Rajasthan Royals,Chennai Super Kings
+729299,2014-04-24,2014,Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,2,,,False,Royal Challengers Bengaluru,Kolkata Knight Riders
+729301,2014-04-25,2014,Sunrisers Hyderabad,Delhi Daredevils,Sunrisers Hyderabad,4,,,False,Sunrisers Hyderabad,Delhi Capitals
+729303,2014-04-25,2014,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,,7,,False,Chennai Super Kings,Mumbai Indians
+729305,2014-04-26,2014,Rajasthan Royals,Royal Challengers Bangalore,Rajasthan Royals,,6,,False,Rajasthan Royals,Royal Challengers Bengaluru
+729307,2014-04-26,2014,Kolkata Knight Riders,Kings XI Punjab,Kings XI Punjab,23,,,False,Kolkata Knight Riders,Punjab Kings
+729309,2014-04-27,2014,Delhi Daredevils,Mumbai Indians,Delhi Daredevils,,6,,False,Delhi Capitals,Mumbai Indians
+729311,2014-04-27,2014,Sunrisers Hyderabad,Chennai Super Kings,Chennai Super Kings,,5,,False,Sunrisers Hyderabad,Chennai Super Kings
+729313,2014-04-28,2014,Kings XI Punjab,Royal Challengers Bangalore,Kings XI Punjab,,5,,False,Punjab Kings,Royal Challengers Bengaluru
+729315,2014-04-29,2014,Kolkata Knight Riders,Rajasthan Royals,,,,,True,Kolkata Knight Riders,Rajasthan Royals
+729317,2014-04-30,2014,Mumbai Indians,Sunrisers Hyderabad,Sunrisers Hyderabad,15,,,False,Mumbai Indians,Sunrisers Hyderabad
+733971,2014-05-02,2014,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,34,,,False,Chennai Super Kings,Kolkata Knight Riders
+733973,2014-05-03,2014,Mumbai Indians,Kings XI Punjab,Mumbai Indians,,5,,False,Mumbai Indians,Punjab Kings
+733975,2014-05-03,2014,Delhi Daredevils,Rajasthan Royals,Rajasthan Royals,,7,,False,Delhi Capitals,Rajasthan Royals
+733977,2014-05-04,2014,Royal Challengers Bangalore,Sunrisers Hyderabad,Royal Challengers Bangalore,,4,,False,Royal Challengers Bengaluru,Sunrisers Hyderabad
+733979,2014-05-05,2014,Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,10,,,False,Rajasthan Royals,Kolkata Knight Riders
+733981,2014-05-05,2014,Delhi Daredevils,Chennai Super Kings,Chennai Super Kings,,8,,False,Delhi Capitals,Chennai Super Kings
+733983,2014-05-06,2014,Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,19,,,False,Mumbai Indians,Royal Challengers Bengaluru
+733985,2014-05-07,2014,Delhi Daredevils,Kolkata Knight Riders,Kolkata Knight Riders,,8,,False,Delhi Capitals,Kolkata Knight Riders
+733987,2014-05-07,2014,Kings XI Punjab,Chennai Super Kings,Kings XI Punjab,44,,,False,Punjab Kings,Chennai Super Kings
+733989,2014-05-08,2014,Rajasthan Royals,Sunrisers Hyderabad,Sunrisers Hyderabad,32,,,False,Rajasthan Royals,Sunrisers Hyderabad
+733991,2014-05-09,2014,Royal Challengers Bangalore,Kings XI Punjab,Kings XI Punjab,32,,,False,Royal Challengers Bengaluru,Punjab Kings
+733993,2014-05-10,2014,Delhi Daredevils,Sunrisers Hyderabad,Sunrisers Hyderabad,,8,D/L,False,Delhi Capitals,Sunrisers Hyderabad
+733995,2014-05-10,2014,Mumbai Indians,Chennai Super Kings,Chennai Super Kings,,4,,False,Mumbai Indians,Chennai Super Kings
+733997,2014-05-11,2014,Kings XI Punjab,Kolkata Knight Riders,Kolkata Knight Riders,,9,,False,Punjab Kings,Kolkata Knight Riders
+733999,2014-05-11,2014,Royal Challengers Bangalore,Rajasthan Royals,Rajasthan Royals,,5,,False,Royal Challengers Bengaluru,Rajasthan Royals
+734001,2014-05-12,2014,Sunrisers Hyderabad,Mumbai Indians,Mumbai Indians,,7,,False,Sunrisers Hyderabad,Mumbai Indians
+734003,2014-05-13,2014,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,,5,,False,Chennai Super Kings,Rajasthan Royals
+734005,2014-05-13,2014,Royal Challengers Bangalore,Delhi Daredevils,Royal Challengers Bangalore,16,,,False,Royal Challengers Bengaluru,Delhi Capitals
+734007,2014-05-14,2014,Sunrisers Hyderabad,Kings XI Punjab,Kings XI Punjab,,6,,False,Sunrisers Hyderabad,Punjab Kings
+734009,2014-05-14,2014,Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,,6,,False,Kolkata Knight Riders,Mumbai Indians
+734011,2014-05-15,2014,Rajasthan Royals,Delhi Daredevils,Rajasthan Royals,62,,,False,Rajasthan Royals,Delhi Capitals
+734013,2014-05-18,2014,Chennai Super Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,,5,,False,Chennai Super Kings,Royal Challengers Bengaluru
+734015,2014-05-18,2014,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,,7,,False,Sunrisers Hyderabad,Kolkata Knight Riders
+734017,2014-05-19,2014,Rajasthan Royals,Mumbai Indians,Mumbai Indians,25,,,False,Rajasthan Royals,Mumbai Indians
+734019,2014-05-19,2014,Delhi Daredevils,Kings XI Punjab,Kings XI Punjab,,4,,False,Delhi Capitals,Punjab Kings
+734021,2014-05-20,2014,Sunrisers Hyderabad,Royal Challengers Bangalore,Sunrisers Hyderabad,,7,,False,Sunrisers Hyderabad,Royal Challengers Bengaluru
+734023,2014-05-20,2014,Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,,8,,False,Kolkata Knight Riders,Chennai Super Kings
+734025,2014-05-21,2014,Kings XI Punjab,Mumbai Indians,Mumbai Indians,,7,,False,Punjab Kings,Mumbai Indians
+734027,2014-05-22,2014,Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,30,,,False,Kolkata Knight Riders,Royal Challengers Bengaluru
+734029,2014-05-22,2014,Chennai Super Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,,6,,False,Chennai Super Kings,Sunrisers Hyderabad
+734031,2014-05-23,2014,Mumbai Indians,Delhi Daredevils,Mumbai Indians,15,,,False,Mumbai Indians,Delhi Capitals
+734033,2014-05-23,2014,Kings XI Punjab,Rajasthan Royals,Kings XI Punjab,16,,,False,Punjab Kings,Rajasthan Royals
+734035,2014-05-24,2014,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,,8,,False,Royal Challengers Bengaluru,Chennai Super Kings
+734037,2014-05-24,2014,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,,4,,False,Kolkata Knight Riders,Sunrisers Hyderabad
+734039,2014-05-25,2014,Kings XI Punjab,Delhi Daredevils,Kings XI Punjab,,7,,False,Punjab Kings,Delhi Capitals
+734041,2014-05-25,2014,Mumbai Indians,Rajasthan Royals,Mumbai Indians,,5,,False,Mumbai Indians,Rajasthan Royals
+734043,2014-05-27,2014,Kings XI Punjab,Kolkata Knight Riders,Kolkata Knight Riders,28,,,False,Punjab Kings,Kolkata Knight Riders
+734045,2014-05-28,2014,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,,7,,False,Chennai Super Kings,Mumbai Indians
+734047,2014-05-30,2014,Chennai Super Kings,Kings XI Punjab,Kings XI Punjab,24,,,False,Chennai Super Kings,Punjab Kings
+734049,2014-06-01,2014,Kolkata Knight Riders,Kings XI Punjab,Kolkata Knight Riders,,3,,False,Kolkata Knight Riders,Punjab Kings
+829705,2015-04-08,2015,Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,,7,,False,Kolkata Knight Riders,Mumbai Indians
+829707,2015-04-09,2015,Chennai Super Kings,Delhi Daredevils,Chennai Super Kings,1,,,False,Chennai Super Kings,Delhi Capitals
+829709,2015-04-10,2015,Kings XI Punjab,Rajasthan Royals,Rajasthan Royals,26,,,False,Punjab Kings,Rajasthan Royals
+829711,2015-04-11,2015,Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,45,,,False,Chennai Super Kings,Sunrisers Hyderabad
+829713,2015-04-11,2015,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,,3,,False,Kolkata Knight Riders,Royal Challengers Bengaluru
+829715,2015-04-12,2015,Delhi Daredevils,Rajasthan Royals,Rajasthan Royals,,3,,False,Delhi Capitals,Rajasthan Royals
+829717,2015-04-12,2015,Mumbai Indians,Kings XI Punjab,Kings XI Punjab,18,,,False,Mumbai Indians,Punjab Kings
+829719,2015-04-13,2015,Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,,8,,False,Royal Challengers Bengaluru,Sunrisers Hyderabad
+829721,2015-04-14,2015,Rajasthan Royals,Mumbai Indians,Rajasthan Royals,,7,,False,Rajasthan Royals,Mumbai Indians
+829725,2015-04-15,2015,Kings XI Punjab,Delhi Daredevils,Delhi Daredevils,,5,,False,Punjab Kings,Delhi Capitals
+829727,2015-04-16,2015,Sunrisers Hyderabad,Rajasthan Royals,Rajasthan Royals,,6,,False,Sunrisers Hyderabad,Rajasthan Royals
+829729,2015-04-17,2015,Mumbai Indians,Chennai Super Kings,Chennai Super Kings,,6,,False,Mumbai Indians,Chennai Super Kings
+829731,2015-04-18,2015,Sunrisers Hyderabad,Delhi Daredevils,Delhi Daredevils,4,,,False,Sunrisers Hyderabad,Delhi Capitals
+829733,2015-04-18,2015,Kings XI Punjab,Kolkata Knight Riders,Kolkata Knight Riders,,4,,False,Punjab Kings,Kolkata Knight Riders
+829735,2015-04-19,2015,Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,,8,,False,Rajasthan Royals,Chennai Super Kings
+829737,2015-04-19,2015,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,18,,,False,Royal Challengers Bengaluru,Mumbai Indians
+829739,2015-04-20,2015,Delhi Daredevils,Kolkata Knight Riders,Kolkata Knight Riders,,6,,False,Delhi Capitals,Kolkata Knight Riders
+829741,2015-04-21,2015,Rajasthan Royals,Kings XI Punjab,,,,,True,Rajasthan Royals,Punjab Kings
+829743,2015-04-22,2015,Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,16,,D/L,False,Sunrisers Hyderabad,Kolkata Knight Riders
+829745,2015-04-22,2015,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,27,,,False,Royal Challengers Bengaluru,Chennai Super Kings
+829747,2015-04-23,2015,Delhi Daredevils,Mumbai Indians,Delhi Daredevils,37,,,False,Delhi Capitals,Mumbai Indians
+829749,2015-04-24,2015,Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,,9,,False,Rajasthan Royals,Royal Challengers Bengaluru
+829751,2015-04-25,2015,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,20,,,False,Mumbai Indians,Sunrisers Hyderabad
+829753,2015-04-25,2015,Chennai Super Kings,Kings XI Punjab,Chennai Super Kings,97,,,False,Chennai Super Kings,Punjab Kings
+829757,2015-04-26,2015,Delhi Daredevils,Royal Challengers Bangalore,Royal Challengers Bangalore,,10,,False,Delhi Capitals,Royal Challengers Bengaluru
+829759,2015-04-27,2015,Kings XI Punjab,Sunrisers Hyderabad,Sunrisers Hyderabad,20,,,False,Punjab Kings,Sunrisers Hyderabad
+829765,2015-04-28,2015,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,2,,,False,Chennai Super Kings,Kolkata Knight Riders
+829763,2015-04-29,2015,Royal Challengers Bangalore,Rajasthan Royals,,,,,False,Royal Challengers Bengaluru,Rajasthan Royals
+829723,2015-04-30,2015,Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,,7,,False,Kolkata Knight Riders,Chennai Super Kings
+829767,2015-05-01,2015,Delhi Daredevils,Kings XI Punjab,Delhi Daredevils,,9,,False,Delhi Capitals,Punjab Kings
+829769,2015-05-01,2015,Mumbai Indians,Rajasthan Royals,Mumbai Indians,8,,,False,Mumbai Indians,Rajasthan Royals
+829771,2015-05-02,2015,Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,,7,,False,Royal Challengers Bengaluru,Kolkata Knight Riders
+829773,2015-05-02,2015,Sunrisers Hyderabad,Chennai Super Kings,Sunrisers Hyderabad,22,,,False,Sunrisers Hyderabad,Chennai Super Kings
+829775,2015-05-03,2015,Kings XI Punjab,Mumbai Indians,Mumbai Indians,23,,,False,Punjab Kings,Mumbai Indians
+829777,2015-05-03,2015,Rajasthan Royals,Delhi Daredevils,Rajasthan Royals,14,,,False,Rajasthan Royals,Delhi Capitals
+829779,2015-05-04,2015,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,24,,,False,Chennai Super Kings,Royal Challengers Bengaluru
+829781,2015-05-04,2015,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,35,,,False,Kolkata Knight Riders,Sunrisers Hyderabad
+829783,2015-05-05,2015,Mumbai Indians,Delhi Daredevils,Mumbai Indians,,5,,False,Mumbai Indians,Delhi Capitals
+829785,2015-05-06,2015,Royal Challengers Bangalore,Kings XI Punjab,Royal Challengers Bangalore,138,,,False,Royal Challengers Bengaluru,Punjab Kings
+829761,2015-05-07,2015,Kolkata Knight Riders,Delhi Daredevils,Kolkata Knight Riders,13,,,False,Kolkata Knight Riders,Delhi Capitals
+829787,2015-05-07,2015,Rajasthan Royals,Sunrisers Hyderabad,Sunrisers Hyderabad,7,,,False,Rajasthan Royals,Sunrisers Hyderabad
+829789,2015-05-08,2015,Chennai Super Kings,Mumbai Indians,Mumbai Indians,,6,,False,Chennai Super Kings,Mumbai Indians
+829791,2015-05-09,2015,Kolkata Knight Riders,Kings XI Punjab,Kolkata Knight Riders,,1,,False,Kolkata Knight Riders,Punjab Kings
+829793,2015-05-09,2015,Delhi Daredevils,Sunrisers Hyderabad,Sunrisers Hyderabad,6,,,False,Delhi Capitals,Sunrisers Hyderabad
+829795,2015-05-10,2015,Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,39,,,False,Mumbai Indians,Royal Challengers Bengaluru
+829797,2015-05-10,2015,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,12,,,False,Chennai Super Kings,Rajasthan Royals
+829799,2015-05-11,2015,Sunrisers Hyderabad,Kings XI Punjab,Sunrisers Hyderabad,5,,,False,Sunrisers Hyderabad,Punjab Kings
+829801,2015-05-12,2015,Delhi Daredevils,Chennai Super Kings,Delhi Daredevils,,6,,False,Delhi Capitals,Chennai Super Kings
+829803,2015-05-13,2015,Kings XI Punjab,Royal Challengers Bangalore,Kings XI Punjab,22,,,False,Punjab Kings,Royal Challengers Bengaluru
+829805,2015-05-14,2015,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,5,,,False,Mumbai Indians,Kolkata Knight Riders
+829807,2015-05-15,2015,Sunrisers Hyderabad,Royal Challengers Bangalore,Royal Challengers Bangalore,,6,D/L,False,Sunrisers Hyderabad,Royal Challengers Bengaluru
+829809,2015-05-16,2015,Kings XI Punjab,Chennai Super Kings,Chennai Super Kings,,7,,False,Punjab Kings,Chennai Super Kings
+829811,2015-05-16,2015,Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,9,,,False,Rajasthan Royals,Kolkata Knight Riders
+829813,2015-05-17,2015,Royal Challengers Bangalore,Delhi Daredevils,,,,,False,Royal Challengers Bengaluru,Delhi Capitals
+829815,2015-05-17,2015,Sunrisers Hyderabad,Mumbai Indians,Mumbai Indians,,9,,False,Sunrisers Hyderabad,Mumbai Indians
+829817,2015-05-19,2015,Chennai Super Kings,Mumbai Indians,Mumbai Indians,25,,,False,Chennai Super Kings,Mumbai Indians
+829819,2015-05-20,2015,Royal Challengers Bangalore,Rajasthan Royals,Royal Challengers Bangalore,71,,,False,Royal Challengers Bengaluru,Rajasthan Royals
+829821,2015-05-22,2015,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,,3,,False,Chennai Super Kings,Royal Challengers Bengaluru
+829823,2015-05-24,2015,Mumbai Indians,Chennai Super Kings,Mumbai Indians,41,,,False,Mumbai Indians,Chennai Super Kings
+980901,2016-04-09,2016,Mumbai Indians,Rising Pune Supergiants,Rising Pune Supergiants,,9,,False,Mumbai Indians,Rising Pune Supergiant
+980903,2016-04-10,2016,Kolkata Knight Riders,Delhi Daredevils,Kolkata Knight Riders,,9,,False,Kolkata Knight Riders,Delhi Capitals
+980905,2016-04-11,2016,Kings XI Punjab,Gujarat Lions,Gujarat Lions,,5,,False,Punjab Kings,Gujarat Lions
+980907,2016-04-12,2016,Royal Challengers Bangalore,Sunrisers Hyderabad,Royal Challengers Bangalore,45,,,False,Royal Challengers Bengaluru,Sunrisers Hyderabad
+980909,2016-04-13,2016,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,,6,,False,Kolkata Knight Riders,Mumbai Indians
+980911,2016-04-14,2016,Gujarat Lions,Rising Pune Supergiants,Gujarat Lions,,7,,False,Gujarat Lions,Rising Pune Supergiant
+980913,2016-04-15,2016,Delhi Daredevils,Kings XI Punjab,Delhi Daredevils,,8,,False,Delhi Capitals,Punjab Kings
+980915,2016-04-16,2016,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,,8,,False,Sunrisers Hyderabad,Kolkata Knight Riders
+980917,2016-04-16,2016,Mumbai Indians,Gujarat Lions,Gujarat Lions,,3,,False,Mumbai Indians,Gujarat Lions
+980919,2016-04-17,2016,Kings XI Punjab,Rising Pune Supergiants,Kings XI Punjab,,6,,False,Punjab Kings,Rising Pune Supergiant
+980921,2016-04-17,2016,Royal Challengers Bangalore,Delhi Daredevils,Delhi Daredevils,,7,,False,Royal Challengers Bengaluru,Delhi Capitals
+980923,2016-04-18,2016,Sunrisers Hyderabad,Mumbai Indians,Sunrisers Hyderabad,,7,,False,Sunrisers Hyderabad,Mumbai Indians
+980925,2016-04-19,2016,Kings XI Punjab,Kolkata Knight Riders,Kolkata Knight Riders,,6,,False,Punjab Kings,Kolkata Knight Riders
+980927,2016-04-20,2016,Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,,6,,False,Mumbai Indians,Royal Challengers Bengaluru
+980929,2016-04-21,2016,Gujarat Lions,Sunrisers Hyderabad,Sunrisers Hyderabad,,10,,False,Gujarat Lions,Sunrisers Hyderabad
+980931,2016-04-22,2016,Rising Pune Supergiants,Royal Challengers Bangalore,Royal Challengers Bangalore,13,,,False,Rising Pune Supergiant,Royal Challengers Bengaluru
+980933,2016-04-23,2016,Delhi Daredevils,Mumbai Indians,Delhi Daredevils,10,,,False,Delhi Capitals,Mumbai Indians
+980935,2016-04-23,2016,Sunrisers Hyderabad,Kings XI Punjab,Sunrisers Hyderabad,,5,,False,Sunrisers Hyderabad,Punjab Kings
+980937,2016-04-24,2016,Gujarat Lions,Royal Challengers Bangalore,Gujarat Lions,,6,,False,Gujarat Lions,Royal Challengers Bengaluru
+980939,2016-04-24,2016,Rising Pune Supergiants,Kolkata Knight Riders,Kolkata Knight Riders,,2,,False,Rising Pune Supergiant,Kolkata Knight Riders
+980941,2016-04-25,2016,Kings XI Punjab,Mumbai Indians,Mumbai Indians,25,,,False,Punjab Kings,Mumbai Indians
+980943,2016-04-26,2016,Sunrisers Hyderabad,Rising Pune Supergiants,Rising Pune Supergiants,34,,D/L,False,Sunrisers Hyderabad,Rising Pune Supergiant
+980945,2016-04-27,2016,Delhi Daredevils,Gujarat Lions,Gujarat Lions,1,,,False,Delhi Capitals,Gujarat Lions
+980947,2016-04-28,2016,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,,6,,False,Mumbai Indians,Kolkata Knight Riders
+980949,2016-04-29,2016,Rising Pune Supergiants,Gujarat Lions,Gujarat Lions,,3,,False,Rising Pune Supergiant,Gujarat Lions
+980951,2016-04-30,2016,Delhi Daredevils,Kolkata Knight Riders,Delhi Daredevils,27,,,False,Delhi Capitals,Kolkata Knight Riders
+980953,2016-04-30,2016,Sunrisers Hyderabad,Royal Challengers Bangalore,Sunrisers Hyderabad,15,,,False,Sunrisers Hyderabad,Royal Challengers Bengaluru
+980955,2016-05-01,2016,Gujarat Lions,Kings XI Punjab,Kings XI Punjab,23,,,False,Gujarat Lions,Punjab Kings
+980957,2016-05-01,2016,Rising Pune Supergiants,Mumbai Indians,Mumbai Indians,,8,,False,Rising Pune Supergiant,Mumbai Indians
+980959,2016-05-02,2016,Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,,5,,False,Royal Challengers Bengaluru,Kolkata Knight Riders
+980961,2016-05-03,2016,Gujarat Lions,Delhi Daredevils,Delhi Daredevils,,8,,False,Gujarat Lions,Delhi Capitals
+980963,2016-05-04,2016,Kolkata Knight Riders,Kings XI Punjab,Kolkata Knight Riders,7,,,False,Kolkata Knight Riders,Punjab Kings
+980965,2016-05-05,2016,Delhi Daredevils,Rising Pune Supergiants,Rising Pune Supergiants,,7,,False,Delhi Capitals,Rising Pune Supergiant
+980967,2016-05-06,2016,Sunrisers Hyderabad,Gujarat Lions,Sunrisers Hyderabad,,5,,False,Sunrisers Hyderabad,Gujarat Lions
+980969,2016-05-07,2016,Royal Challengers Bangalore,Rising Pune Supergiants,Royal Challengers Bangalore,,7,,False,Royal Challengers Bengaluru,Rising Pune Supergiant
+980971,2016-05-07,2016,Kings XI Punjab,Delhi Daredevils,Kings XI Punjab,9,,,False,Punjab Kings,Delhi Capitals
+980973,2016-05-08,2016,Mumbai Indians,Sunrisers Hyderabad,Sunrisers Hyderabad,85,,,False,Mumbai Indians,Sunrisers Hyderabad
+980975,2016-05-08,2016,Kolkata Knight Riders,Gujarat Lions,Gujarat Lions,,5,,False,Kolkata Knight Riders,Gujarat Lions
+980977,2016-05-09,2016,Kings XI Punjab,Royal Challengers Bangalore,Royal Challengers Bangalore,1,,,False,Punjab Kings,Royal Challengers Bengaluru
+980979,2016-05-10,2016,Rising Pune Supergiants,Sunrisers Hyderabad,Sunrisers Hyderabad,4,,,False,Rising Pune Supergiant,Sunrisers Hyderabad
+980981,2016-05-11,2016,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,,6,,False,Royal Challengers Bengaluru,Mumbai Indians
+980983,2016-05-12,2016,Sunrisers Hyderabad,Delhi Daredevils,Delhi Daredevils,,7,,False,Sunrisers Hyderabad,Delhi Capitals
+980985,2016-05-13,2016,Mumbai Indians,Kings XI Punjab,Kings XI Punjab,,7,,False,Mumbai Indians,Punjab Kings
+980987,2016-05-14,2016,Royal Challengers Bangalore,Gujarat Lions,Royal Challengers Bangalore,144,,,False,Royal Challengers Bengaluru,Gujarat Lions
+980989,2016-05-14,2016,Kolkata Knight Riders,Rising Pune Supergiants,Kolkata Knight Riders,,8,D/L,False,Kolkata Knight Riders,Rising Pune Supergiant
+980991,2016-05-15,2016,Kings XI Punjab,Sunrisers Hyderabad,Sunrisers Hyderabad,,7,,False,Punjab Kings,Sunrisers Hyderabad
+980993,2016-05-15,2016,Mumbai Indians,Delhi Daredevils,Mumbai Indians,80,,,False,Mumbai Indians,Delhi Capitals
+980995,2016-05-16,2016,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,,9,,False,Kolkata Knight Riders,Royal Challengers Bengaluru
+980997,2016-05-17,2016,Rising Pune Supergiants,Delhi Daredevils,Rising Pune Supergiants,19,,D/L,False,Rising Pune Supergiant,Delhi Capitals
+980999,2016-05-18,2016,Royal Challengers Bangalore,Kings XI Punjab,Royal Challengers Bangalore,82,,D/L,False,Royal Challengers Bengaluru,Punjab Kings
+981001,2016-05-19,2016,Gujarat Lions,Kolkata Knight Riders,Gujarat Lions,,6,,False,Gujarat Lions,Kolkata Knight Riders
+981003,2016-05-20,2016,Delhi Daredevils,Sunrisers Hyderabad,Delhi Daredevils,,6,,False,Delhi Capitals,Sunrisers Hyderabad
+981005,2016-05-21,2016,Rising Pune Supergiants,Kings XI Punjab,Rising Pune Supergiants,,4,,False,Rising Pune Supergiant,Punjab Kings
+981007,2016-05-21,2016,Gujarat Lions,Mumbai Indians,Gujarat Lions,,6,,False,Gujarat Lions,Mumbai Indians
+981009,2016-05-22,2016,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,22,,,False,Kolkata Knight Riders,Sunrisers Hyderabad
+981011,2016-05-22,2016,Delhi Daredevils,Royal Challengers Bangalore,Royal Challengers Bangalore,,6,,False,Delhi Capitals,Royal Challengers Bengaluru
+981013,2016-05-24,2016,Gujarat Lions,Royal Challengers Bangalore,Royal Challengers Bangalore,,4,,False,Gujarat Lions,Royal Challengers Bengaluru
+981015,2016-05-25,2016,Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,22,,,False,Sunrisers Hyderabad,Kolkata Knight Riders
+981017,2016-05-27,2016,Gujarat Lions,Sunrisers Hyderabad,Sunrisers Hyderabad,,4,,False,Gujarat Lions,Sunrisers Hyderabad
+981019,2016-05-29,2016,Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,8,,,False,Royal Challengers Bengaluru,Sunrisers Hyderabad
+1082591,2017-04-05,2017,Sunrisers Hyderabad,Royal Challengers Bangalore,Sunrisers Hyderabad,35,,,False,Sunrisers Hyderabad,Royal Challengers Bengaluru
+1082592,2017-04-06,2017,Rising Pune Supergiant,Mumbai Indians,Rising Pune Supergiant,,7,,False,Rising Pune Supergiant,Mumbai Indians
+1082593,2017-04-07,2017,Gujarat Lions,Kolkata Knight Riders,Kolkata Knight Riders,,10,,False,Gujarat Lions,Kolkata Knight Riders
+1082594,2017-04-08,2017,Kings XI Punjab,Rising Pune Supergiant,Kings XI Punjab,,6,,False,Punjab Kings,Rising Pune Supergiant
+1082595,2017-04-08,2017,Royal Challengers Bangalore,Delhi Daredevils,Royal Challengers Bangalore,15,,,False,Royal Challengers Bengaluru,Delhi Capitals
+1082596,2017-04-09,2017,Sunrisers Hyderabad,Gujarat Lions,Sunrisers Hyderabad,,9,,False,Sunrisers Hyderabad,Gujarat Lions
+1082597,2017-04-09,2017,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,,4,,False,Mumbai Indians,Kolkata Knight Riders
+1082598,2017-04-10,2017,Kings XI Punjab,Royal Challengers Bangalore,Kings XI Punjab,,8,,False,Punjab Kings,Royal Challengers Bengaluru
+1082599,2017-04-11,2017,Rising Pune Supergiant,Delhi Daredevils,Delhi Daredevils,97,,,False,Rising Pune Supergiant,Delhi Capitals
+1082600,2017-04-12,2017,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,,4,,False,Mumbai Indians,Sunrisers Hyderabad
+1082601,2017-04-13,2017,Kolkata Knight Riders,Kings XI Punjab,Kolkata Knight Riders,,8,,False,Kolkata Knight Riders,Punjab Kings
+1082602,2017-04-14,2017,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,,4,,False,Royal Challengers Bengaluru,Mumbai Indians
+1082603,2017-04-14,2017,Gujarat Lions,Rising Pune Supergiant,Gujarat Lions,,7,,False,Gujarat Lions,Rising Pune Supergiant
+1082604,2017-04-15,2017,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,17,,,False,Kolkata Knight Riders,Sunrisers Hyderabad
+1082605,2017-04-15,2017,Delhi Daredevils,Kings XI Punjab,Delhi Daredevils,51,,,False,Delhi Capitals,Punjab Kings
+1082606,2017-04-16,2017,Mumbai Indians,Gujarat Lions,Mumbai Indians,,6,,False,Mumbai Indians,Gujarat Lions
+1082607,2017-04-16,2017,Royal Challengers Bangalore,Rising Pune Supergiant,Rising Pune Supergiant,27,,,False,Royal Challengers Bengaluru,Rising Pune Supergiant
+1082608,2017-04-17,2017,Delhi Daredevils,Kolkata Knight Riders,Kolkata Knight Riders,,4,,False,Delhi Capitals,Kolkata Knight Riders
+1082609,2017-04-17,2017,Sunrisers Hyderabad,Kings XI Punjab,Sunrisers Hyderabad,5,,,False,Sunrisers Hyderabad,Punjab Kings
+1082610,2017-04-18,2017,Gujarat Lions,Royal Challengers Bangalore,Royal Challengers Bangalore,21,,,False,Gujarat Lions,Royal Challengers Bengaluru
+1082611,2017-04-19,2017,Sunrisers Hyderabad,Delhi Daredevils,Sunrisers Hyderabad,15,,,False,Sunrisers Hyderabad,Delhi Capitals
+1082612,2017-04-20,2017,Kings XI Punjab,Mumbai Indians,Mumbai Indians,,8,,False,Punjab Kings,Mumbai Indians
+1082613,2017-04-21,2017,Kolkata Knight Riders,Gujarat Lions,Gujarat Lions,,4,,False,Kolkata Knight Riders,Gujarat Lions
+1082614,2017-04-22,2017,Mumbai Indians,Delhi Daredevils,Mumbai Indians,14,,,False,Mumbai Indians,Delhi Capitals
+1082615,2017-04-22,2017,Rising Pune Supergiant,Sunrisers Hyderabad,Rising Pune Supergiant,,6,,False,Rising Pune Supergiant,Sunrisers Hyderabad
+1082616,2017-04-23,2017,Gujarat Lions,Kings XI Punjab,Kings XI Punjab,26,,,False,Gujarat Lions,Punjab Kings
+1082617,2017-04-23,2017,Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,82,,,False,Kolkata Knight Riders,Royal Challengers Bengaluru
+1082618,2017-04-24,2017,Mumbai Indians,Rising Pune Supergiant,Rising Pune Supergiant,3,,,False,Mumbai Indians,Rising Pune Supergiant
+1082620,2017-04-26,2017,Rising Pune Supergiant,Kolkata Knight Riders,Kolkata Knight Riders,,7,,False,Rising Pune Supergiant,Kolkata Knight Riders
+1082621,2017-04-27,2017,Royal Challengers Bangalore,Gujarat Lions,Gujarat Lions,,7,,False,Royal Challengers Bengaluru,Gujarat Lions
+1082622,2017-04-28,2017,Kolkata Knight Riders,Delhi Daredevils,Kolkata Knight Riders,,7,,False,Kolkata Knight Riders,Delhi Capitals
+1082623,2017-04-28,2017,Kings XI Punjab,Sunrisers Hyderabad,Sunrisers Hyderabad,26,,,False,Punjab Kings,Sunrisers Hyderabad
+1082624,2017-04-29,2017,Rising Pune Supergiant,Royal Challengers Bangalore,Rising Pune Supergiant,61,,,False,Rising Pune Supergiant,Royal Challengers Bengaluru
+1082625,2017-04-29,2017,Gujarat Lions,Mumbai Indians,,,,,True,Gujarat Lions,Mumbai Indians
+1082626,2017-04-30,2017,Kings XI Punjab,Delhi Daredevils,Kings XI Punjab,,10,,False,Punjab Kings,Delhi Capitals
+1082627,2017-04-30,2017,Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,48,,,False,Sunrisers Hyderabad,Kolkata Knight Riders
+1082628,2017-05-01,2017,Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,,5,,False,Mumbai Indians,Royal Challengers Bengaluru
+1082629,2017-05-01,2017,Rising Pune Supergiant,Gujarat Lions,Rising Pune Supergiant,,5,,False,Rising Pune Supergiant,Gujarat Lions
+1082630,2017-05-02,2017,Delhi Daredevils,Sunrisers Hyderabad,Delhi Daredevils,,6,,False,Delhi Capitals,Sunrisers Hyderabad
+1082631,2017-05-03,2017,Kolkata Knight Riders,Rising Pune Supergiant,Rising Pune Supergiant,,4,,False,Kolkata Knight Riders,Rising Pune Supergiant
+1082632,2017-05-04,2017,Delhi Daredevils,Gujarat Lions,Delhi Daredevils,,7,,False,Delhi Capitals,Gujarat Lions
+1082633,2017-05-05,2017,Royal Challengers Bangalore,Kings XI Punjab,Kings XI Punjab,19,,,False,Royal Challengers Bengaluru,Punjab Kings
+1082634,2017-05-06,2017,Sunrisers Hyderabad,Rising Pune Supergiant,Rising Pune Supergiant,12,,,False,Sunrisers Hyderabad,Rising Pune Supergiant
+1082635,2017-05-06,2017,Delhi Daredevils,Mumbai Indians,Mumbai Indians,146,,,False,Delhi Capitals,Mumbai Indians
+1082636,2017-05-07,2017,Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,,6,,False,Royal Challengers Bengaluru,Kolkata Knight Riders
+1082637,2017-05-07,2017,Kings XI Punjab,Gujarat Lions,Gujarat Lions,,6,,False,Punjab Kings,Gujarat Lions
+1082638,2017-05-08,2017,Sunrisers Hyderabad,Mumbai Indians,Sunrisers Hyderabad,,7,,False,Sunrisers Hyderabad,Mumbai Indians
+1082639,2017-05-09,2017,Kings XI Punjab,Kolkata Knight Riders,Kings XI Punjab,14,,,False,Punjab Kings,Kolkata Knight Riders
+1082640,2017-05-10,2017,Gujarat Lions,Delhi Daredevils,Delhi Daredevils,,2,,False,Gujarat Lions,Delhi Capitals
+1082641,2017-05-11,2017,Mumbai Indians,Kings XI Punjab,Kings XI Punjab,7,,,False,Mumbai Indians,Punjab Kings
+1082642,2017-05-12,2017,Delhi Daredevils,Rising Pune Supergiant,Delhi Daredevils,7,,,False,Delhi Capitals,Rising Pune Supergiant
+1082643,2017-05-13,2017,Gujarat Lions,Sunrisers Hyderabad,Sunrisers Hyderabad,,8,,False,Gujarat Lions,Sunrisers Hyderabad
+1082644,2017-05-13,2017,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,9,,,False,Kolkata Knight Riders,Mumbai Indians
+1082645,2017-05-14,2017,Rising Pune Supergiant,Kings XI Punjab,Rising Pune Supergiant,,9,,False,Rising Pune Supergiant,Punjab Kings
+1082646,2017-05-14,2017,Delhi Daredevils,Royal Challengers Bangalore,Royal Challengers Bangalore,10,,,False,Delhi Capitals,Royal Challengers Bengaluru
+1082647,2017-05-16,2017,Mumbai Indians,Rising Pune Supergiant,Rising Pune Supergiant,20,,,False,Mumbai Indians,Rising Pune Supergiant
+1082648,2017-05-17,2017,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,,7,D/L,False,Sunrisers Hyderabad,Kolkata Knight Riders
+1082649,2017-05-19,2017,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,,6,,False,Mumbai Indians,Kolkata Knight Riders
+1082650,2017-05-21,2017,Mumbai Indians,Rising Pune Supergiant,Mumbai Indians,1,,,False,Mumbai Indians,Rising Pune Supergiant
+1136561,2018-04-07,2018,Mumbai Indians,Chennai Super Kings,Chennai Super Kings,,1,,False,Mumbai Indians,Chennai Super Kings
+1136562,2018-04-08,2018,Delhi Daredevils,Kings XI Punjab,Kings XI Punjab,,6,,False,Delhi Capitals,Punjab Kings
+1136563,2018-04-08,2018,Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,,4,,False,Royal Challengers Bengaluru,Kolkata Knight Riders
+1136564,2018-04-09,2018,Rajasthan Royals,Sunrisers Hyderabad,Sunrisers Hyderabad,,9,,False,Rajasthan Royals,Sunrisers Hyderabad
+1136565,2018-04-10,2018,Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,,5,,False,Kolkata Knight Riders,Chennai Super Kings
+1136566,2018-04-11,2018,Rajasthan Royals,Delhi Daredevils,Rajasthan Royals,10,,D/L,False,Rajasthan Royals,Delhi Capitals
+1136567,2018-04-12,2018,Mumbai Indians,Sunrisers Hyderabad,Sunrisers Hyderabad,,1,,False,Mumbai Indians,Sunrisers Hyderabad
+1136568,2018-04-13,2018,Kings XI Punjab,Royal Challengers Bangalore,Royal Challengers Bangalore,,4,,False,Punjab Kings,Royal Challengers Bengaluru
+1136569,2018-04-14,2018,Mumbai Indians,Delhi Daredevils,Delhi Daredevils,,7,,False,Mumbai Indians,Delhi Capitals
+1136570,2018-04-14,2018,Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,,5,,False,Kolkata Knight Riders,Sunrisers Hyderabad
+1136571,2018-04-15,2018,Rajasthan Royals,Royal Challengers Bangalore,Rajasthan Royals,19,,,False,Rajasthan Royals,Royal Challengers Bengaluru
+1136572,2018-04-15,2018,Kings XI Punjab,Chennai Super Kings,Kings XI Punjab,4,,,False,Punjab Kings,Chennai Super Kings
+1136573,2018-04-16,2018,Kolkata Knight Riders,Delhi Daredevils,Kolkata Knight Riders,71,,,False,Kolkata Knight Riders,Delhi Capitals
+1136574,2018-04-17,2018,Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,46,,,False,Mumbai Indians,Royal Challengers Bengaluru
+1136575,2018-04-18,2018,Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,,7,,False,Rajasthan Royals,Kolkata Knight Riders
+1136576,2018-04-19,2018,Kings XI Punjab,Sunrisers Hyderabad,Kings XI Punjab,15,,,False,Punjab Kings,Sunrisers Hyderabad
+1136577,2018-04-20,2018,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,64,,,False,Chennai Super Kings,Rajasthan Royals
+1136578,2018-04-21,2018,Kolkata Knight Riders,Kings XI Punjab,Kings XI Punjab,,9,D/L,False,Kolkata Knight Riders,Punjab Kings
+1136579,2018-04-21,2018,Delhi Daredevils,Royal Challengers Bangalore,Royal Challengers Bangalore,,6,,False,Delhi Capitals,Royal Challengers Bengaluru
+1136580,2018-04-22,2018,Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,4,,,False,Chennai Super Kings,Sunrisers Hyderabad
+1136581,2018-04-22,2018,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,,3,,False,Mumbai Indians,Rajasthan Royals
+1136582,2018-04-23,2018,Kings XI Punjab,Delhi Daredevils,Kings XI Punjab,4,,,False,Punjab Kings,Delhi Capitals
+1136583,2018-04-24,2018,Sunrisers Hyderabad,Mumbai Indians,Sunrisers Hyderabad,31,,,False,Sunrisers Hyderabad,Mumbai Indians
+1136584,2018-04-25,2018,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,,5,,False,Royal Challengers Bengaluru,Chennai Super Kings
+1136585,2018-04-26,2018,Sunrisers Hyderabad,Kings XI Punjab,Sunrisers Hyderabad,13,,,False,Sunrisers Hyderabad,Punjab Kings
+1136586,2018-04-27,2018,Delhi Daredevils,Kolkata Knight Riders,Delhi Daredevils,55,,,False,Delhi Capitals,Kolkata Knight Riders
+1136587,2018-04-28,2018,Chennai Super Kings,Mumbai Indians,Mumbai Indians,,8,,False,Chennai Super Kings,Mumbai Indians
+1136588,2018-04-29,2018,Sunrisers Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,11,,,False,Sunrisers Hyderabad,Rajasthan Royals
+1136589,2018-04-29,2018,Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,,6,,False,Royal Challengers Bengaluru,Kolkata Knight Riders
+1136590,2018-04-30,2018,Chennai Super Kings,Delhi Daredevils,Chennai Super Kings,13,,,False,Chennai Super Kings,Delhi Capitals
+1136591,2018-05-01,2018,Royal Challengers Bangalore,Mumbai Indians,Royal Challengers Bangalore,14,,,False,Royal Challengers Bengaluru,Mumbai Indians
+1136592,2018-05-02,2018,Delhi Daredevils,Rajasthan Royals,Delhi Daredevils,4,,D/L,False,Delhi Capitals,Rajasthan Royals
+1136593,2018-05-03,2018,Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,,6,,False,Chennai Super Kings,Kolkata Knight Riders
+1136594,2018-05-04,2018,Kings XI Punjab,Mumbai Indians,Mumbai Indians,,6,,False,Punjab Kings,Mumbai Indians
+1136595,2018-05-05,2018,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,,6,,False,Royal Challengers Bengaluru,Chennai Super Kings
+1136596,2018-05-05,2018,Delhi Daredevils,Sunrisers Hyderabad,Sunrisers Hyderabad,,7,,False,Delhi Capitals,Sunrisers Hyderabad
+1136597,2018-05-06,2018,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,13,,,False,Mumbai Indians,Kolkata Knight Riders
+1136598,2018-05-06,2018,Rajasthan Royals,Kings XI Punjab,Kings XI Punjab,,6,,False,Rajasthan Royals,Punjab Kings
+1136599,2018-05-07,2018,Sunrisers Hyderabad,Royal Challengers Bangalore,Sunrisers Hyderabad,5,,,False,Sunrisers Hyderabad,Royal Challengers Bengaluru
+1136600,2018-05-08,2018,Rajasthan Royals,Kings XI Punjab,Rajasthan Royals,15,,,False,Rajasthan Royals,Punjab Kings
+1136601,2018-05-09,2018,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,102,,,False,Mumbai Indians,Kolkata Knight Riders
+1136602,2018-05-10,2018,Delhi Daredevils,Sunrisers Hyderabad,Sunrisers Hyderabad,,9,,False,Delhi Capitals,Sunrisers Hyderabad
+1136603,2018-05-11,2018,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,,4,,False,Chennai Super Kings,Rajasthan Royals
+1136604,2018-05-12,2018,Kolkata Knight Riders,Kings XI Punjab,Kolkata Knight Riders,31,,,False,Kolkata Knight Riders,Punjab Kings
+1136605,2018-05-12,2018,Delhi Daredevils,Royal Challengers Bangalore,Royal Challengers Bangalore,,5,,False,Delhi Capitals,Royal Challengers Bengaluru
+1136606,2018-05-13,2018,Sunrisers Hyderabad,Chennai Super Kings,Chennai Super Kings,,8,,False,Sunrisers Hyderabad,Chennai Super Kings
+1136607,2018-05-13,2018,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,,7,,False,Mumbai Indians,Rajasthan Royals
+1136608,2018-05-14,2018,Kings XI Punjab,Royal Challengers Bangalore,Royal Challengers Bangalore,,10,,False,Punjab Kings,Royal Challengers Bengaluru
+1136609,2018-05-15,2018,Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,,6,,False,Rajasthan Royals,Kolkata Knight Riders
+1136610,2018-05-16,2018,Mumbai Indians,Kings XI Punjab,Mumbai Indians,3,,,False,Mumbai Indians,Punjab Kings
+1136611,2018-05-17,2018,Royal Challengers Bangalore,Sunrisers Hyderabad,Royal Challengers Bangalore,14,,,False,Royal Challengers Bengaluru,Sunrisers Hyderabad
+1136612,2018-05-18,2018,Delhi Daredevils,Chennai Super Kings,Delhi Daredevils,34,,,False,Delhi Capitals,Chennai Super Kings
+1136613,2018-05-19,2018,Rajasthan Royals,Royal Challengers Bangalore,Rajasthan Royals,30,,,False,Rajasthan Royals,Royal Challengers Bengaluru
+1136614,2018-05-19,2018,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,,5,,False,Sunrisers Hyderabad,Kolkata Knight Riders
+1136615,2018-05-20,2018,Delhi Daredevils,Mumbai Indians,Delhi Daredevils,11,,,False,Delhi Capitals,Mumbai Indians
+1136616,2018-05-20,2018,Kings XI Punjab,Chennai Super Kings,Chennai Super Kings,,5,,False,Punjab Kings,Chennai Super Kings
+1136617,2018-05-22,2018,Sunrisers Hyderabad,Chennai Super Kings,Chennai Super Kings,,2,,False,Sunrisers Hyderabad,Chennai Super Kings
+1136618,2018-05-23,2018,Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,25,,,False,Kolkata Knight Riders,Rajasthan Royals
+1136619,2018-05-25,2018,Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,14,,,False,Sunrisers Hyderabad,Kolkata Knight Riders
+1136620,2018-05-27,2018,Sunrisers Hyderabad,Chennai Super Kings,Chennai Super Kings,,8,,False,Sunrisers Hyderabad,Chennai Super Kings
+1175356,2019-03-23,2019,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,,7,,False,Royal Challengers Bengaluru,Chennai Super Kings
+1175357,2019-03-24,2019,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,,6,,False,Sunrisers Hyderabad,Kolkata Knight Riders
+1175358,2019-03-24,2019,Delhi Capitals,Mumbai Indians,Delhi Capitals,37,,,False,Delhi Capitals,Mumbai Indians
+1175359,2019-03-25,2019,Kings XI Punjab,Rajasthan Royals,Kings XI Punjab,14,,,False,Punjab Kings,Rajasthan Royals
+1175360,2019-03-26,2019,Delhi Capitals,Chennai Super Kings,Chennai Super Kings,,6,,False,Delhi Capitals,Chennai Super Kings
+1175361,2019-03-27,2019,Kolkata Knight Riders,Kings XI Punjab,Kolkata Knight Riders,28,,,False,Kolkata Knight Riders,Punjab Kings
+1175362,2019-03-28,2019,Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,6,,,False,Mumbai Indians,Royal Challengers Bengaluru
+1175363,2019-03-29,2019,Rajasthan Royals,Sunrisers Hyderabad,Sunrisers Hyderabad,,5,,False,Rajasthan Royals,Sunrisers Hyderabad
+1175364,2019-03-30,2019,Mumbai Indians,Kings XI Punjab,Kings XI Punjab,,8,,False,Mumbai Indians,Punjab Kings
+1175365,2019-03-30,2019,Kolkata Knight Riders,Delhi Capitals,,,,,True,Kolkata Knight Riders,Delhi Capitals
+1175366,2019-03-31,2019,Sunrisers Hyderabad,Royal Challengers Bangalore,Sunrisers Hyderabad,118,,,False,Sunrisers Hyderabad,Royal Challengers Bengaluru
+1175367,2019-03-31,2019,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,8,,,False,Chennai Super Kings,Rajasthan Royals
+1175368,2019-04-01,2019,Kings XI Punjab,Delhi Capitals,Kings XI Punjab,14,,,False,Punjab Kings,Delhi Capitals
+1175369,2019-04-02,2019,Royal Challengers Bangalore,Rajasthan Royals,Rajasthan Royals,,7,,False,Royal Challengers Bengaluru,Rajasthan Royals
+1175370,2019-04-03,2019,Mumbai Indians,Chennai Super Kings,Mumbai Indians,37,,,False,Mumbai Indians,Chennai Super Kings
+1175371,2019-04-04,2019,Delhi Capitals,Sunrisers Hyderabad,Sunrisers Hyderabad,,5,,False,Delhi Capitals,Sunrisers Hyderabad
+1175372,2019-04-05,2019,Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,,5,,False,Royal Challengers Bengaluru,Kolkata Knight Riders
+1178393,2019-04-06,2019,Chennai Super Kings,Kings XI Punjab,Chennai Super Kings,22,,,False,Chennai Super Kings,Punjab Kings
+1178394,2019-04-06,2019,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,40,,,False,Mumbai Indians,Sunrisers Hyderabad
+1178395,2019-04-07,2019,Royal Challengers Bangalore,Delhi Capitals,Delhi Capitals,,4,,False,Royal Challengers Bengaluru,Delhi Capitals
+1178396,2019-04-07,2019,Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,,8,,False,Rajasthan Royals,Kolkata Knight Riders
+1178397,2019-04-08,2019,Sunrisers Hyderabad,Kings XI Punjab,Kings XI Punjab,,6,,False,Sunrisers Hyderabad,Punjab Kings
+1178398,2019-04-09,2019,Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,,7,,False,Kolkata Knight Riders,Chennai Super Kings
+1178399,2019-04-10,2019,Kings XI Punjab,Mumbai Indians,Mumbai Indians,,3,,False,Punjab Kings,Mumbai Indians
+1178400,2019-04-11,2019,Rajasthan Royals,Chennai Super Kings,Chennai Super Kings,,4,,False,Rajasthan Royals,Chennai Super Kings
+1178401,2019-04-12,2019,Kolkata Knight Riders,Delhi Capitals,Delhi Capitals,,7,,False,Kolkata Knight Riders,Delhi Capitals
+1178402,2019-04-13,2019,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,,4,,False,Mumbai Indians,Rajasthan Royals
+1178403,2019-04-13,2019,Kings XI Punjab,Royal Challengers Bangalore,Royal Challengers Bangalore,,8,,False,Punjab Kings,Royal Challengers Bengaluru
+1178404,2019-04-14,2019,Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,,5,,False,Kolkata Knight Riders,Chennai Super Kings
+1178405,2019-04-14,2019,Delhi Capitals,Sunrisers Hyderabad,Delhi Capitals,39,,,False,Delhi Capitals,Sunrisers Hyderabad
+1178406,2019-04-15,2019,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,,5,,False,Royal Challengers Bengaluru,Mumbai Indians
+1178407,2019-04-16,2019,Kings XI Punjab,Rajasthan Royals,Kings XI Punjab,12,,,False,Punjab Kings,Rajasthan Royals
+1178408,2019-04-17,2019,Chennai Super Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,,6,,False,Chennai Super Kings,Sunrisers Hyderabad
+1178409,2019-04-18,2019,Mumbai Indians,Delhi Capitals,Mumbai Indians,40,,,False,Mumbai Indians,Delhi Capitals
+1178410,2019-04-19,2019,Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,10,,,False,Royal Challengers Bengaluru,Kolkata Knight Riders
+1178411,2019-04-20,2019,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,,5,,False,Mumbai Indians,Rajasthan Royals
+1178412,2019-04-20,2019,Kings XI Punjab,Delhi Capitals,Delhi Capitals,,5,,False,Punjab Kings,Delhi Capitals
+1178413,2019-04-21,2019,Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,,9,,False,Kolkata Knight Riders,Sunrisers Hyderabad
+1178414,2019-04-21,2019,Royal Challengers Bangalore,Chennai Super Kings,Royal Challengers Bangalore,1,,,False,Royal Challengers Bengaluru,Chennai Super Kings
+1178415,2019-04-22,2019,Rajasthan Royals,Delhi Capitals,Delhi Capitals,,6,,False,Rajasthan Royals,Delhi Capitals
+1178416,2019-04-23,2019,Sunrisers Hyderabad,Chennai Super Kings,Chennai Super Kings,,6,,False,Sunrisers Hyderabad,Chennai Super Kings
+1178417,2019-04-24,2019,Royal Challengers Bangalore,Kings XI Punjab,Royal Challengers Bangalore,17,,,False,Royal Challengers Bengaluru,Punjab Kings
+1178418,2019-04-25,2019,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,,3,,False,Kolkata Knight Riders,Rajasthan Royals
+1178419,2019-04-26,2019,Mumbai Indians,Chennai Super Kings,Mumbai Indians,46,,,False,Mumbai Indians,Chennai Super Kings
+1178420,2019-04-27,2019,Sunrisers Hyderabad,Rajasthan Royals,Rajasthan Royals,,7,,False,Sunrisers Hyderabad,Rajasthan Royals
+1178421,2019-04-28,2019,Delhi Capitals,Royal Challengers Bangalore,Delhi Capitals,16,,,False,Delhi Capitals,Royal Challengers Bengaluru
+1178422,2019-04-28,2019,Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,34,,,False,Kolkata Knight Riders,Mumbai Indians
+1178423,2019-04-29,2019,Sunrisers Hyderabad,Kings XI Punjab,Sunrisers Hyderabad,45,,,False,Sunrisers Hyderabad,Punjab Kings
+1178424,2019-04-30,2019,Royal Challengers Bangalore,Rajasthan Royals,,,,,False,Royal Challengers Bengaluru,Rajasthan Royals
+1178425,2019-05-01,2019,Chennai Super Kings,Delhi Capitals,Chennai Super Kings,80,,,False,Chennai Super Kings,Delhi Capitals
+1178426,2019-05-02,2019,Mumbai Indians,Sunrisers Hyderabad,,,,,True,Mumbai Indians,Sunrisers Hyderabad
+1178427,2019-05-03,2019,Kings XI Punjab,Kolkata Knight Riders,Kolkata Knight Riders,,7,,False,Punjab Kings,Kolkata Knight Riders
+1178428,2019-05-04,2019,Rajasthan Royals,Delhi Capitals,Delhi Capitals,,5,,False,Rajasthan Royals,Delhi Capitals
+1178429,2019-05-04,2019,Sunrisers Hyderabad,Royal Challengers Bangalore,Royal Challengers Bangalore,,4,,False,Sunrisers Hyderabad,Royal Challengers Bengaluru
+1178430,2019-05-05,2019,Chennai Super Kings,Kings XI Punjab,Kings XI Punjab,,6,,False,Chennai Super Kings,Punjab Kings
+1178431,2019-05-05,2019,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,,9,,False,Kolkata Knight Riders,Mumbai Indians
+1181764,2019-05-07,2019,Chennai Super Kings,Mumbai Indians,Mumbai Indians,,6,,False,Chennai Super Kings,Mumbai Indians
+1181766,2019-05-08,2019,Sunrisers Hyderabad,Delhi Capitals,Delhi Capitals,,2,,False,Sunrisers Hyderabad,Delhi Capitals
+1181767,2019-05-10,2019,Delhi Capitals,Chennai Super Kings,Chennai Super Kings,,6,,False,Delhi Capitals,Chennai Super Kings
+1181768,2019-05-12,2019,Mumbai Indians,Chennai Super Kings,Mumbai Indians,1,,,False,Mumbai Indians,Chennai Super Kings
+1216492,2020-09-19,2020/21,Mumbai Indians,Chennai Super Kings,Chennai Super Kings,,5,,False,Mumbai Indians,Chennai Super Kings
+1216493,2020-09-20,2020/21,Delhi Capitals,Kings XI Punjab,,,,,True,Delhi Capitals,Punjab Kings
+1216534,2020-09-21,2020/21,Royal Challengers Bangalore,Sunrisers Hyderabad,Royal Challengers Bangalore,10,,,False,Royal Challengers Bengaluru,Sunrisers Hyderabad
+1216496,2020-09-22,2020/21,Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,16,,,False,Rajasthan Royals,Chennai Super Kings
+1216508,2020-09-23,2020/21,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,49,,,False,Mumbai Indians,Kolkata Knight Riders
+1216510,2020-09-24,2020/21,Kings XI Punjab,Royal Challengers Bangalore,Kings XI Punjab,97,,,False,Punjab Kings,Royal Challengers Bengaluru
+1216539,2020-09-25,2020/21,Delhi Capitals,Chennai Super Kings,Delhi Capitals,44,,,False,Delhi Capitals,Chennai Super Kings
+1216545,2020-09-26,2020/21,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,,7,,False,Sunrisers Hyderabad,Kolkata Knight Riders
+1216527,2020-09-27,2020/21,Kings XI Punjab,Rajasthan Royals,Rajasthan Royals,,4,,False,Punjab Kings,Rajasthan Royals
+1216547,2020-09-28,2020/21,Royal Challengers Bangalore,Mumbai Indians,,,,,True,Royal Challengers Bengaluru,Mumbai Indians
+1216532,2020-09-29,2020/21,Sunrisers Hyderabad,Delhi Capitals,Sunrisers Hyderabad,15,,,False,Sunrisers Hyderabad,Delhi Capitals
+1216504,2020-09-30,2020/21,Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,37,,,False,Kolkata Knight Riders,Rajasthan Royals
+1216503,2020-10-01,2020/21,Mumbai Indians,Kings XI Punjab,Mumbai Indians,48,,,False,Mumbai Indians,Punjab Kings
+1216516,2020-10-02,2020/21,Sunrisers Hyderabad,Chennai Super Kings,Sunrisers Hyderabad,7,,,False,Sunrisers Hyderabad,Chennai Super Kings
+1216514,2020-10-03,2020/21,Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,,8,,False,Rajasthan Royals,Royal Challengers Bengaluru
+1216515,2020-10-03,2020/21,Delhi Capitals,Kolkata Knight Riders,Delhi Capitals,18,,,False,Delhi Capitals,Kolkata Knight Riders
+1216513,2020-10-04,2020/21,Kings XI Punjab,Chennai Super Kings,Chennai Super Kings,,10,,False,Punjab Kings,Chennai Super Kings
+1216538,2020-10-04,2020/21,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,34,,,False,Mumbai Indians,Sunrisers Hyderabad
+1216519,2020-10-05,2020/21,Delhi Capitals,Royal Challengers Bangalore,Delhi Capitals,59,,,False,Delhi Capitals,Royal Challengers Bengaluru
+1216511,2020-10-06,2020/21,Mumbai Indians,Rajasthan Royals,Mumbai Indians,57,,,False,Mumbai Indians,Rajasthan Royals
+1216501,2020-10-07,2020/21,Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,10,,,False,Kolkata Knight Riders,Chennai Super Kings
+1216542,2020-10-08,2020/21,Sunrisers Hyderabad,Kings XI Punjab,Sunrisers Hyderabad,69,,,False,Sunrisers Hyderabad,Punjab Kings
+1216500,2020-10-09,2020/21,Delhi Capitals,Rajasthan Royals,Delhi Capitals,46,,,False,Delhi Capitals,Rajasthan Royals
+1216523,2020-10-10,2020/21,Kolkata Knight Riders,Kings XI Punjab,Kolkata Knight Riders,2,,,False,Kolkata Knight Riders,Punjab Kings
+1216525,2020-10-10,2020/21,Royal Challengers Bangalore,Chennai Super Kings,Royal Challengers Bangalore,37,,,False,Royal Challengers Bengaluru,Chennai Super Kings
+1216507,2020-10-11,2020/21,Sunrisers Hyderabad,Rajasthan Royals,Rajasthan Royals,,5,,False,Sunrisers Hyderabad,Rajasthan Royals
+1216529,2020-10-11,2020/21,Delhi Capitals,Mumbai Indians,Mumbai Indians,,5,,False,Delhi Capitals,Mumbai Indians
+1216540,2020-10-12,2020/21,Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,82,,,False,Royal Challengers Bengaluru,Kolkata Knight Riders
+1216528,2020-10-13,2020/21,Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,20,,,False,Chennai Super Kings,Sunrisers Hyderabad
+1216543,2020-10-14,2020/21,Delhi Capitals,Rajasthan Royals,Delhi Capitals,13,,,False,Delhi Capitals,Rajasthan Royals
+1216531,2020-10-15,2020/21,Royal Challengers Bangalore,Kings XI Punjab,Kings XI Punjab,,8,,False,Royal Challengers Bengaluru,Punjab Kings
+1216526,2020-10-16,2020/21,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,,8,,False,Kolkata Knight Riders,Mumbai Indians
+1216509,2020-10-17,2020/21,Chennai Super Kings,Delhi Capitals,Delhi Capitals,,5,,False,Chennai Super Kings,Delhi Capitals
+1216522,2020-10-17,2020/21,Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,,7,,False,Rajasthan Royals,Royal Challengers Bengaluru
+1216512,2020-10-18,2020/21,Kolkata Knight Riders,Sunrisers Hyderabad,,,,,True,Kolkata Knight Riders,Sunrisers Hyderabad
+1216517,2020-10-18,2020/21,Mumbai Indians,Kings XI Punjab,,,,,True,Mumbai Indians,Punjab Kings
+1216533,2020-10-19,2020/21,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,,7,,False,Chennai Super Kings,Rajasthan Royals
+1216546,2020-10-20,2020/21,Delhi Capitals,Kings XI Punjab,Kings XI Punjab,,5,,False,Delhi Capitals,Punjab Kings
+1216494,2020-10-21,2020/21,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,,8,,False,Kolkata Knight Riders,Royal Challengers Bengaluru
+1216518,2020-10-22,2020/21,Rajasthan Royals,Sunrisers Hyderabad,Sunrisers Hyderabad,,8,,False,Rajasthan Royals,Sunrisers Hyderabad
+1216521,2020-10-23,2020/21,Chennai Super Kings,Mumbai Indians,Mumbai Indians,,10,,False,Chennai Super Kings,Mumbai Indians
+1216497,2020-10-24,2020/21,Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,59,,,False,Kolkata Knight Riders,Delhi Capitals
+1216498,2020-10-24,2020/21,Kings XI Punjab,Sunrisers Hyderabad,Kings XI Punjab,12,,,False,Punjab Kings,Sunrisers Hyderabad
+1216541,2020-10-25,2020/21,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,,8,,False,Mumbai Indians,Rajasthan Royals
+1216544,2020-10-25,2020/21,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,,8,,False,Royal Challengers Bengaluru,Chennai Super Kings
+1216520,2020-10-26,2020/21,Kolkata Knight Riders,Kings XI Punjab,Kings XI Punjab,,8,,False,Kolkata Knight Riders,Punjab Kings
+1216524,2020-10-27,2020/21,Sunrisers Hyderabad,Delhi Capitals,Sunrisers Hyderabad,88,,,False,Sunrisers Hyderabad,Delhi Capitals
+1216499,2020-10-28,2020/21,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,,5,,False,Royal Challengers Bengaluru,Mumbai Indians
+1216536,2020-10-29,2020/21,Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,,6,,False,Kolkata Knight Riders,Chennai Super Kings
+1216537,2020-10-30,2020/21,Kings XI Punjab,Rajasthan Royals,Rajasthan Royals,,7,,False,Punjab Kings,Rajasthan Royals
+1216502,2020-10-31,2020/21,Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,,5,,False,Royal Challengers Bengaluru,Sunrisers Hyderabad
+1216535,2020-10-31,2020/21,Delhi Capitals,Mumbai Indians,Mumbai Indians,,9,,False,Delhi Capitals,Mumbai Indians
+1216506,2020-11-01,2020/21,Kings XI Punjab,Chennai Super Kings,Chennai Super Kings,,9,,False,Punjab Kings,Chennai Super Kings
+1216530,2020-11-01,2020/21,Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,60,,,False,Kolkata Knight Riders,Rajasthan Royals
+1216505,2020-11-02,2020/21,Royal Challengers Bangalore,Delhi Capitals,Delhi Capitals,,6,,False,Royal Challengers Bengaluru,Delhi Capitals
+1216495,2020-11-03,2020/21,Mumbai Indians,Sunrisers Hyderabad,Sunrisers Hyderabad,,10,,False,Mumbai Indians,Sunrisers Hyderabad
+1237177,2020-11-05,2020/21,Mumbai Indians,Delhi Capitals,Mumbai Indians,57,,,False,Mumbai Indians,Delhi Capitals
+1237178,2020-11-06,2020/21,Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,,6,,False,Royal Challengers Bengaluru,Sunrisers Hyderabad
+1237180,2020-11-08,2020/21,Delhi Capitals,Sunrisers Hyderabad,Delhi Capitals,17,,,False,Delhi Capitals,Sunrisers Hyderabad
+1237181,2020-11-10,2020/21,Delhi Capitals,Mumbai Indians,Mumbai Indians,,5,,False,Delhi Capitals,Mumbai Indians
+1254058,2021-04-09,2021,Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,,2,,False,Mumbai Indians,Royal Challengers Bengaluru
+1254059,2021-04-10,2021,Chennai Super Kings,Delhi Capitals,Delhi Capitals,,7,,False,Chennai Super Kings,Delhi Capitals
+1254060,2021-04-11,2021,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,10,,,False,Kolkata Knight Riders,Sunrisers Hyderabad
+1254061,2021-04-12,2021,Punjab Kings,Rajasthan Royals,Punjab Kings,4,,,False,Punjab Kings,Rajasthan Royals
+1254062,2021-04-13,2021,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,10,,,False,Mumbai Indians,Kolkata Knight Riders
+1254063,2021-04-14,2021,Royal Challengers Bangalore,Sunrisers Hyderabad,Royal Challengers Bangalore,6,,,False,Royal Challengers Bengaluru,Sunrisers Hyderabad
+1254064,2021-04-15,2021,Delhi Capitals,Rajasthan Royals,Rajasthan Royals,,3,,False,Delhi Capitals,Rajasthan Royals
+1254065,2021-04-16,2021,Punjab Kings,Chennai Super Kings,Chennai Super Kings,,6,,False,Punjab Kings,Chennai Super Kings
+1254066,2021-04-17,2021,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,13,,,False,Mumbai Indians,Sunrisers Hyderabad
+1254067,2021-04-18,2021,Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,38,,,False,Royal Challengers Bengaluru,Kolkata Knight Riders
+1254068,2021-04-18,2021,Punjab Kings,Delhi Capitals,Delhi Capitals,,6,,False,Punjab Kings,Delhi Capitals
+1254069,2021-04-19,2021,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,45,,,False,Chennai Super Kings,Rajasthan Royals
+1254070,2021-04-20,2021,Mumbai Indians,Delhi Capitals,Delhi Capitals,,6,,False,Mumbai Indians,Delhi Capitals
+1254071,2021-04-21,2021,Punjab Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,,9,,False,Punjab Kings,Sunrisers Hyderabad
+1254072,2021-04-21,2021,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,18,,,False,Chennai Super Kings,Kolkata Knight Riders
+1254073,2021-04-22,2021,Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,,10,,False,Rajasthan Royals,Royal Challengers Bengaluru
+1254074,2021-04-23,2021,Mumbai Indians,Punjab Kings,Punjab Kings,,9,,False,Mumbai Indians,Punjab Kings
+1254075,2021-04-24,2021,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,,6,,False,Kolkata Knight Riders,Rajasthan Royals
+1254076,2021-04-25,2021,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,69,,,False,Chennai Super Kings,Royal Challengers Bengaluru
+1254077,2021-04-25,2021,Delhi Capitals,Sunrisers Hyderabad,,,,,True,Delhi Capitals,Sunrisers Hyderabad
+1254078,2021-04-26,2021,Punjab Kings,Kolkata Knight Riders,Kolkata Knight Riders,,5,,False,Punjab Kings,Kolkata Knight Riders
+1254079,2021-04-27,2021,Royal Challengers Bangalore,Delhi Capitals,Royal Challengers Bangalore,1,,,False,Royal Challengers Bengaluru,Delhi Capitals
+1254080,2021-04-28,2021,Sunrisers Hyderabad,Chennai Super Kings,Chennai Super Kings,,7,,False,Sunrisers Hyderabad,Chennai Super Kings
+1254081,2021-04-29,2021,Rajasthan Royals,Mumbai Indians,Mumbai Indians,,7,,False,Rajasthan Royals,Mumbai Indians
+1254082,2021-04-29,2021,Kolkata Knight Riders,Delhi Capitals,Delhi Capitals,,7,,False,Kolkata Knight Riders,Delhi Capitals
+1254083,2021-04-30,2021,Punjab Kings,Royal Challengers Bangalore,Punjab Kings,34,,,False,Punjab Kings,Royal Challengers Bengaluru
+1254084,2021-05-01,2021,Chennai Super Kings,Mumbai Indians,Mumbai Indians,,4,,False,Chennai Super Kings,Mumbai Indians
+1254085,2021-05-02,2021,Rajasthan Royals,Sunrisers Hyderabad,Rajasthan Royals,55,,,False,Rajasthan Royals,Sunrisers Hyderabad
+1254086,2021-05-02,2021,Punjab Kings,Delhi Capitals,Delhi Capitals,,7,,False,Punjab Kings,Delhi Capitals
+1254104,2021-09-19,2021,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,20,,,False,Chennai Super Kings,Mumbai Indians
+1254087,2021-09-20,2021,Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,,9,,False,Royal Challengers Bengaluru,Kolkata Knight Riders
+1254111,2021-09-21,2021,Rajasthan Royals,Punjab Kings,Rajasthan Royals,2,,,False,Rajasthan Royals,Punjab Kings
+1254105,2021-09-22,2021,Sunrisers Hyderabad,Delhi Capitals,Delhi Capitals,,8,,False,Sunrisers Hyderabad,Delhi Capitals
+1254096,2021-09-23,2021,Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,,7,,False,Mumbai Indians,Kolkata Knight Riders
+1254113,2021-09-24,2021,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,,6,,False,Royal Challengers Bengaluru,Chennai Super Kings
+1254097,2021-09-25,2021,Delhi Capitals,Rajasthan Royals,Delhi Capitals,33,,,False,Delhi Capitals,Rajasthan Royals
+1254107,2021-09-25,2021,Punjab Kings,Sunrisers Hyderabad,Punjab Kings,5,,,False,Punjab Kings,Sunrisers Hyderabad
+1254098,2021-09-26,2021,Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,,2,,False,Kolkata Knight Riders,Chennai Super Kings
+1254108,2021-09-26,2021,Royal Challengers Bangalore,Mumbai Indians,Royal Challengers Bangalore,54,,,False,Royal Challengers Bengaluru,Mumbai Indians
+1254100,2021-09-27,2021,Rajasthan Royals,Sunrisers Hyderabad,Sunrisers Hyderabad,,7,,False,Rajasthan Royals,Sunrisers Hyderabad
+1254092,2021-09-28,2021,Delhi Capitals,Kolkata Knight Riders,Kolkata Knight Riders,,3,,False,Delhi Capitals,Kolkata Knight Riders
+1254099,2021-09-28,2021,Punjab Kings,Mumbai Indians,Mumbai Indians,,6,,False,Punjab Kings,Mumbai Indians
+1254103,2021-09-29,2021,Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,,7,,False,Rajasthan Royals,Royal Challengers Bengaluru
+1254091,2021-09-30,2021,Sunrisers Hyderabad,Chennai Super Kings,Chennai Super Kings,,6,,False,Sunrisers Hyderabad,Chennai Super Kings
+1254102,2021-10-01,2021,Kolkata Knight Riders,Punjab Kings,Punjab Kings,,5,,False,Kolkata Knight Riders,Punjab Kings
+1254089,2021-10-02,2021,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,,7,,False,Chennai Super Kings,Rajasthan Royals
+1254112,2021-10-02,2021,Mumbai Indians,Delhi Capitals,Delhi Capitals,,4,,False,Mumbai Indians,Delhi Capitals
+1254090,2021-10-03,2021,Royal Challengers Bangalore,Punjab Kings,Royal Challengers Bangalore,6,,,False,Royal Challengers Bengaluru,Punjab Kings
+1254109,2021-10-03,2021,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,,6,,False,Sunrisers Hyderabad,Kolkata Knight Riders
+1254110,2021-10-04,2021,Chennai Super Kings,Delhi Capitals,Delhi Capitals,,3,,False,Chennai Super Kings,Delhi Capitals
+1254093,2021-10-05,2021,Rajasthan Royals,Mumbai Indians,Mumbai Indians,,8,,False,Rajasthan Royals,Mumbai Indians
+1254095,2021-10-06,2021,Sunrisers Hyderabad,Royal Challengers Bangalore,Sunrisers Hyderabad,4,,,False,Sunrisers Hyderabad,Royal Challengers Bengaluru
+1254094,2021-10-07,2021,Chennai Super Kings,Punjab Kings,Punjab Kings,,6,,False,Chennai Super Kings,Punjab Kings
+1254106,2021-10-07,2021,Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,86,,,False,Kolkata Knight Riders,Rajasthan Royals
+1254088,2021-10-08,2021,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,42,,,False,Mumbai Indians,Sunrisers Hyderabad
+1254101,2021-10-08,2021,Delhi Capitals,Royal Challengers Bangalore,Royal Challengers Bangalore,,7,,False,Delhi Capitals,Royal Challengers Bengaluru
+1254114,2021-10-10,2021,Delhi Capitals,Chennai Super Kings,Chennai Super Kings,,4,,False,Delhi Capitals,Chennai Super Kings
+1254115,2021-10-11,2021,Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,,4,,False,Royal Challengers Bengaluru,Kolkata Knight Riders
+1254116,2021-10-13,2021,Delhi Capitals,Kolkata Knight Riders,Kolkata Knight Riders,,3,,False,Delhi Capitals,Kolkata Knight Riders
+1254117,2021-10-15,2021,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,27,,,False,Chennai Super Kings,Kolkata Knight Riders
+1304047,2022-03-26,2022,Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,,6,,False,Chennai Super Kings,Kolkata Knight Riders
+1304048,2022-03-27,2022,Mumbai Indians,Delhi Capitals,Delhi Capitals,,4,,False,Mumbai Indians,Delhi Capitals
+1304049,2022-03-27,2022,Royal Challengers Bangalore,Punjab Kings,Punjab Kings,,5,,False,Royal Challengers Bengaluru,Punjab Kings
+1304050,2022-03-28,2022,Lucknow Super Giants,Gujarat Titans,Gujarat Titans,,5,,False,Lucknow Super Giants,Gujarat Titans
+1304051,2022-03-29,2022,Rajasthan Royals,Sunrisers Hyderabad,Rajasthan Royals,61,,,False,Rajasthan Royals,Sunrisers Hyderabad
+1304052,2022-03-30,2022,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,,3,,False,Kolkata Knight Riders,Royal Challengers Bengaluru
+1304053,2022-03-31,2022,Chennai Super Kings,Lucknow Super Giants,Lucknow Super Giants,,6,,False,Chennai Super Kings,Lucknow Super Giants
+1304054,2022-04-01,2022,Punjab Kings,Kolkata Knight Riders,Kolkata Knight Riders,,6,,False,Punjab Kings,Kolkata Knight Riders
+1304055,2022-04-02,2022,Rajasthan Royals,Mumbai Indians,Rajasthan Royals,23,,,False,Rajasthan Royals,Mumbai Indians
+1304056,2022-04-02,2022,Gujarat Titans,Delhi Capitals,Gujarat Titans,14,,,False,Gujarat Titans,Delhi Capitals
+1304057,2022-04-03,2022,Punjab Kings,Chennai Super Kings,Punjab Kings,54,,,False,Punjab Kings,Chennai Super Kings
+1304058,2022-04-04,2022,Lucknow Super Giants,Sunrisers Hyderabad,Lucknow Super Giants,12,,,False,Lucknow Super Giants,Sunrisers Hyderabad
+1304059,2022-04-05,2022,Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,,4,,False,Rajasthan Royals,Royal Challengers Bengaluru
+1304060,2022-04-06,2022,Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,,5,,False,Mumbai Indians,Kolkata Knight Riders
+1304061,2022-04-07,2022,Delhi Capitals,Lucknow Super Giants,Lucknow Super Giants,,6,,False,Delhi Capitals,Lucknow Super Giants
+1304062,2022-04-08,2022,Punjab Kings,Gujarat Titans,Gujarat Titans,,6,,False,Punjab Kings,Gujarat Titans
+1304063,2022-04-09,2022,Chennai Super Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,,8,,False,Chennai Super Kings,Sunrisers Hyderabad
+1304064,2022-04-09,2022,Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,,7,,False,Mumbai Indians,Royal Challengers Bengaluru
+1304065,2022-04-10,2022,Delhi Capitals,Kolkata Knight Riders,Delhi Capitals,44,,,False,Delhi Capitals,Kolkata Knight Riders
+1304066,2022-04-10,2022,Rajasthan Royals,Lucknow Super Giants,Rajasthan Royals,3,,,False,Rajasthan Royals,Lucknow Super Giants
+1304067,2022-04-11,2022,Gujarat Titans,Sunrisers Hyderabad,Sunrisers Hyderabad,,8,,False,Gujarat Titans,Sunrisers Hyderabad
+1304068,2022-04-12,2022,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,23,,,False,Chennai Super Kings,Royal Challengers Bengaluru
+1304069,2022-04-13,2022,Punjab Kings,Mumbai Indians,Punjab Kings,12,,,False,Punjab Kings,Mumbai Indians
+1304070,2022-04-14,2022,Gujarat Titans,Rajasthan Royals,Gujarat Titans,37,,,False,Gujarat Titans,Rajasthan Royals
+1304071,2022-04-15,2022,Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,,7,,False,Kolkata Knight Riders,Sunrisers Hyderabad
+1304072,2022-04-16,2022,Lucknow Super Giants,Mumbai Indians,Lucknow Super Giants,18,,,False,Lucknow Super Giants,Mumbai Indians
+1304073,2022-04-16,2022,Royal Challengers Bangalore,Delhi Capitals,Royal Challengers Bangalore,16,,,False,Royal Challengers Bengaluru,Delhi Capitals
+1304074,2022-04-17,2022,Punjab Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,,7,,False,Punjab Kings,Sunrisers Hyderabad
+1304075,2022-04-17,2022,Chennai Super Kings,Gujarat Titans,Gujarat Titans,,3,,False,Chennai Super Kings,Gujarat Titans
+1304076,2022-04-18,2022,Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,7,,,False,Rajasthan Royals,Kolkata Knight Riders
+1304077,2022-04-19,2022,Royal Challengers Bangalore,Lucknow Super Giants,Royal Challengers Bangalore,18,,,False,Royal Challengers Bengaluru,Lucknow Super Giants
+1304078,2022-04-20,2022,Punjab Kings,Delhi Capitals,Delhi Capitals,,9,,False,Punjab Kings,Delhi Capitals
+1304079,2022-04-21,2022,Mumbai Indians,Chennai Super Kings,Chennai Super Kings,,3,,False,Mumbai Indians,Chennai Super Kings
+1304080,2022-04-22,2022,Rajasthan Royals,Delhi Capitals,Rajasthan Royals,15,,,False,Rajasthan Royals,Delhi Capitals
+1304081,2022-04-23,2022,Gujarat Titans,Kolkata Knight Riders,Gujarat Titans,8,,,False,Gujarat Titans,Kolkata Knight Riders
+1304082,2022-04-23,2022,Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,,9,,False,Royal Challengers Bengaluru,Sunrisers Hyderabad
+1304083,2022-04-24,2022,Lucknow Super Giants,Mumbai Indians,Lucknow Super Giants,36,,,False,Lucknow Super Giants,Mumbai Indians
+1304084,2022-04-25,2022,Punjab Kings,Chennai Super Kings,Punjab Kings,11,,,False,Punjab Kings,Chennai Super Kings
+1304085,2022-04-26,2022,Rajasthan Royals,Royal Challengers Bangalore,Rajasthan Royals,29,,,False,Rajasthan Royals,Royal Challengers Bengaluru
+1304086,2022-04-27,2022,Sunrisers Hyderabad,Gujarat Titans,Gujarat Titans,,5,,False,Sunrisers Hyderabad,Gujarat Titans
+1304087,2022-04-28,2022,Kolkata Knight Riders,Delhi Capitals,Delhi Capitals,,4,,False,Kolkata Knight Riders,Delhi Capitals
+1304088,2022-04-29,2022,Lucknow Super Giants,Punjab Kings,Lucknow Super Giants,20,,,False,Lucknow Super Giants,Punjab Kings
+1304089,2022-04-30,2022,Royal Challengers Bangalore,Gujarat Titans,Gujarat Titans,,6,,False,Royal Challengers Bengaluru,Gujarat Titans
+1304090,2022-04-30,2022,Rajasthan Royals,Mumbai Indians,Mumbai Indians,,5,,False,Rajasthan Royals,Mumbai Indians
+1304091,2022-05-01,2022,Lucknow Super Giants,Delhi Capitals,Lucknow Super Giants,6,,,False,Lucknow Super Giants,Delhi Capitals
+1304092,2022-05-01,2022,Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,13,,,False,Chennai Super Kings,Sunrisers Hyderabad
+1304093,2022-05-02,2022,Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,,7,,False,Rajasthan Royals,Kolkata Knight Riders
+1304094,2022-05-03,2022,Gujarat Titans,Punjab Kings,Punjab Kings,,8,,False,Gujarat Titans,Punjab Kings
+1304095,2022-05-04,2022,Royal Challengers Bangalore,Chennai Super Kings,Royal Challengers Bangalore,13,,,False,Royal Challengers Bengaluru,Chennai Super Kings
+1304096,2022-05-05,2022,Delhi Capitals,Sunrisers Hyderabad,Delhi Capitals,21,,,False,Delhi Capitals,Sunrisers Hyderabad
+1304097,2022-05-06,2022,Mumbai Indians,Gujarat Titans,Mumbai Indians,5,,,False,Mumbai Indians,Gujarat Titans
+1304098,2022-05-07,2022,Punjab Kings,Rajasthan Royals,Rajasthan Royals,,6,,False,Punjab Kings,Rajasthan Royals
+1304099,2022-05-07,2022,Lucknow Super Giants,Kolkata Knight Riders,Lucknow Super Giants,75,,,False,Lucknow Super Giants,Kolkata Knight Riders
+1304100,2022-05-08,2022,Royal Challengers Bangalore,Sunrisers Hyderabad,Royal Challengers Bangalore,67,,,False,Royal Challengers Bengaluru,Sunrisers Hyderabad
+1304101,2022-05-08,2022,Chennai Super Kings,Delhi Capitals,Chennai Super Kings,91,,,False,Chennai Super Kings,Delhi Capitals
+1304102,2022-05-09,2022,Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,52,,,False,Kolkata Knight Riders,Mumbai Indians
+1304103,2022-05-10,2022,Gujarat Titans,Lucknow Super Giants,Gujarat Titans,62,,,False,Gujarat Titans,Lucknow Super Giants
+1304104,2022-05-11,2022,Rajasthan Royals,Delhi Capitals,Delhi Capitals,,8,,False,Rajasthan Royals,Delhi Capitals
+1304105,2022-05-12,2022,Chennai Super Kings,Mumbai Indians,Mumbai Indians,,5,,False,Chennai Super Kings,Mumbai Indians
+1304106,2022-05-13,2022,Punjab Kings,Royal Challengers Bangalore,Punjab Kings,54,,,False,Punjab Kings,Royal Challengers Bengaluru
+1304107,2022-05-14,2022,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,54,,,False,Kolkata Knight Riders,Sunrisers Hyderabad
+1304108,2022-05-15,2022,Chennai Super Kings,Gujarat Titans,Gujarat Titans,,7,,False,Chennai Super Kings,Gujarat Titans
+1304109,2022-05-15,2022,Rajasthan Royals,Lucknow Super Giants,Rajasthan Royals,24,,,False,Rajasthan Royals,Lucknow Super Giants
+1304110,2022-05-16,2022,Delhi Capitals,Punjab Kings,Delhi Capitals,17,,,False,Delhi Capitals,Punjab Kings
+1304111,2022-05-17,2022,Sunrisers Hyderabad,Mumbai Indians,Sunrisers Hyderabad,3,,,False,Sunrisers Hyderabad,Mumbai Indians
+1304112,2022-05-18,2022,Lucknow Super Giants,Kolkata Knight Riders,Lucknow Super Giants,2,,,False,Lucknow Super Giants,Kolkata Knight Riders
+1304113,2022-05-19,2022,Gujarat Titans,Royal Challengers Bangalore,Royal Challengers Bangalore,,8,,False,Gujarat Titans,Royal Challengers Bengaluru
+1304114,2022-05-20,2022,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,,5,,False,Chennai Super Kings,Rajasthan Royals
+1304115,2022-05-21,2022,Delhi Capitals,Mumbai Indians,Mumbai Indians,,5,,False,Delhi Capitals,Mumbai Indians
+1304116,2022-05-22,2022,Sunrisers Hyderabad,Punjab Kings,Punjab Kings,,5,,False,Sunrisers Hyderabad,Punjab Kings
+1312197,2022-05-24,2022,Rajasthan Royals,Gujarat Titans,Gujarat Titans,,7,,False,Rajasthan Royals,Gujarat Titans
+1312198,2022-05-25,2022,Royal Challengers Bangalore,Lucknow Super Giants,Royal Challengers Bangalore,14,,,False,Royal Challengers Bengaluru,Lucknow Super Giants
+1312199,2022-05-27,2022,Royal Challengers Bangalore,Rajasthan Royals,Rajasthan Royals,,7,,False,Royal Challengers Bengaluru,Rajasthan Royals
+1312200,2022-05-29,2022,Rajasthan Royals,Gujarat Titans,Gujarat Titans,,7,,False,Rajasthan Royals,Gujarat Titans
+1359475,2023-03-31,2023,Chennai Super Kings,Gujarat Titans,Gujarat Titans,,5,,False,Chennai Super Kings,Gujarat Titans
+1359476,2023-04-01,2023,Punjab Kings,Kolkata Knight Riders,Punjab Kings,7,,D/L,False,Punjab Kings,Kolkata Knight Riders
+1359477,2023-04-01,2023,Lucknow Super Giants,Delhi Capitals,Lucknow Super Giants,50,,,False,Lucknow Super Giants,Delhi Capitals
+1359478,2023-04-02,2023,Rajasthan Royals,Sunrisers Hyderabad,Rajasthan Royals,72,,,False,Rajasthan Royals,Sunrisers Hyderabad
+1359479,2023-04-02,2023,Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,,8,,False,Mumbai Indians,Royal Challengers Bengaluru
+1359480,2023-04-03,2023,Chennai Super Kings,Lucknow Super Giants,Chennai Super Kings,12,,,False,Chennai Super Kings,Lucknow Super Giants
+1359481,2023-04-04,2023,Delhi Capitals,Gujarat Titans,Gujarat Titans,,6,,False,Delhi Capitals,Gujarat Titans
+1359482,2023-04-05,2023,Punjab Kings,Rajasthan Royals,Punjab Kings,5,,,False,Punjab Kings,Rajasthan Royals
+1359483,2023-04-06,2023,Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,81,,,False,Kolkata Knight Riders,Royal Challengers Bengaluru
+1359484,2023-04-07,2023,Sunrisers Hyderabad,Lucknow Super Giants,Lucknow Super Giants,,5,,False,Sunrisers Hyderabad,Lucknow Super Giants
+1359485,2023-04-08,2023,Rajasthan Royals,Delhi Capitals,Rajasthan Royals,57,,,False,Rajasthan Royals,Delhi Capitals
+1359486,2023-04-08,2023,Mumbai Indians,Chennai Super Kings,Chennai Super Kings,,7,,False,Mumbai Indians,Chennai Super Kings
+1359487,2023-04-09,2023,Gujarat Titans,Kolkata Knight Riders,Kolkata Knight Riders,,3,,False,Gujarat Titans,Kolkata Knight Riders
+1359488,2023-04-09,2023,Punjab Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,,8,,False,Punjab Kings,Sunrisers Hyderabad
+1359489,2023-04-10,2023,Royal Challengers Bangalore,Lucknow Super Giants,Lucknow Super Giants,,1,,False,Royal Challengers Bengaluru,Lucknow Super Giants
+1359490,2023-04-11,2023,Delhi Capitals,Mumbai Indians,Mumbai Indians,,6,,False,Delhi Capitals,Mumbai Indians
+1359491,2023-04-12,2023,Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,3,,,False,Rajasthan Royals,Chennai Super Kings
+1359492,2023-04-13,2023,Punjab Kings,Gujarat Titans,Gujarat Titans,,6,,False,Punjab Kings,Gujarat Titans
+1359493,2023-04-14,2023,Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,23,,,False,Sunrisers Hyderabad,Kolkata Knight Riders
+1359494,2023-04-15,2023,Royal Challengers Bangalore,Delhi Capitals,Royal Challengers Bangalore,23,,,False,Royal Challengers Bengaluru,Delhi Capitals
+1359495,2023-04-15,2023,Lucknow Super Giants,Punjab Kings,Punjab Kings,,2,,False,Lucknow Super Giants,Punjab Kings
+1359496,2023-04-16,2023,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,,5,,False,Kolkata Knight Riders,Mumbai Indians
+1359497,2023-04-16,2023,Gujarat Titans,Rajasthan Royals,Rajasthan Royals,,3,,False,Gujarat Titans,Rajasthan Royals
+1359498,2023-04-17,2023,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,8,,,False,Chennai Super Kings,Royal Challengers Bengaluru
+1359499,2023-04-18,2023,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,14,,,False,Mumbai Indians,Sunrisers Hyderabad
+1359500,2023-04-19,2023,Lucknow Super Giants,Rajasthan Royals,Lucknow Super Giants,10,,,False,Lucknow Super Giants,Rajasthan Royals
+1359501,2023-04-20,2023,Royal Challengers Bangalore,Punjab Kings,Royal Challengers Bangalore,24,,,False,Royal Challengers Bengaluru,Punjab Kings
+1359502,2023-04-20,2023,Kolkata Knight Riders,Delhi Capitals,Delhi Capitals,,4,,False,Kolkata Knight Riders,Delhi Capitals
+1359503,2023-04-21,2023,Sunrisers Hyderabad,Chennai Super Kings,Chennai Super Kings,,7,,False,Sunrisers Hyderabad,Chennai Super Kings
+1359504,2023-04-22,2023,Gujarat Titans,Lucknow Super Giants,Gujarat Titans,7,,,False,Gujarat Titans,Lucknow Super Giants
+1359505,2023-04-22,2023,Punjab Kings,Mumbai Indians,Punjab Kings,13,,,False,Punjab Kings,Mumbai Indians
+1359506,2023-04-23,2023,Royal Challengers Bangalore,Rajasthan Royals,Royal Challengers Bangalore,7,,,False,Royal Challengers Bengaluru,Rajasthan Royals
+1359507,2023-04-23,2023,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,49,,,False,Chennai Super Kings,Kolkata Knight Riders
+1359508,2023-04-24,2023,Delhi Capitals,Sunrisers Hyderabad,Delhi Capitals,7,,,False,Delhi Capitals,Sunrisers Hyderabad
+1359509,2023-04-25,2023,Gujarat Titans,Mumbai Indians,Gujarat Titans,55,,,False,Gujarat Titans,Mumbai Indians
+1359510,2023-04-26,2023,Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,21,,,False,Kolkata Knight Riders,Royal Challengers Bengaluru
+1359511,2023-04-27,2023,Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,32,,,False,Rajasthan Royals,Chennai Super Kings
+1359512,2023-04-28,2023,Lucknow Super Giants,Punjab Kings,Lucknow Super Giants,56,,,False,Lucknow Super Giants,Punjab Kings
+1359513,2023-04-29,2023,Kolkata Knight Riders,Gujarat Titans,Gujarat Titans,,7,,False,Kolkata Knight Riders,Gujarat Titans
+1359514,2023-04-29,2023,Sunrisers Hyderabad,Delhi Capitals,Sunrisers Hyderabad,9,,,False,Sunrisers Hyderabad,Delhi Capitals
+1359515,2023-04-30,2023,Chennai Super Kings,Punjab Kings,Punjab Kings,,4,,False,Chennai Super Kings,Punjab Kings
+1359516,2023-04-30,2023,Rajasthan Royals,Mumbai Indians,Mumbai Indians,,6,,False,Rajasthan Royals,Mumbai Indians
+1359517,2023-05-01,2023,Royal Challengers Bangalore,Lucknow Super Giants,Royal Challengers Bangalore,18,,,False,Royal Challengers Bengaluru,Lucknow Super Giants
+1359518,2023-05-02,2023,Delhi Capitals,Gujarat Titans,Delhi Capitals,5,,,False,Delhi Capitals,Gujarat Titans
+1359519,2023-05-03,2023,Lucknow Super Giants,Chennai Super Kings,,,,,False,Lucknow Super Giants,Chennai Super Kings
+1359520,2023-05-03,2023,Punjab Kings,Mumbai Indians,Mumbai Indians,,6,,False,Punjab Kings,Mumbai Indians
+1359521,2023-05-04,2023,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,5,,,False,Kolkata Knight Riders,Sunrisers Hyderabad
+1359522,2023-05-05,2023,Rajasthan Royals,Gujarat Titans,Gujarat Titans,,9,,False,Rajasthan Royals,Gujarat Titans
+1359523,2023-05-06,2023,Mumbai Indians,Chennai Super Kings,Chennai Super Kings,,6,,False,Mumbai Indians,Chennai Super Kings
+1359524,2023-05-06,2023,Royal Challengers Bangalore,Delhi Capitals,Delhi Capitals,,7,,False,Royal Challengers Bengaluru,Delhi Capitals
+1359525,2023-05-07,2023,Gujarat Titans,Lucknow Super Giants,Gujarat Titans,56,,,False,Gujarat Titans,Lucknow Super Giants
+1359526,2023-05-07,2023,Rajasthan Royals,Sunrisers Hyderabad,Sunrisers Hyderabad,,4,,False,Rajasthan Royals,Sunrisers Hyderabad
+1359527,2023-05-08,2023,Punjab Kings,Kolkata Knight Riders,Kolkata Knight Riders,,5,,False,Punjab Kings,Kolkata Knight Riders
+1359528,2023-05-09,2023,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,,6,,False,Royal Challengers Bengaluru,Mumbai Indians
+1359529,2023-05-10,2023,Chennai Super Kings,Delhi Capitals,Chennai Super Kings,27,,,False,Chennai Super Kings,Delhi Capitals
+1359530,2023-05-11,2023,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,,9,,False,Kolkata Knight Riders,Rajasthan Royals
+1359531,2023-05-12,2023,Mumbai Indians,Gujarat Titans,Mumbai Indians,27,,,False,Mumbai Indians,Gujarat Titans
+1359532,2023-05-13,2023,Sunrisers Hyderabad,Lucknow Super Giants,Lucknow Super Giants,,7,,False,Sunrisers Hyderabad,Lucknow Super Giants
+1359533,2023-05-13,2023,Punjab Kings,Delhi Capitals,Punjab Kings,31,,,False,Punjab Kings,Delhi Capitals
+1359534,2023-05-14,2023,Royal Challengers Bangalore,Rajasthan Royals,Royal Challengers Bangalore,112,,,False,Royal Challengers Bengaluru,Rajasthan Royals
+1359535,2023-05-14,2023,Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,,6,,False,Chennai Super Kings,Kolkata Knight Riders
+1359536,2023-05-15,2023,Gujarat Titans,Sunrisers Hyderabad,Gujarat Titans,34,,,False,Gujarat Titans,Sunrisers Hyderabad
+1359537,2023-05-16,2023,Lucknow Super Giants,Mumbai Indians,Lucknow Super Giants,5,,,False,Lucknow Super Giants,Mumbai Indians
+1359538,2023-05-17,2023,Delhi Capitals,Punjab Kings,Delhi Capitals,15,,,False,Delhi Capitals,Punjab Kings
+1359539,2023-05-18,2023,Sunrisers Hyderabad,Royal Challengers Bangalore,Royal Challengers Bangalore,,8,,False,Sunrisers Hyderabad,Royal Challengers Bengaluru
+1359540,2023-05-19,2023,Punjab Kings,Rajasthan Royals,Rajasthan Royals,,4,,False,Punjab Kings,Rajasthan Royals
+1359541,2023-05-20,2023,Chennai Super Kings,Delhi Capitals,Chennai Super Kings,77,,,False,Chennai Super Kings,Delhi Capitals
+1359542,2023-05-20,2023,Lucknow Super Giants,Kolkata Knight Riders,Lucknow Super Giants,1,,,False,Lucknow Super Giants,Kolkata Knight Riders
+1359543,2023-05-21,2023,Sunrisers Hyderabad,Mumbai Indians,Mumbai Indians,,8,,False,Sunrisers Hyderabad,Mumbai Indians
+1359544,2023-05-21,2023,Royal Challengers Bangalore,Gujarat Titans,Gujarat Titans,,6,,False,Royal Challengers Bengaluru,Gujarat Titans
+1370350,2023-05-23,2023,Chennai Super Kings,Gujarat Titans,Chennai Super Kings,15,,,False,Chennai Super Kings,Gujarat Titans
+1370351,2023-05-24,2023,Mumbai Indians,Lucknow Super Giants,Mumbai Indians,81,,,False,Mumbai Indians,Lucknow Super Giants
+1370352,2023-05-26,2023,Gujarat Titans,Mumbai Indians,Gujarat Titans,62,,,False,Gujarat Titans,Mumbai Indians
+1370353,2023-05-29,2023,Gujarat Titans,Chennai Super Kings,Chennai Super Kings,,5,D/L,False,Gujarat Titans,Chennai Super Kings
+1422119,2024-03-22,2024,Royal Challengers Bengaluru,Chennai Super Kings,Chennai Super Kings,,6,,False,Royal Challengers Bengaluru,Chennai Super Kings
+1422120,2024-03-23,2024,Delhi Capitals,Punjab Kings,Punjab Kings,,4,,False,Delhi Capitals,Punjab Kings
+1422121,2024-03-23,2024,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,4,,,False,Kolkata Knight Riders,Sunrisers Hyderabad
+1422122,2024-03-24,2024,Rajasthan Royals,Lucknow Super Giants,Rajasthan Royals,20,,,False,Rajasthan Royals,Lucknow Super Giants
+1422123,2024-03-24,2024,Gujarat Titans,Mumbai Indians,Gujarat Titans,6,,,False,Gujarat Titans,Mumbai Indians
+1422124,2024-03-25,2024,Punjab Kings,Royal Challengers Bengaluru,Royal Challengers Bengaluru,,4,,False,Punjab Kings,Royal Challengers Bengaluru
+1422125,2024-03-26,2024,Chennai Super Kings,Gujarat Titans,Chennai Super Kings,63,,,False,Chennai Super Kings,Gujarat Titans
+1422126,2024-03-27,2024,Sunrisers Hyderabad,Mumbai Indians,Sunrisers Hyderabad,31,,,False,Sunrisers Hyderabad,Mumbai Indians
+1422127,2024-03-28,2024,Rajasthan Royals,Delhi Capitals,Rajasthan Royals,12,,,False,Rajasthan Royals,Delhi Capitals
+1422128,2024-03-29,2024,Royal Challengers Bengaluru,Kolkata Knight Riders,Kolkata Knight Riders,,7,,False,Royal Challengers Bengaluru,Kolkata Knight Riders
+1422129,2024-03-30,2024,Lucknow Super Giants,Punjab Kings,Lucknow Super Giants,21,,,False,Lucknow Super Giants,Punjab Kings
+1422130,2024-03-31,2024,Sunrisers Hyderabad,Gujarat Titans,Gujarat Titans,,7,,False,Sunrisers Hyderabad,Gujarat Titans
+1422131,2024-03-31,2024,Delhi Capitals,Chennai Super Kings,Delhi Capitals,20,,,False,Delhi Capitals,Chennai Super Kings
+1422132,2024-04-01,2024,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,,6,,False,Mumbai Indians,Rajasthan Royals
+1422133,2024-04-02,2024,Lucknow Super Giants,Royal Challengers Bengaluru,Lucknow Super Giants,28,,,False,Lucknow Super Giants,Royal Challengers Bengaluru
+1422134,2024-04-03,2024,Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,106,,,False,Kolkata Knight Riders,Delhi Capitals
+1422135,2024-04-04,2024,Gujarat Titans,Punjab Kings,Punjab Kings,,3,,False,Gujarat Titans,Punjab Kings
+1422136,2024-04-05,2024,Chennai Super Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,,6,,False,Chennai Super Kings,Sunrisers Hyderabad
+1422137,2024-04-06,2024,Royal Challengers Bengaluru,Rajasthan Royals,Rajasthan Royals,,6,,False,Royal Challengers Bengaluru,Rajasthan Royals
+1422138,2024-04-07,2024,Mumbai Indians,Delhi Capitals,Mumbai Indians,29,,,False,Mumbai Indians,Delhi Capitals
+1422139,2024-04-07,2024,Lucknow Super Giants,Gujarat Titans,Lucknow Super Giants,33,,,False,Lucknow Super Giants,Gujarat Titans
+1426260,2024-04-08,2024,Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,,7,,False,Kolkata Knight Riders,Chennai Super Kings
+1426261,2024-04-09,2024,Sunrisers Hyderabad,Punjab Kings,Sunrisers Hyderabad,2,,,False,Sunrisers Hyderabad,Punjab Kings
+1426262,2024-04-10,2024,Rajasthan Royals,Gujarat Titans,Gujarat Titans,,3,,False,Rajasthan Royals,Gujarat Titans
+1426263,2024-04-11,2024,Royal Challengers Bengaluru,Mumbai Indians,Mumbai Indians,,7,,False,Royal Challengers Bengaluru,Mumbai Indians
+1426264,2024-04-12,2024,Lucknow Super Giants,Delhi Capitals,Delhi Capitals,,6,,False,Lucknow Super Giants,Delhi Capitals
+1426265,2024-04-13,2024,Punjab Kings,Rajasthan Royals,Rajasthan Royals,,3,,False,Punjab Kings,Rajasthan Royals
+1426266,2024-04-14,2024,Lucknow Super Giants,Kolkata Knight Riders,Kolkata Knight Riders,,8,,False,Lucknow Super Giants,Kolkata Knight Riders
+1426267,2024-04-14,2024,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,20,,,False,Chennai Super Kings,Mumbai Indians
+1426268,2024-04-15,2024,Sunrisers Hyderabad,Royal Challengers Bengaluru,Sunrisers Hyderabad,25,,,False,Sunrisers Hyderabad,Royal Challengers Bengaluru
+1426269,2024-04-16,2024,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,,2,,False,Kolkata Knight Riders,Rajasthan Royals
+1426270,2024-04-17,2024,Gujarat Titans,Delhi Capitals,Delhi Capitals,,6,,False,Gujarat Titans,Delhi Capitals
+1426271,2024-04-18,2024,Mumbai Indians,Punjab Kings,Mumbai Indians,9,,,False,Mumbai Indians,Punjab Kings
+1426272,2024-04-19,2024,Chennai Super Kings,Lucknow Super Giants,Lucknow Super Giants,,8,,False,Chennai Super Kings,Lucknow Super Giants
+1426273,2024-04-20,2024,Sunrisers Hyderabad,Delhi Capitals,Sunrisers Hyderabad,67,,,False,Sunrisers Hyderabad,Delhi Capitals
+1426274,2024-04-21,2024,Kolkata Knight Riders,Royal Challengers Bengaluru,Kolkata Knight Riders,1,,,False,Kolkata Knight Riders,Royal Challengers Bengaluru
+1426275,2024-04-21,2024,Punjab Kings,Gujarat Titans,Gujarat Titans,,3,,False,Punjab Kings,Gujarat Titans
+1426276,2024-04-22,2024,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,,9,,False,Mumbai Indians,Rajasthan Royals
+1426277,2024-04-23,2024,Chennai Super Kings,Lucknow Super Giants,Lucknow Super Giants,,6,,False,Chennai Super Kings,Lucknow Super Giants
+1426278,2024-04-24,2024,Delhi Capitals,Gujarat Titans,Delhi Capitals,4,,,False,Delhi Capitals,Gujarat Titans
+1426279,2024-04-25,2024,Royal Challengers Bengaluru,Sunrisers Hyderabad,Royal Challengers Bengaluru,35,,,False,Royal Challengers Bengaluru,Sunrisers Hyderabad
+1426280,2024-04-26,2024,Kolkata Knight Riders,Punjab Kings,Punjab Kings,,8,,False,Kolkata Knight Riders,Punjab Kings
+1426281,2024-04-27,2024,Delhi Capitals,Mumbai Indians,Delhi Capitals,10,,,False,Delhi Capitals,Mumbai Indians
+1426282,2024-04-27,2024,Lucknow Super Giants,Rajasthan Royals,Rajasthan Royals,,7,,False,Lucknow Super Giants,Rajasthan Royals
+1426283,2024-04-28,2024,Gujarat Titans,Royal Challengers Bengaluru,Royal Challengers Bengaluru,,9,,False,Gujarat Titans,Royal Challengers Bengaluru
+1426284,2024-04-28,2024,Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,78,,,False,Chennai Super Kings,Sunrisers Hyderabad
+1426285,2024-04-29,2024,Delhi Capitals,Kolkata Knight Riders,Kolkata Knight Riders,,7,,False,Delhi Capitals,Kolkata Knight Riders
+1426286,2024-04-30,2024,Mumbai Indians,Lucknow Super Giants,Lucknow Super Giants,,4,,False,Mumbai Indians,Lucknow Super Giants
+1426287,2024-05-01,2024,Chennai Super Kings,Punjab Kings,Punjab Kings,,7,,False,Chennai Super Kings,Punjab Kings
+1426288,2024-05-02,2024,Sunrisers Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,1,,,False,Sunrisers Hyderabad,Rajasthan Royals
+1426289,2024-05-03,2024,Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,24,,,False,Kolkata Knight Riders,Mumbai Indians
+1426290,2024-05-04,2024,Gujarat Titans,Royal Challengers Bengaluru,Royal Challengers Bengaluru,,4,,False,Gujarat Titans,Royal Challengers Bengaluru
+1426291,2024-05-05,2024,Chennai Super Kings,Punjab Kings,Chennai Super Kings,28,,,False,Chennai Super Kings,Punjab Kings
+1426292,2024-05-05,2024,Kolkata Knight Riders,Lucknow Super Giants,Kolkata Knight Riders,98,,,False,Kolkata Knight Riders,Lucknow Super Giants
+1426293,2024-05-06,2024,Sunrisers Hyderabad,Mumbai Indians,Mumbai Indians,,7,,False,Sunrisers Hyderabad,Mumbai Indians
+1426294,2024-05-07,2024,Delhi Capitals,Rajasthan Royals,Delhi Capitals,20,,,False,Delhi Capitals,Rajasthan Royals
+1426295,2024-05-08,2024,Lucknow Super Giants,Sunrisers Hyderabad,Sunrisers Hyderabad,,10,,False,Lucknow Super Giants,Sunrisers Hyderabad
+1426296,2024-05-09,2024,Royal Challengers Bengaluru,Punjab Kings,Royal Challengers Bengaluru,60,,,False,Royal Challengers Bengaluru,Punjab Kings
+1426297,2024-05-10,2024,Gujarat Titans,Chennai Super Kings,Gujarat Titans,35,,,False,Gujarat Titans,Chennai Super Kings
+1426298,2024-05-11,2024,Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,18,,,False,Kolkata Knight Riders,Mumbai Indians
+1426299,2024-05-12,2024,Rajasthan Royals,Chennai Super Kings,Chennai Super Kings,,5,,False,Rajasthan Royals,Chennai Super Kings
+1426300,2024-05-12,2024,Royal Challengers Bengaluru,Delhi Capitals,Royal Challengers Bengaluru,47,,,False,Royal Challengers Bengaluru,Delhi Capitals
+1426302,2024-05-14,2024,Delhi Capitals,Lucknow Super Giants,Delhi Capitals,19,,,False,Delhi Capitals,Lucknow Super Giants
+1426303,2024-05-15,2024,Rajasthan Royals,Punjab Kings,Punjab Kings,,5,,False,Rajasthan Royals,Punjab Kings
+1426305,2024-05-17,2024,Lucknow Super Giants,Mumbai Indians,Lucknow Super Giants,18,,,False,Lucknow Super Giants,Mumbai Indians
+1426306,2024-05-18,2024,Royal Challengers Bengaluru,Chennai Super Kings,Royal Challengers Bengaluru,27,,,False,Royal Challengers Bengaluru,Chennai Super Kings
+1426307,2024-05-19,2024,Punjab Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,,4,,False,Punjab Kings,Sunrisers Hyderabad
+1426309,2024-05-21,2024,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,,8,,False,Sunrisers Hyderabad,Kolkata Knight Riders
+1426310,2024-05-22,2024,Royal Challengers Bengaluru,Rajasthan Royals,Rajasthan Royals,,4,,False,Royal Challengers Bengaluru,Rajasthan Royals
+1426311,2024-05-24,2024,Sunrisers Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,36,,,False,Sunrisers Hyderabad,Rajasthan Royals
+1426312,2024-05-26,2024,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,,8,,False,Sunrisers Hyderabad,Kolkata Knight Riders
+1473438,2025-03-22,2025,Kolkata Knight Riders,Royal Challengers Bengaluru,Royal Challengers Bengaluru,,7,,False,Kolkata Knight Riders,Royal Challengers Bengaluru
+1473439,2025-03-23,2025,Sunrisers Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,44,,,False,Sunrisers Hyderabad,Rajasthan Royals
+1473440,2025-03-23,2025,Mumbai Indians,Chennai Super Kings,Chennai Super Kings,,4,,False,Mumbai Indians,Chennai Super Kings
+1473441,2025-03-24,2025,Lucknow Super Giants,Delhi Capitals,Delhi Capitals,,1,,False,Lucknow Super Giants,Delhi Capitals
+1473442,2025-03-25,2025,Punjab Kings,Gujarat Titans,Punjab Kings,11,,,False,Punjab Kings,Gujarat Titans
+1473443,2025-03-26,2025,Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,,8,,False,Rajasthan Royals,Kolkata Knight Riders
+1473444,2025-03-27,2025,Sunrisers Hyderabad,Lucknow Super Giants,Lucknow Super Giants,,5,,False,Sunrisers Hyderabad,Lucknow Super Giants
+1473445,2025-03-28,2025,Royal Challengers Bengaluru,Chennai Super Kings,Royal Challengers Bengaluru,50,,,False,Royal Challengers Bengaluru,Chennai Super Kings
+1473446,2025-03-29,2025,Gujarat Titans,Mumbai Indians,Gujarat Titans,36,,,False,Gujarat Titans,Mumbai Indians
+1473447,2025-03-30,2025,Sunrisers Hyderabad,Delhi Capitals,Delhi Capitals,,7,,False,Sunrisers Hyderabad,Delhi Capitals
+1473448,2025-03-30,2025,Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,6,,,False,Rajasthan Royals,Chennai Super Kings
+1473449,2025-03-31,2025,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,,8,,False,Kolkata Knight Riders,Mumbai Indians
+1473450,2025-04-01,2025,Lucknow Super Giants,Punjab Kings,Punjab Kings,,8,,False,Lucknow Super Giants,Punjab Kings
+1473451,2025-04-02,2025,Royal Challengers Bengaluru,Gujarat Titans,Gujarat Titans,,8,,False,Royal Challengers Bengaluru,Gujarat Titans
+1473452,2025-04-03,2025,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,80,,,False,Kolkata Knight Riders,Sunrisers Hyderabad
+1473453,2025-04-04,2025,Lucknow Super Giants,Mumbai Indians,Lucknow Super Giants,12,,,False,Lucknow Super Giants,Mumbai Indians
+1473454,2025-04-05,2025,Delhi Capitals,Chennai Super Kings,Delhi Capitals,25,,,False,Delhi Capitals,Chennai Super Kings
+1473455,2025-04-05,2025,Rajasthan Royals,Punjab Kings,Rajasthan Royals,50,,,False,Rajasthan Royals,Punjab Kings
+1473457,2025-04-06,2025,Sunrisers Hyderabad,Gujarat Titans,Gujarat Titans,,7,,False,Sunrisers Hyderabad,Gujarat Titans
+1473458,2025-04-07,2025,Royal Challengers Bengaluru,Mumbai Indians,Royal Challengers Bengaluru,12,,,False,Royal Challengers Bengaluru,Mumbai Indians
+1473456,2025-04-08,2025,Lucknow Super Giants,Kolkata Knight Riders,Lucknow Super Giants,4,,,False,Lucknow Super Giants,Kolkata Knight Riders
+1473459,2025-04-08,2025,Punjab Kings,Chennai Super Kings,Punjab Kings,18,,,False,Punjab Kings,Chennai Super Kings
+1473460,2025-04-09,2025,Gujarat Titans,Rajasthan Royals,Gujarat Titans,58,,,False,Gujarat Titans,Rajasthan Royals
+1473461,2025-04-10,2025,Royal Challengers Bengaluru,Delhi Capitals,Delhi Capitals,,6,,False,Royal Challengers Bengaluru,Delhi Capitals
+1473462,2025-04-11,2025,Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,,8,,False,Chennai Super Kings,Kolkata Knight Riders
+1473463,2025-04-12,2025,Gujarat Titans,Lucknow Super Giants,Lucknow Super Giants,,6,,False,Gujarat Titans,Lucknow Super Giants
+1473464,2025-04-12,2025,Punjab Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,,8,,False,Punjab Kings,Sunrisers Hyderabad
+1473465,2025-04-13,2025,Rajasthan Royals,Royal Challengers Bengaluru,Royal Challengers Bengaluru,,9,,False,Rajasthan Royals,Royal Challengers Bengaluru
+1473466,2025-04-13,2025,Mumbai Indians,Delhi Capitals,Mumbai Indians,12,,,False,Mumbai Indians,Delhi Capitals
+1473467,2025-04-14,2025,Lucknow Super Giants,Chennai Super Kings,Chennai Super Kings,,5,,False,Lucknow Super Giants,Chennai Super Kings
+1473468,2025-04-15,2025,Punjab Kings,Kolkata Knight Riders,Punjab Kings,16,,,False,Punjab Kings,Kolkata Knight Riders
+1473469,2025-04-16,2025,Delhi Capitals,Rajasthan Royals,,,,,True,Delhi Capitals,Rajasthan Royals
+1473470,2025-04-17,2025,Sunrisers Hyderabad,Mumbai Indians,Mumbai Indians,,4,,False,Sunrisers Hyderabad,Mumbai Indians
+1473471,2025-04-18,2025,Royal Challengers Bengaluru,Punjab Kings,Punjab Kings,,5,,False,Royal Challengers Bengaluru,Punjab Kings
+1473472,2025-04-19,2025,Delhi Capitals,Gujarat Titans,Gujarat Titans,,7,,False,Delhi Capitals,Gujarat Titans
+1473473,2025-04-19,2025,Lucknow Super Giants,Rajasthan Royals,Lucknow Super Giants,2,,,False,Lucknow Super Giants,Rajasthan Royals
+1473474,2025-04-20,2025,Punjab Kings,Royal Challengers Bengaluru,Royal Challengers Bengaluru,,7,,False,Punjab Kings,Royal Challengers Bengaluru
+1473475,2025-04-20,2025,Chennai Super Kings,Mumbai Indians,Mumbai Indians,,9,,False,Chennai Super Kings,Mumbai Indians
+1473476,2025-04-21,2025,Gujarat Titans,Kolkata Knight Riders,Gujarat Titans,39,,,False,Gujarat Titans,Kolkata Knight Riders
+1473477,2025-04-22,2025,Lucknow Super Giants,Delhi Capitals,Delhi Capitals,,8,,False,Lucknow Super Giants,Delhi Capitals
+1473478,2025-04-23,2025,Sunrisers Hyderabad,Mumbai Indians,Mumbai Indians,,7,,False,Sunrisers Hyderabad,Mumbai Indians
+1473479,2025-04-24,2025,Royal Challengers Bengaluru,Rajasthan Royals,Royal Challengers Bengaluru,11,,,False,Royal Challengers Bengaluru,Rajasthan Royals
+1473480,2025-04-25,2025,Chennai Super Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,,5,,False,Chennai Super Kings,Sunrisers Hyderabad
+1473481,2025-04-26,2025,Punjab Kings,Kolkata Knight Riders,,,,,False,Punjab Kings,Kolkata Knight Riders
+1473482,2025-04-27,2025,Mumbai Indians,Lucknow Super Giants,Mumbai Indians,54,,,False,Mumbai Indians,Lucknow Super Giants
+1473483,2025-04-27,2025,Delhi Capitals,Royal Challengers Bengaluru,Royal Challengers Bengaluru,,6,,False,Delhi Capitals,Royal Challengers Bengaluru
+1473484,2025-04-28,2025,Gujarat Titans,Rajasthan Royals,Rajasthan Royals,,8,,False,Gujarat Titans,Rajasthan Royals
+1473485,2025-04-29,2025,Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,14,,,False,Kolkata Knight Riders,Delhi Capitals
+1473486,2025-04-30,2025,Chennai Super Kings,Punjab Kings,Punjab Kings,,4,,False,Chennai Super Kings,Punjab Kings
+1473487,2025-05-01,2025,Mumbai Indians,Rajasthan Royals,Mumbai Indians,100,,,False,Mumbai Indians,Rajasthan Royals
+1473488,2025-05-02,2025,Gujarat Titans,Sunrisers Hyderabad,Gujarat Titans,38,,,False,Gujarat Titans,Sunrisers Hyderabad
+1473489,2025-05-03,2025,Royal Challengers Bengaluru,Chennai Super Kings,Royal Challengers Bengaluru,2,,,False,Royal Challengers Bengaluru,Chennai Super Kings
+1473490,2025-05-04,2025,Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,1,,,False,Kolkata Knight Riders,Rajasthan Royals
+1473491,2025-05-04,2025,Punjab Kings,Lucknow Super Giants,Punjab Kings,37,,,False,Punjab Kings,Lucknow Super Giants
+1473492,2025-05-05,2025,Delhi Capitals,Sunrisers Hyderabad,,,,,False,Delhi Capitals,Sunrisers Hyderabad
+1473493,2025-05-06,2025,Mumbai Indians,Gujarat Titans,Gujarat Titans,,3,D/L,False,Mumbai Indians,Gujarat Titans
+1473494,2025-05-07,2025,Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,,2,,False,Kolkata Knight Riders,Chennai Super Kings
+1473495,2025-05-08,2025,Punjab Kings,Delhi Capitals,,,,,False,Punjab Kings,Delhi Capitals
+1473497,2025-05-18,2025,Punjab Kings,Rajasthan Royals,Punjab Kings,10,,,False,Punjab Kings,Rajasthan Royals
+1473498,2025-05-18,2025,Delhi Capitals,Gujarat Titans,Gujarat Titans,,10,,False,Delhi Capitals,Gujarat Titans
+1473499,2025-05-19,2025,Lucknow Super Giants,Sunrisers Hyderabad,Sunrisers Hyderabad,,6,,False,Lucknow Super Giants,Sunrisers Hyderabad
+1473500,2025-05-20,2025,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,,6,,False,Chennai Super Kings,Rajasthan Royals
+1473501,2025-05-21,2025,Mumbai Indians,Delhi Capitals,Mumbai Indians,59,,,False,Mumbai Indians,Delhi Capitals
+1473502,2025-05-22,2025,Lucknow Super Giants,Gujarat Titans,Lucknow Super Giants,33,,,False,Lucknow Super Giants,Gujarat Titans
+1473503,2025-05-23,2025,Sunrisers Hyderabad,Royal Challengers Bengaluru,Sunrisers Hyderabad,42,,,False,Sunrisers Hyderabad,Royal Challengers Bengaluru
+1485779,2025-05-24,2025,Punjab Kings,Delhi Capitals,Delhi Capitals,,6,,False,Punjab Kings,Delhi Capitals
+1473504,2025-05-25,2025,Chennai Super Kings,Gujarat Titans,Chennai Super Kings,83,,,False,Chennai Super Kings,Gujarat Titans
+1473505,2025-05-25,2025,Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,110,,,False,Sunrisers Hyderabad,Kolkata Knight Riders
+1473506,2025-05-26,2025,Mumbai Indians,Punjab Kings,Punjab Kings,,7,,False,Mumbai Indians,Punjab Kings
+1473507,2025-05-27,2025,Lucknow Super Giants,Royal Challengers Bengaluru,Royal Challengers Bengaluru,,6,,False,Lucknow Super Giants,Royal Challengers Bengaluru
+1473508,2025-05-29,2025,Punjab Kings,Royal Challengers Bengaluru,Royal Challengers Bengaluru,,8,,False,Punjab Kings,Royal Challengers Bengaluru
+1473509,2025-05-30,2025,Mumbai Indians,Gujarat Titans,Mumbai Indians,20,,,False,Mumbai Indians,Gujarat Titans
+1473510,2025-06-01,2025,Mumbai Indians,Punjab Kings,Punjab Kings,,5,,False,Mumbai Indians,Punjab Kings
+1473511,2025-06-03,2025,Royal Challengers Bengaluru,Punjab Kings,Royal Challengers Bengaluru,6,,,False,Royal Challengers Bengaluru,Punjab Kings
+1527674,2026-03-28,2026,Sunrisers Hyderabad,Royal Challengers Bengaluru,Royal Challengers Bengaluru,,6,,False,Sunrisers Hyderabad,Royal Challengers Bengaluru
+1527675,2026-03-29,2026,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,,6,,False,Kolkata Knight Riders,Mumbai Indians
+1527676,2026-03-30,2026,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,,8,,False,Chennai Super Kings,Rajasthan Royals
+1527677,2026-03-31,2026,Gujarat Titans,Punjab Kings,Punjab Kings,,3,,False,Gujarat Titans,Punjab Kings
+1527678,2026-04-01,2026,Lucknow Super Giants,Delhi Capitals,Delhi Capitals,,6,,False,Lucknow Super Giants,Delhi Capitals
+1527679,2026-04-02,2026,Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,65,,,False,Sunrisers Hyderabad,Kolkata Knight Riders
+1527680,2026-04-03,2026,Chennai Super Kings,Punjab Kings,Punjab Kings,,5,,False,Chennai Super Kings,Punjab Kings
+1527681,2026-04-04,2026,Mumbai Indians,Delhi Capitals,Delhi Capitals,,6,,False,Mumbai Indians,Delhi Capitals
+1527682,2026-04-04,2026,Rajasthan Royals,Gujarat Titans,Rajasthan Royals,6,,,False,Rajasthan Royals,Gujarat Titans
+1527683,2026-04-05,2026,Sunrisers Hyderabad,Lucknow Super Giants,Lucknow Super Giants,,5,,False,Sunrisers Hyderabad,Lucknow Super Giants
+1527684,2026-04-05,2026,Royal Challengers Bengaluru,Chennai Super Kings,Royal Challengers Bengaluru,43,,,False,Royal Challengers Bengaluru,Chennai Super Kings
+1527685,2026-04-06,2026,Kolkata Knight Riders,Punjab Kings,,,,,False,Kolkata Knight Riders,Punjab Kings
+1527686,2026-04-07,2026,Rajasthan Royals,Mumbai Indians,Rajasthan Royals,27,,,False,Rajasthan Royals,Mumbai Indians
+1527687,2026-04-08,2026,Gujarat Titans,Delhi Capitals,Gujarat Titans,1,,,False,Gujarat Titans,Delhi Capitals
+1527688,2026-04-09,2026,Kolkata Knight Riders,Lucknow Super Giants,Lucknow Super Giants,,3,,False,Kolkata Knight Riders,Lucknow Super Giants
+1527689,2026-04-10,2026,Royal Challengers Bengaluru,Rajasthan Royals,Rajasthan Royals,,6,,False,Royal Challengers Bengaluru,Rajasthan Royals
+1527690,2026-04-11,2026,Sunrisers Hyderabad,Punjab Kings,Punjab Kings,,6,,False,Sunrisers Hyderabad,Punjab Kings
+1527691,2026-04-11,2026,Chennai Super Kings,Delhi Capitals,Chennai Super Kings,23,,,False,Chennai Super Kings,Delhi Capitals
+1527692,2026-04-12,2026,Lucknow Super Giants,Gujarat Titans,Gujarat Titans,,7,,False,Lucknow Super Giants,Gujarat Titans
+1527693,2026-04-12,2026,Royal Challengers Bengaluru,Mumbai Indians,Royal Challengers Bengaluru,18,,,False,Royal Challengers Bengaluru,Mumbai Indians
+1529264,2026-04-13,2026,Sunrisers Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,57,,,False,Sunrisers Hyderabad,Rajasthan Royals
+1529265,2026-04-14,2026,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,32,,,False,Chennai Super Kings,Kolkata Knight Riders
+1529266,2026-04-15,2026,Lucknow Super Giants,Royal Challengers Bengaluru,Royal Challengers Bengaluru,,5,,False,Lucknow Super Giants,Royal Challengers Bengaluru
+1529267,2026-04-16,2026,Mumbai Indians,Punjab Kings,Punjab Kings,,7,,False,Mumbai Indians,Punjab Kings
+1529268,2026-04-17,2026,Kolkata Knight Riders,Gujarat Titans,Gujarat Titans,,5,,False,Kolkata Knight Riders,Gujarat Titans
+1529269,2026-04-18,2026,Royal Challengers Bengaluru,Delhi Capitals,Delhi Capitals,,6,,False,Royal Challengers Bengaluru,Delhi Capitals
+1529270,2026-04-18,2026,Sunrisers Hyderabad,Chennai Super Kings,Sunrisers Hyderabad,10,,,False,Sunrisers Hyderabad,Chennai Super Kings
+1529271,2026-04-19,2026,Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,,4,,False,Rajasthan Royals,Kolkata Knight Riders
+1529272,2026-04-19,2026,Punjab Kings,Lucknow Super Giants,Punjab Kings,54,,,False,Punjab Kings,Lucknow Super Giants
+1529273,2026-04-20,2026,Mumbai Indians,Gujarat Titans,Mumbai Indians,99,,,False,Mumbai Indians,Gujarat Titans
+1529274,2026-04-21,2026,Sunrisers Hyderabad,Delhi Capitals,Sunrisers Hyderabad,47,,,False,Sunrisers Hyderabad,Delhi Capitals
+1529275,2026-04-22,2026,Rajasthan Royals,Lucknow Super Giants,Rajasthan Royals,40,,,False,Rajasthan Royals,Lucknow Super Giants
+1529276,2026-04-23,2026,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,103,,,False,Chennai Super Kings,Mumbai Indians
+1529277,2026-04-24,2026,Gujarat Titans,Royal Challengers Bengaluru,Royal Challengers Bengaluru,,5,,False,Gujarat Titans,Royal Challengers Bengaluru
+1529278,2026-04-25,2026,Delhi Capitals,Punjab Kings,Punjab Kings,,6,,False,Delhi Capitals,Punjab Kings
+1529279,2026-04-25,2026,Rajasthan Royals,Sunrisers Hyderabad,Sunrisers Hyderabad,,5,,False,Rajasthan Royals,Sunrisers Hyderabad
+1529280,2026-04-26,2026,Chennai Super Kings,Gujarat Titans,Gujarat Titans,,8,,False,Chennai Super Kings,Gujarat Titans
+1529281,2026-04-26,2026,Kolkata Knight Riders,Lucknow Super Giants,,,,,True,Kolkata Knight Riders,Lucknow Super Giants
+1529282,2026-04-27,2026,Delhi Capitals,Royal Challengers Bengaluru,Royal Challengers Bengaluru,,9,,False,Delhi Capitals,Royal Challengers Bengaluru
+1529283,2026-04-28,2026,Punjab Kings,Rajasthan Royals,Rajasthan Royals,,6,,False,Punjab Kings,Rajasthan Royals
+1529284,2026-04-29,2026,Mumbai Indians,Sunrisers Hyderabad,Sunrisers Hyderabad,,6,,False,Mumbai Indians,Sunrisers Hyderabad
+1529285,2026-04-30,2026,Royal Challengers Bengaluru,Gujarat Titans,Gujarat Titans,,4,,False,Royal Challengers Bengaluru,Gujarat Titans
+1529286,2026-05-01,2026,Rajasthan Royals,Delhi Capitals,Delhi Capitals,,7,,False,Rajasthan Royals,Delhi Capitals
+1529287,2026-05-02,2026,Mumbai Indians,Chennai Super Kings,Chennai Super Kings,,8,,False,Mumbai Indians,Chennai Super Kings
+1529288,2026-05-03,2026,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,,7,,False,Sunrisers Hyderabad,Kolkata Knight Riders
+1529289,2026-05-03,2026,Punjab Kings,Gujarat Titans,Gujarat Titans,,4,,False,Punjab Kings,Gujarat Titans
+1529290,2026-05-04,2026,Lucknow Super Giants,Mumbai Indians,Mumbai Indians,,6,,False,Lucknow Super Giants,Mumbai Indians
+1529291,2026-05-05,2026,Delhi Capitals,Chennai Super Kings,Chennai Super Kings,,8,,False,Delhi Capitals,Chennai Super Kings
+1529292,2026-05-06,2026,Sunrisers Hyderabad,Punjab Kings,Sunrisers Hyderabad,33,,,False,Sunrisers Hyderabad,Punjab Kings
+1529293,2026-05-07,2026,Lucknow Super Giants,Royal Challengers Bengaluru,Lucknow Super Giants,9,,D/L,False,Lucknow Super Giants,Royal Challengers Bengaluru
+1529294,2026-05-08,2026,Delhi Capitals,Kolkata Knight Riders,Kolkata Knight Riders,,8,,False,Delhi Capitals,Kolkata Knight Riders
+1529295,2026-05-09,2026,Gujarat Titans,Rajasthan Royals,Gujarat Titans,77,,,False,Gujarat Titans,Rajasthan Royals
+1529296,2026-05-10,2026,Lucknow Super Giants,Chennai Super Kings,Chennai Super Kings,,5,,False,Lucknow Super Giants,Chennai Super Kings
+1529297,2026-05-10,2026,Mumbai Indians,Royal Challengers Bengaluru,Royal Challengers Bengaluru,,2,,False,Mumbai Indians,Royal Challengers Bengaluru
+1529298,2026-05-11,2026,Punjab Kings,Delhi Capitals,Delhi Capitals,,3,,False,Punjab Kings,Delhi Capitals
+1529299,2026-05-12,2026,Gujarat Titans,Sunrisers Hyderabad,Gujarat Titans,82,,,False,Gujarat Titans,Sunrisers Hyderabad
+1529300,2026-05-13,2026,Kolkata Knight Riders,Royal Challengers Bengaluru,Royal Challengers Bengaluru,,6,,False,Kolkata Knight Riders,Royal Challengers Bengaluru
+1529301,2026-05-14,2026,Punjab Kings,Mumbai Indians,Mumbai Indians,,6,,False,Punjab Kings,Mumbai Indians
+1529302,2026-05-15,2026,Chennai Super Kings,Lucknow Super Giants,Lucknow Super Giants,,7,,False,Chennai Super Kings,Lucknow Super Giants
+1529303,2026-05-16,2026,Kolkata Knight Riders,Gujarat Titans,Kolkata Knight Riders,29,,,False,Kolkata Knight Riders,Gujarat Titans
+1529304,2026-05-17,2026,Royal Challengers Bengaluru,Punjab Kings,Royal Challengers Bengaluru,23,,,False,Royal Challengers Bengaluru,Punjab Kings
+1529305,2026-05-17,2026,Rajasthan Royals,Delhi Capitals,Delhi Capitals,,5,,False,Rajasthan Royals,Delhi Capitals
+1529306,2026-05-18,2026,Chennai Super Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,,5,,False,Chennai Super Kings,Sunrisers Hyderabad
+1529307,2026-05-19,2026,Lucknow Super Giants,Rajasthan Royals,Rajasthan Royals,,7,,False,Lucknow Super Giants,Rajasthan Royals
+1529308,2026-05-20,2026,Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,,4,,False,Mumbai Indians,Kolkata Knight Riders
+1529309,2026-05-21,2026,Gujarat Titans,Chennai Super Kings,Gujarat Titans,89,,,False,Gujarat Titans,Chennai Super Kings
+1529310,2026-05-22,2026,Sunrisers Hyderabad,Royal Challengers Bengaluru,Sunrisers Hyderabad,55,,,False,Sunrisers Hyderabad,Royal Challengers Bengaluru
+1529311,2026-05-23,2026,Lucknow Super Giants,Punjab Kings,Punjab Kings,,7,,False,Lucknow Super Giants,Punjab Kings
+1529312,2026-05-24,2026,Rajasthan Royals,Mumbai Indians,Rajasthan Royals,30,,,False,Rajasthan Royals,Mumbai Indians
+1529313,2026-05-24,2026,Delhi Capitals,Kolkata Knight Riders,Delhi Capitals,40,,,False,Delhi Capitals,Kolkata Knight Riders
+1535462,2026-05-26,2026,Royal Challengers Bengaluru,Gujarat Titans,Royal Challengers Bengaluru,92,,,False,Royal Challengers Bengaluru,Gujarat Titans
+1535463,2026-05-27,2026,Rajasthan Royals,Sunrisers Hyderabad,Rajasthan Royals,47,,,False,Rajasthan Royals,Sunrisers Hyderabad
+1535464,2026-05-29,2026,Rajasthan Royals,Gujarat Titans,Gujarat Titans,,7,,False,Rajasthan Royals,Gujarat Titans
+1535465,2026-05-31,2026,Gujarat Titans,Royal Challengers Bengaluru,Royal Challengers Bengaluru,,5,,False,Gujarat Titans,Royal Challengers Bengaluru

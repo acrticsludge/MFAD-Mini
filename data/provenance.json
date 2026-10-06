@@ -1,0 +1,13 @@
+{
+  "source_url": "https://cricsheet.org/downloads/ipl_json.zip",
+  "archive_name": "ipl_json.zip",
+  "cricsheet_version": "1.2.0",
+  "utc_fetch_date": "2026-10-02",
+  "http_status": "not recorded (archive not retained on this machine)",
+  "sha256": "b4469dc412d93118d83097cf8aff03a297b9b850bc8e005dd67d61b1627478af",
+  "sha256_covers": "deterministic manifest of extracted files: sorted '<relpath>:<size>' lines",
+  "row_count": 1243,
+  "file_count": 1243,
+  "licence": "Undetermined for the match data, and deliberately not asserted. No licence statement for Cricsheet match data was found on cricsheet.org; the site's /licence/ path returns 404. The only explicit ODC-BY statement on the site covers the separate Register dataset, not match data. Four third-party sites assert ODC-BY 1.0 for match data, which is corroboration but not proof, because none of them is the primary source. Attribution is therefore by file name and URL only: ipl_json.zip from https://cricsheet.org/downloads/ipl_json.zip, Cricsheet JSON format version 1.2.0.",
+  "notes": "The downloaded ipl_json.zip is not retained on this machine, only its extracted contents, so the archive's own SHA-256 could not be computed. This hash covers instead a deterministic manifest of the extracted file set: every *.json file under ipl_json/, named by its path relative to ipl_json/, sorted lexicographically, hashed as the UTF-8 concatenation of '<relpath>:<size_in_bytes>' lines each terminated by a newline. It is a check on the extracted snapshot, not a substitute for the archive digest. Re-running the builder on the same extraction reproduces it; adding, editing or deleting any file changes it."
+}

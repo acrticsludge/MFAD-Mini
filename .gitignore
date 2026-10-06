@@ -1,0 +1,34 @@
+# Virtualenv — never commit
+.venv/
+venv/
+env/
+
+# Python bytecode and caches
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+build/
+dist/
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Scratch
+scratch/
+*.tmp
+*.log
+
+# NOTE: ipl_json/ is deliberately NOT ignored here.
+# The raw Cricsheet snapshot (1,243 files) is already staged in this
+# repository's history and is the provenance source for data/matches.csv.
+# It is kept so the committed CSV can be re-derived from a clean clone.
+# data/matches.csv and data/provenance.json are REQUIRED inputs and must be
+# tracked — the demo reads only the CSV and never the network, and a clone
+# without it exits 2 with a message telling you to run scripts/build_snapshot.py.
+# They are generated, but generated-and-committed on purpose.
