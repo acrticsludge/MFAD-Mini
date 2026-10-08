@@ -17,6 +17,7 @@ step.
 | [08](08-module-map.md) | Which source file does which job, plus the data flow | reference |
 | [09](09-troubleshooting.md) | Error messages and their fixes | as needed |
 | [10](10-known-issues.md) | **Open audit findings**, including a probable sign-convention defect | read before the viva |
+| [11](11-figures-and-report.md) | What each figure and each report block actually shows | reference |
 
 ## Quick path
 
