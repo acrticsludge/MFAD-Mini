@@ -6,8 +6,8 @@
 
 ## What Is This Project?
 
-**Course:** UE25MA242A — Mathematical Foundation for AI & Data Science (PES University)  
-**Marks:** 10 total — 5 for the live demo, 5 for the viva (questions)  
+**Course:** UE25MA242A — Mathematical Foundation for AI & Data Science (PES University)
+**Marks:** 10 total — 5 for the live demo, 5 for the viva (questions)
 **The task:** Gilbert Strang's Problem #5 — "rank teams using linear equations" — but with IPL cricket instead of American college football.
 
 **The idea:** Use linear algebra to rank IPL teams from match score margins. Show that this ranking **disagrees** with the official IPL points table, and explain exactly why.
@@ -31,19 +31,19 @@ This is recorded in the report's checklist. Until the instructor answers **in wr
 
 Downloaded from **Cricsheet** (ipl_json.zip, v1.2.0, fetched 2026-10-02).
 
-| Thing | Count |
-|-------|-------|
-| Total matches | 1,243 |
-| Different team names in raw data | 19 |
-| Actual franchises (after merging renames) | **15** |
-| Matches with a clear winner | 1,218 |
-| Ties (Super Over) | 16 |
-| Abandoned (no result) | 9 |
-| **Matches with run margin** | **558** |
-| Matches with only wicket margin | 660 |
-| D/L method matches | 23 |
+| Thing                                     | Count   |
+| ----------------------------------------- | ------- |
+| Total matches                             | 1,243   |
+| Different team names in raw data          | 19      |
+| Actual franchises (after merging renames) | **15**  |
+| Matches with a clear winner               | 1,218   |
+| Ties (Super Over)                         | 16      |
+| Abandoned (no result)                     | 9       |
+| **Matches with run margin**               | **558** |
+| Matches with only wicket margin           | 660     |
+| D/L method matches                        | 25      |
 
-**Why this matters:** Only 558 matches have a run margin (e.g., "won by 23 runs"). The other 660 only say "won by 4 wickets" — no run number exists. **You cannot build one big margin model on all 1,243 matches.** That's why we run **two separate models** on **two different datasets** — and their disagreement *is* the finding.
+**Why this matters:** Only 558 matches have a run margin (e.g., "won by 23 runs"). The other 660 only say "won by 4 wickets" — no run number exists. **You cannot build one big margin model on all 1,243 matches.** That's why we run **two separate models** on **two different datasets** — and their disagreement _is_ the finding.
 
 ---
 
@@ -51,14 +51,15 @@ Downloaded from **Cricsheet** (ipl_json.zip, v1.2.0, fetched 2026-10-02).
 
 19 raw names → 15 franchises by merging exactly **4 rename pairs**:
 
-| Raw names | Becomes |
-|-----------|---------|
-| Delhi Daredevils / Delhi Capitals | Delhi Capitals |
-| Kings XI Punjab / Punjab Kings | Punjab Kings |
-| Royal Challengers Bangalore / Bengaluru | Royal Challengers Bengaluru |
-| Rising Pune Supergiants (2016) / Supergiant (2017) | Rising Pune Supergiant |
+| Raw names                                          | Becomes                     |
+| -------------------------------------------------- | --------------------------- |
+| Delhi Daredevils / Delhi Capitals                  | Delhi Capitals              |
+| Kings XI Punjab / Punjab Kings                     | Punjab Kings                |
+| Royal Challengers Bangalore / Bengaluru            | Royal Challengers Bengaluru |
+| Rising Pune Supergiants (2016) / Supergiant (2017) | Rising Pune Supergiant      |
 
 **We deliberately did NOT merge:**
+
 - Gujarat Lions → Gujarat Titans (different franchises)
 - Deccan Chargers → Sunrisers Hyderabad (different franchises)
 
@@ -90,12 +91,12 @@ Builds matrices → Runs 11 stages → Prints terminal + saves 13 charts + write
 
 ## The Two Models (Core Insight)
 
-| Model | Data Used | Method |
-|-------|-----------|--------|
-| **Massey** | 558 matches with run margins | Least squares: solve `A x ≈ b` for team strengths |
-| **Colley-style** | All 1,218 decided matches | Eigenvector of win/loss matrix (who beat whom) |
+| Model            | Data Used                    | Method                                           |
+| ---------------- | ---------------------------- | ------------------------------------------------ |
+| **Massey**       | 558 matches with run margins | Least squares: solve`A x ≈ b` for team strengths |
+| **Colley-style** | All 1,218 decided matches    | Eigenvector of win/loss matrix (who beat whom)   |
 
-**They answer different questions on different data.** Massey uses *score margins*. Colley uses only *wins and losses*. They **disagree** — that's the discovery.
+**They answer different questions on different data.** Massey uses _score margins_. Colley uses only _wins and losses_. They **disagree** — that's the discovery.
 
 ---
 
@@ -103,36 +104,36 @@ Builds matrices → Runs 11 stages → Prints terminal + saves 13 charts + write
 
 The course mandates 11 stages in this exact order. The demo walks through all of them, printing formulas, live numbers, and a verdict at each step. Each stage also saves a chart.
 
-| # | Stage | What Happens (Plain English) |
-|---|-------|------------------------------|
-| 1 | **Real-world data** | Split 1,243 matches: 558 have run margins, 660 only wickets, 25 no winner. Say the exclusions out loud. |
-| 2 | **Matrix representation** | Build matrix `A` (558 × 15) — one row per match, +1 for winner, −1 for loser. Vector `b` = signed run margin. |
-| 3 | **Matrix simplification** | Hand-written Gauss–Jordan elimination (RREF). Shows only 14 of 15 columns are independent. |
-| 4 | **Structure of the space** | Rank = 14, nullity = 1. The "missing direction" is adding the same number to every team — changes nothing. This is why the model has no intercept. |
-| 5 | **Remove redundancy** | Of 558 equations, only 14 are independent. The other 544 are just combinations. Linear dependence made visible. |
-| 6 | **Orthogonalization** | Two different spaces: (1) QR on columns of `A` → spans column space. (2) Gram–Schmidt on rows → spans row space. **They are not the same.** |
-| 7 | **Projection** | Least squares = orthogonal projection. The residual (error) is perpendicular to every direction in the column space. |
-| 8 | **Prediction / Least squares** | Three solution methods agree. **Centred R² = −0.21** (negative!), winner accuracy 55% vs 78% baseline. Adding an intercept only gets R² to +0.02. The margin model has **negative skill**. |
-| 9 | **Pattern discovery** | Power iteration on win/loss matrix. Converges fast (λ₁/λ₂ ≈ 32). All team shares strictly positive (math guarantees this because the fixture graph is connected). |
-| 10 | **System simplification** | `AᵀA` eigenvalues = squared singular values of `A`. Same rank-14 fact, viewed through symmetry. |
-| 11 | **Final output** | Two rankings side by side. **Colley tracks official table (Spearman +0.94). Massey doesn't (+0.09). They're uncorrelated (0.00).** Frequency-balancing hypothesis tested and **refuted** (makes things worse). |
+| #   | Stage                          | What Happens (Plain English)                                                                                                                                                                                  |
+| --- | ------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1   | **Real-world data**            | Split 1,243 matches: 558 have run margins, 660 only wickets, 25 no winner. Say the exclusions out loud.                                                                                                       |
+| 2   | **Matrix representation**      | Build matrix`A` (558 × 15) — one row per match, +1 for winner, −1 for loser. Vector `b` = signed run margin.                                                                                                  |
+| 3   | **Matrix simplification**      | Hand-written Gauss–Jordan elimination (RREF). Shows only 14 of 15 columns are independent.                                                                                                                    |
+| 4   | **Structure of the space**     | Rank = 14, nullity = 1. The "missing direction" is adding the same number to every team — changes nothing. This is why the model has no intercept.                                                            |
+| 5   | **Remove redundancy**          | Of 558 equations, only 14 are independent. The other 544 are just combinations. Linear dependence made visible.                                                                                               |
+| 6   | **Orthogonalization**          | Two different spaces: (1) QR on columns of`A` → spans column space. (2) Gram–Schmidt on rows → spans row space. **They are not the same.**                                                                    |
+| 7   | **Projection**                 | Least squares = orthogonal projection. The residual (error) is perpendicular to every direction in the column space.                                                                                          |
+| 8   | **Prediction / Least squares** | Three solution methods agree.**Centred R² = −0.21** (negative!), winner accuracy 55% vs 78% baseline. Adding an intercept only gets R² to +0.02. The margin model has **negative skill**.                     |
+| 9   | **Pattern discovery**          | Power iteration on win/loss matrix. Converges fast (λ₁/λ₂ ≈ 32). All team shares strictly positive (math guarantees this because the fixture graph is connected).                                             |
+| 10  | **System simplification**      | `AᵀA` eigenvalues = squared singular values of `A`. Same rank-14 fact, viewed through symmetry.                                                                                                               |
+| 11  | **Final output**               | Two rankings side by side.**Colley tracks official table (Spearman +0.94). Massey doesn't (+0.09). They're uncorrelated (0.00).** Frequency-balancing hypothesis tested and **refuted** (makes things worse). |
 
 ---
 
 ## The Numbers (Measured, Not Claimed)
 
-| Metric | Value |
-|--------|-------|
-| Centred R² (Massey) | **−0.21** |
-| Uncentred R² | +0.02 |
-| With intercept added | +0.02 (still no signal) |
-| Winner accuracy | **55%** |
-| Majority-class baseline | **78%** |
-| Noise / Signal ratio | **6.8×** (error is nearly 7× the signal) |
-| Held-out test accuracy | 43% (degenerate split) |
-| Colley vs Official table | **Spearman +0.94** |
-| Massey vs Official table | +0.09 |
-| Massey vs Colley | **0.00** (exactly uncorrelated) |
+| Metric                   | Value                                    |
+| ------------------------ | ---------------------------------------- |
+| Centred R² (Massey)      | **−0.21**                                |
+| Uncentred R²             | +0.02                                    |
+| With intercept added     | +0.02 (still no signal)                  |
+| Winner accuracy          | **55%**                                  |
+| Majority-class baseline  | **78%**                                  |
+| Noise / Signal ratio     | **6.8×** (error is nearly 7× the signal) |
+| Held-out test accuracy   | 43% (degenerate split)                   |
+| Colley vs Official table | **Spearman +0.94**                       |
+| Massey vs Official table | +0.09                                    |
+| Massey vs Colley         | **0.00** (exactly uncorrelated)          |
 
 **Bottom line:** Score margins in IPL don't carry ranking signal. Win/loss does.
 
@@ -141,52 +142,59 @@ The course mandates 11 stages in this exact order. The demo walks through all of
 ## How To Run It
 
 **One-time setup:**
+
 ```bash
 pip install numpy pandas matplotlib pytest
 ```
 
 **Build the data snapshot (rarely):**
+
 ```bash
 python ipl-power-ranking/scripts/build_snapshot.py
 ```
 
 **Run the demo (every time):**
+
 ```bash
 python ipl-power-ranking/scripts/run_demo.py --offline
 ```
+
 Takes ~15 seconds. Produces terminal walkthrough + 13 PNG charts + `report/report.html`.
 
 **Run tests (every change):**
+
 ```bash
 cd ipl-power-ranking && python -m pytest -q
 ```
+
 235 tests, ~70 seconds. Every number in the demo is pinned by a test.
 
 ---
 
 ## What The Charts Show (13 Figures)
 
-| Figure | Title | One-Line Takeaway |
-|--------|-------|-------------------|
-| 01-data.png | Data funnel | 1,243 → 558 run / 660 wicket / 25 excluded — stated out loud |
-| 02-design-matrix.png | Design matrix heatmap | One match = one equation; rows sum to zero (two non-zeros) |
-| 03-rref.png | RREF | Only 14 pivot columns — rank measured, not asserted |
-| 04-structure.png | Singular spectrum | 14 non-zero, 1 exact zero → rank 14, nullity 1 |
-| 05-redundancy.png | Pivot vs dependent rows | 14 independent equations, 544 combinations |
-| 06-qr.png | Two spaces | QR orthogonalises columns; Gram–Schmidt orthogonalises rows — different spaces |
-| 07-projection.png | Projection check | Residual ⟂ column space; residual 6.8× longer than projected part |
-| 08-least-squares.png | Fit vs actual | Cigar cloud tilted wrong way; both R² shown; winner accuracy 55% vs 78% baseline |
-| 09-eigen.png | Power iteration | λ₁ dominates (32× λ₂); converges; all shares > 0 (Perron–Frobenius) |
-| 10-diagonalisation.png | SVD vs eig | Eigenvalues of AᵀA = squared singular values of A |
-| 11-ranking.png | Two rankings | Massey ±2SE whiskers beside Colley shares |
-| 12-findings.png | Coefficient stats | No t-stat reaches 2σ; games played vs |strength| |
-| 13-divergence.png | **Payoff figure** | Official vs Massey vs Colley — Colley tracks official (+0.94), Massey doesn't (+0.09), they're uncorrelated (0.00) |
+| Figure                 | Title                   | One-Line Takeaway                                                                                                  |
+| ---------------------- | ----------------------- | ------------------------------------------------------------------------------------------------------------------ |
+| 01-data.png            | Data funnel             | 1,243 → 558 run / 660 wicket / 25 excluded — stated out loud                                                       |
+| 02-design-matrix.png   | Design matrix heatmap   | One match = one equation; rows sum to zero (two non-zeros)                                                         |
+| 03-rref.png            | RREF                    | Only 14 pivot columns — rank measured, not asserted                                                                |
+| 04-structure.png       | Singular spectrum       | 14 non-zero, 1 exact zero → rank 14, nullity 1                                                                     |
+| 05-redundancy.png      | Pivot vs dependent rows | 14 independent equations, 544 combinations                                                                         |
+| 06-qr.png              | Two spaces              | QR orthogonalises columns; Gram–Schmidt orthogonalises rows — different spaces                                     |
+| 07-projection.png      | Projection check        | Residual ⟂ column space; residual 6.8× longer than projected part                                                  |
+| 08-least-squares.png   | Fit vs actual           | Cigar cloud tilted wrong way; both R² shown; winner accuracy 55% vs 78% baseline                                   |
+| 09-eigen.png           | Power iteration         | λ₁ dominates (32× λ₂); converges; all shares > 0 (Perron–Frobenius)                                                |
+| 10-diagonalisation.png | SVD vs eig              | Eigenvalues of AᵀA = squared singular values of A                                                                  |
+| 11-ranking.png         | Two rankings            | Massey ±2SE whiskers beside Colley shares                                                                          |
+| 12-findings.png        | Coefficient stats       | No t-stat reaches 2σ; games played vs                                                                              |
+| 13-divergence.png      | **Payoff figure**       | Official vs Massey vs Colley — Colley tracks official (+0.94), Massey doesn't (+0.09), they're uncorrelated (0.00) |
 
 ---
 
 ## The Report (report/report.html)
 
 Self-contained HTML (~2.4 MB). **No external resources** — works offline. Sections:
+
 1. Blocker banner (the open instructor question)
 2. 11 stages — formula + chart each
 3. R² block (both denominators + intercept correction)
@@ -200,16 +208,19 @@ Self-contained HTML (~2.4 MB). **No external resources** — works offline. Sect
 ## Known Issues (Be Ready For These)
 
 ### 1. Sign Convention Bug (Measured, Not Fixed)
-**Current code:** The matrix row always credits the *first-listed team* with the win, regardless of who actually won.  
-**Affects:** 123 of 558 rows.  
-**Probe with fixed convention shows:** Spearman(Massey,Colley) jumps from 0.00 → 0.44; Massey vs Official from 0.09 → 0.60.  
-**Impact:** Several headline numbers may be artefacts of this bug, not real findings.  
+
+**Current code:** The matrix row always credits the _first-listed team_ with the win, regardless of who actually won.
+**Affects:** 123 of 558 rows.
+**Probe with fixed convention shows:** Spearman(Massey,Colley) jumps from 0.00 → 0.44; Massey vs Official from 0.09 → 0.60.
+**Impact:** Several headline numbers may be artefacts of this bug, not real findings.
 **Status:** Documented, not fixed. Fix would touch code + tests + all narration — a deliberate run, not a quick patch.
 
 ### 2. `python -m iplranking` Doesn't Work Directly
+
 Use the launcher: `python ipl-power-ranking/scripts/run_demo.py --offline`
 
 ### 3. "Official Table" Is Computed, Not Published
+
 2 points per win from our snapshot, all 19 seasons, no-winner matches excluded. Super Over ties get 0 here (real IPL gives 1 each). **Say this in viva.**
 
 ---
@@ -259,7 +270,7 @@ python ipl-power-ranking/scripts/run_demo.py --offline
 ## The 30-Second Story (What The Teacher Hears)
 
 1. Strang asks for least-squares ranking from score margins. We kept the math, used IPL data.
-2. **Only 558 of 1,243 matches have run margins.** So we *had* to run two models: Massey on margins (558 matches), Colley on win/loss (1,218 matches).
+2. **Only 558 of 1,243 matches have run margins.** So we _had_ to run two models: Massey on margins (558 matches), Colley on win/loss (1,218 matches).
 3. **The margin model fails.** Centred R² = −0.21. Winner accuracy 55% vs 78% baseline. The math (no intercept possible) guarantees this failure — it's structural, not noise.
 4. **The win/loss model works.** Colley correlates +0.94 with the official table. Massey correlates +0.09. They're uncorrelated with each other (0.00).
 5. **The finding:** In IPL, score margins don't carry ranking signal. Win/loss does. The connected fixture graph guarantees the eigenvector is meaningful.
@@ -274,4 +285,20 @@ python ipl-power-ranking/scripts/run_demo.py --offline
 
 ---
 
+## Where the Algorithm Would Be Unfair
+
+- **Wicket-only matches excluded from Massey:** 660 matches have only wicket margins (no run figure). Teams with many close games decided by wickets get less representation in the ranking model.
+- **Margin sign convention bug:** The code always credits the first-listed team with the win. Affects 123 of 558 rows — could systematically benefit or penalize certain teams depending on listing order in the CSV.
+- **Only 558 of 1,243 matches have run margins:** Teams in lower-scoring seasons or with different playing styles get fewer data points, biasing the ranking.
+- **No home/venue adjustment:** Linear equations treat Chennai vs Mumbai the same regardless of venue, but home-ground advantage is real in IPL.
+- **Franchise mergers create uneven histories:** Delhi Capitals inherits Delhi Daredevils data; some franchises have 2+ seasons of data under different names, others less.
+- **Super Over ties get 0 points in computed official table vs 1 in real IPL:** The comparison table uses a slightly different points system, making direct fairness comparisons tricky.
+- **Held-out test degeneracy from 2018 onward:** The model's predictive power vanishes for recent seasons — not unfair per se, but means rankings from 2014–2017 don't generalise.
+- **Fixture graph connected only for modelling subsets:** The Perron–Frobenius guarantee (all-positive shares) holds only when the win/loss graph is one component — which is true for the full 1,218-match set but not for arbitrary small subsets.
+- **Season normalisation hides trends:** Mixed `int`/`str` season types mean a naive reader could count 24 seasons instead of 19, potentially misreading temporal trends.
+
+---
+
 **That's it.** This document + the demo + the report = everything you need for the 5-mark demo and 5-mark viva.
+
+
