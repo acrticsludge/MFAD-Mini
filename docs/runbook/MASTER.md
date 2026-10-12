@@ -43,7 +43,7 @@ Downloaded from **Cricsheet** (ipl_json.zip, v1.2.0, fetched 2026-10-02).
 | Matches with only wicket margin           | 660     |
 | D/L method matches                        | 25      |
 
-**Why this matters:** Only 558 matches have a run margin (e.g., "won by 23 runs"). The other 660 only say "won by 4 wickets" — no run number exists. **You cannot build one big margin model on all 1,243 matches.** That's why we run **two separate models** on **two different datasets** — and their disagreement _is_ the finding.
+**Why this matters:** Only 558 matches have a run margin (e.g., "won by 23 runs"). Th e other 660 only say "won by 4 wickets" — no run number exists. **You cannot build one big margin model on all 1,243 matches.** That's why we run **two separate models** on **two different datasets** — and their disagreement _is_ the finding.
 
 ---
 
@@ -300,5 +300,3 @@ python ipl-power-ranking/scripts/run_demo.py --offline
 ---
 
 **That's it.** This document + the demo + the report = everything you need for the 5-mark demo and 5-mark viva.
-
-

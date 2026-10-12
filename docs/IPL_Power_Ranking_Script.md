@@ -71,7 +71,7 @@ Diagonalisation simplifies the problem. A transpose A is a 15 by 15 symmetric po
 
 ### Slide 12: Stage 11, Ranking with both models (~45 s)
 
-Now the final output. On the left, Massey: every one of the 15 coefficients lies within two standard errors of zero, the largest t-value is only 1.2. The most extreme ones, Kochi and Gujarat Lions, come from just 5 matches each. On the right, Colley gives all-positive shares, with Mumbai, Bangalore, Kolkata and Delhi on top.
+Now the final output. On the left, Massey: every one of the 15 coefficients lies within two standard errors of zero, the largest t-value is only 1.2ches each. On the right, Colley gives all-positive shares, with Mumbai, Bangalore, Kolkata and Delhi on top.
 
 ### Slide 13: Stage 11, Checking the official table (~35 s)
 
